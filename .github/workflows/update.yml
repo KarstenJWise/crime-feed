@@ -1,0 +1,34 @@
+name: update-feed
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feed
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build feed
+        run: python3 update_feed.py
+      - name: Save feed
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.xml state.json
+          if git diff --cached --quiet -- state.json; then
+            echo "no new incidents"
+          else
+            git commit -m "update feed"
+            git pull --rebase
+            git push
+          fi
