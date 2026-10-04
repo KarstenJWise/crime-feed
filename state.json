@@ -1,5 +1,61 @@
 [
  {
+  "id": "26923_1791149056_zlpusyys-physical-fight-in-parking-lot-at-benny-s-espresso",
+  "ts": 1791149056,
+  "title": "Physical fight in parking lot at Benny\u2019s Espresso",
+  "address": "E 800 N, Orem, UT 84097",
+  "category": "Assault Report",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791149056_zlpusyys-physical-fight-in-parking-lot-at-benny-s-espresso"
+ },
+ {
+  "id": "26923_1791147824_ckufarcd-paperwork-check-on-tesla-at-orem-condominium",
+  "ts": 1791147824,
+  "title": "Paperwork check on Tesla at Orem condominium",
+  "address": "N 360 E, Orem, UT 84057",
+  "category": "Other Incidents",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791147824_ckufarcd-paperwork-check-on-tesla-at-orem-condominium"
+ },
+ {
+  "id": "26923_1791146001_ahmcpjrl-traffic-stop-on-vehicle-turning-onto-main-street",
+  "ts": 1791146001,
+  "title": "Traffic stop on vehicle turning onto Main Street",
+  "address": "S Main St, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791146001_ahmcpjrl-traffic-stop-on-vehicle-turning-onto-main-street"
+ },
+ {
+  "id": "12042-2261_1791142468_ofprucfd-60-year-old-female-injured-after-fall-at-orchard-park",
+  "ts": 1791142468,
+  "title": "60-year-old female injured after fall at Orchard Park",
+  "address": "300 E, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/12042-2261_1791142468_ofprucfd-60-year-old-female-injured-after-fall-at-orchard-park"
+ },
+ {
+  "id": "26923_1791141009_wqggqoqm-welfare-check-on-south-colorado-avenue",
+  "ts": 1791141009,
+  "title": "Welfare check on South Colorado Avenue",
+  "address": "Colorado Ave, Provo, UT 84606",
+  "category": "Welfare Check",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791141009_wqggqoqm-welfare-check-on-south-colorado-avenue"
+ },
+ {
+  "id": "26923_1791140369_dwlqanqn-person-with-dry-mouth-and-urination-difficulty-in-orem",
+  "ts": 1791140369,
+  "title": "Person with dry mouth and urination difficulty in Orem",
+  "address": "S 190 W, Orem, UT 84058",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791140369_dwlqanqn-person-with-dry-mouth-and-urination-difficulty-in-orem"
+ },
+ {
+  "id": "26923_1791139014_tuqariop-traffic-crash-at-main-street-and-400-south",
+  "ts": 1791139014,
+  "title": "Traffic crash at Main Street and 400 South",
+  "address": "S Main St & E 400 S, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791139014_tuqariop-traffic-crash-at-main-street-and-400-south"
+ },
+ {
   "id": "12042-6216_1791138673_osybpcci-78-year-old-woman-in-extreme-leg-pain-at-care-facility",
   "ts": 1791138673,
   "title": "78-year-old woman in extreme leg pain at care facility",
@@ -262,61 +318,5 @@
   "address": "E University Pkwy, Orem, UT 84097",
   "category": "Medical Emergency",
   "link": "https://www.crimeradar.us/orem-ut/26923_1791085823_jvtvgcws-patient-receiving-care-near-macy-s-in-orem"
- },
- {
-  "id": "26923_1791084153_ianovrwr-young-female-transported-conscious-and-breathing",
-  "ts": 1791084153,
-  "title": "Young female transported conscious and breathing",
-  "address": "N 400 W St, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791084153_ianovrwr-young-female-transported-conscious-and-breathing"
- },
- {
-  "id": "26923_1791078004_srtdjvvx-missing-juvenile-located-in-provo",
-  "ts": 1791078004,
-  "title": "Missing juvenile located in Provo",
-  "address": "N 300 W, Provo, UT 84601",
-  "category": "Missing Person",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791078004_srtdjvvx-missing-juvenile-located-in-provo"
- },
- {
-  "id": "26923_1791077545_tjawlasy-two-vehicles-crash-near-600-west-main-in-provo",
-  "ts": 1791077545,
-  "title": "Two vehicles crash near 600 West Main in Provo",
-  "address": "Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791077545_tjawlasy-two-vehicles-crash-near-600-west-main-in-provo"
- },
- {
-  "id": "26923_1791076568_uxeieccc-traffic-stop-on-400-north-near-1000-west",
-  "ts": 1791076568,
-  "title": "Traffic stop on 400 North near 1000 West",
-  "address": "N & N 1000 W St, Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791076568_uxeieccc-traffic-stop-on-400-north-near-1000-west"
- },
- {
-  "id": "26923_1791076545_myetgtql-minor-crash-between-truck-and-van-on-west-center",
-  "ts": 1791076545,
-  "title": "Minor crash between truck and van on West Center",
-  "address": "W Center St, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791076545_myetgtql-minor-crash-between-truck-and-van-on-west-center"
- },
- {
-  "id": "26923_1791075539_yqtqbcup-officers-follow-vehicle-near-700-east-and-300-north",
-  "ts": 1791075539,
-  "title": "Officers follow vehicle near 700 East and 300 North",
-  "address": "N 700 E & E 300 N, Provo, UT 84606",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791075539_yqtqbcup-officers-follow-vehicle-near-700-east-and-300-north"
- },
- {
-  "id": "26923_1791074387_cnwwsjdn-civil-standby-for-item-pickup-in-orem",
-  "ts": 1791074387,
-  "title": "Civil standby for item pickup in Orem",
-  "address": "S 750 E, Orem, UT 84097",
-  "category": "Other Incidents",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791074387_cnwwsjdn-civil-standby-for-item-pickup-in-orem"
  }
 ]
