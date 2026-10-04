@@ -1,5 +1,77 @@
 [
  {
+  "id": "12042-6216_1791138673_osybpcci-78-year-old-woman-in-extreme-leg-pain-at-care-facility",
+  "ts": 1791138673,
+  "title": "78-year-old woman in extreme leg pain at care facility",
+  "address": "S Columbia Ln, Orem, UT 84097",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6216_1791138673_osybpcci-78-year-old-woman-in-extreme-leg-pain-at-care-facility"
+ },
+ {
+  "id": "26923_1791138432_ekgxvpmz-78-year-old-woman-with-severe-leg-pain-at-aspen-ridge",
+  "ts": 1791138432,
+  "title": "78-year-old woman with severe leg pain at Aspen Ridge",
+  "address": "S Columbia Ln, Orem, UT 84097",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791138432_ekgxvpmz-78-year-old-woman-with-severe-leg-pain-at-aspen-ridge"
+ },
+ {
+  "id": "12042-2261_1791136075_xmyuysnm-female-psychiatric-patient-transported-to-utah-valley-hospital",
+  "ts": 1791136075,
+  "title": "Female psychiatric patient transported to Utah Valley Hospital",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/12042-2261_1791136075_xmyuysnm-female-psychiatric-patient-transported-to-utah-valley-hospital"
+ },
+ {
+  "id": "26923_1791135693_mgaljugx-person-recovering-from-covid-is-stiff-and-unable-to-move",
+  "ts": 1791135693,
+  "title": "Person recovering from COVID is stiff and unable to move",
+  "address": "S 1000 W, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791135693_mgaljugx-person-recovering-from-covid-is-stiff-and-unable-to-move"
+ },
+ {
+  "id": "26923_1791134019_fyvafofk-bear-reported-in-a-tree-at-canyon-crest-elementary",
+  "ts": 1791134019,
+  "title": "Bear reported in a tree at Canyon Crest Elementary",
+  "address": "N Canyon Rd, Provo, UT 84604",
+  "category": "Other Non-Crime Event",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791134019_fyvafofk-bear-reported-in-a-tree-at-canyon-crest-elementary"
+ },
+ {
+  "id": "26923_1791132078_gnyawulz-person-experiencing-labored-breathing-and-chest-pain",
+  "ts": 1791132078,
+  "title": "Person experiencing labored breathing and chest pain",
+  "address": "Terrace Dr, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791132078_gnyawulz-person-experiencing-labored-breathing-and-chest-pain"
+ },
+ {
+  "id": "26923_1791130836_necfjtbm-person-with-kidney-infection-and-fever-in-provo-rehab",
+  "ts": 1791130836,
+  "title": "Person with kidney infection and fever in Provo rehab",
+  "address": "N 500 W St, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791130836_necfjtbm-person-with-kidney-infection-and-fever-in-provo-rehab"
+ },
+ {
+  "id": "26923_1791130500_mjndebem-traffic-stop-on-vehicle-near-410-north-800-east",
+  "ts": 1791130500,
+  "title": "Traffic stop on vehicle near 410 North 800 East",
+  "address": "800 E, Provo, UT 84606",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791130500_mjndebem-traffic-stop-on-vehicle-near-410-north-800-east"
+ },
+ {
+  "id": "26923_1791127831_vaagcqpu-elderly-man-ill-vomited-blood-near-orem",
+  "ts": 1791127831,
+  "title": "Elderly man ill, vomited blood near Orem",
+  "address": "E Center St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791127831_vaagcqpu-elderly-man-ill-vomited-blood-near-orem"
+ },
+ {
   "id": "26923_1791126671_lahkjhff-woman-with-low-blood-pressure-and-dizziness-at-care-facility",
   "ts": 1791126671,
   "title": "Woman with low blood pressure and dizziness at care facility",
@@ -246,77 +318,5 @@
   "address": "S 750 E, Orem, UT 84097",
   "category": "Other Incidents",
   "link": "https://www.crimeradar.us/orem-ut/26923_1791074387_cnwwsjdn-civil-standby-for-item-pickup-in-orem"
- },
- {
-  "id": "26923_1791073711_pbkmaoju-medical-response-near-aspen-grove-parking-lot-canceled",
-  "ts": 1791073711,
-  "title": "Medical response near Aspen Grove parking lot canceled",
-  "address": "Aspen Grove Parking, Unnamed Road, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791073711_pbkmaoju-medical-response-near-aspen-grove-parking-lot-canceled"
- },
- {
-  "id": "26923_1791073343_ltqlhvip-traffic-stop-at-chick-fil-a-parking-lot",
-  "ts": 1791073343,
-  "title": "Traffic stop at Chick-fil-A parking lot",
-  "address": "AprtD3181225, 1000 S, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791073343_ltqlhvip-traffic-stop-at-chick-fil-a-parking-lot"
- },
- {
-  "id": "26923_1791073251_hoqmunsl-teen-struck-by-vehicle-on-west-center-street",
-  "ts": 1791073251,
-  "title": "Teen struck by vehicle on West Center Street",
-  "address": "W Center St, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791073251_hoqmunsl-teen-struck-by-vehicle-on-west-center-street"
- },
- {
-  "id": "26923_1791073180_lyuwmpxh-traffic-crash-with-injury-in-orem",
-  "ts": 1791073180,
-  "title": "Traffic crash with injury in Orem",
-  "address": "S 220 W St, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791073180_lyuwmpxh-traffic-crash-with-injury-in-orem"
- },
- {
-  "id": "26923_1791072886_pnyovuts-report-of-erratic-truck-using-blue-lights-at-red-light",
-  "ts": 1791072886,
-  "title": "Report of erratic truck using blue lights at red light",
-  "address": "N & E Provo Canyon Rd, Orem, UT 84097",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791072886_pnyovuts-report-of-erratic-truck-using-blue-lights-at-red-light"
- },
- {
-  "id": "26923_1791071529_hbhhtlhd-woman-asks-for-help-at-provo-store-after-traffic-stop",
-  "ts": 1791071529,
-  "title": "Woman asks for help at Provo store after traffic stop",
-  "address": "N 1100 W St & W 100 N, Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791071529_hbhhtlhd-woman-asks-for-help-at-provo-store-after-traffic-stop"
- },
- {
-  "id": "26923_1791071529_hbhhtlhd-woman-asks-for-help-to-avoid-trip-up-canyon",
-  "ts": 1791071529,
-  "title": "Woman asks for help to avoid trip up canyon",
-  "address": "W 100 N, Provo, UT 84601",
-  "category": "Missing Person",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791071529_hbhhtlhd-woman-asks-for-help-to-avoid-trip-up-canyon"
- },
- {
-  "id": "26923_1791066915_wcrhfzuc-traffic-stop-involving-chevy-truck-in-orem",
-  "ts": 1791066915,
-  "title": "Traffic stop involving Chevy truck in Orem",
-  "address": "W & 800 N, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791066915_wcrhfzuc-traffic-stop-involving-chevy-truck-in-orem"
- },
- {
-  "id": "26923_1791064142_jwcslznp-gate-stuck-open-behind-ellsworth-building",
-  "ts": 1791064142,
-  "title": "Gate stuck open behind Ellsworth building",
-  "address": "Leo B. Ellsworth Building, 150 W 2230 N, Provo, UT 84604",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791064142_jwcslznp-gate-stuck-open-behind-ellsworth-building"
  }
 ]
