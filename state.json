@@ -1,5 +1,117 @@
 [
  {
+  "id": "26923_1791443455_jhgouhkv-traffic-stop-at-fifth-north-and-500-west",
+  "ts": 1791443455,
+  "title": "Traffic stop at Fifth North and 500 West",
+  "address": "S 500 W, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791443455_jhgouhkv-traffic-stop-at-fifth-north-and-500-west"
+ },
+ {
+  "id": "26923_1791443130_pimdlgfi-false-alarm-at-commercial-building-in-orem",
+  "ts": 1791443130,
+  "title": "False alarm at commercial building in Orem",
+  "address": "S Sleepy Ridge Dr, Orem, UT 84058",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791443130_pimdlgfi-false-alarm-at-commercial-building-in-orem"
+ },
+ {
+  "id": "26923_1791438025_vfjnejli-two-vehicle-crash-with-injury-on-west-center-street",
+  "ts": 1791438025,
+  "title": "Two-vehicle crash with injury on West Center Street",
+  "address": "W Center St, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791438025_vfjnejli-two-vehicle-crash-with-injury-on-west-center-street"
+ },
+ {
+  "id": "26923_1791437768_tfnxdwdo-two-vehicle-crash-with-injuries-on-west-center-street",
+  "ts": 1791437768,
+  "title": "Two-vehicle crash with injuries on West Center Street",
+  "address": "W Center St, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791437768_tfnxdwdo-two-vehicle-crash-with-injuries-on-west-center-street"
+ },
+ {
+  "id": "12042-3701_1791437069_ejcyhxds-person-threatening-suicide-at-orem-transit-station",
+  "ts": 1791437069,
+  "title": "Person threatening suicide at Orem transit station",
+  "address": "Orem Station, Orem, UT 84058",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/12042-3701_1791437069_ejcyhxds-person-threatening-suicide-at-orem-transit-station"
+ },
+ {
+  "id": "26923_1791436564_hzwxnumv-concern-about-excited-group-at-fun-center-cleared",
+  "ts": 1791436564,
+  "title": "Concern about excited group at fun center cleared",
+  "address": "S State St, Orem, UT 84058",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791436564_hzwxnumv-concern-about-excited-group-at-fun-center-cleared"
+ },
+ {
+  "id": "26923_1791435146_jsujvzga-traffic-stop-at-100-east-and-400-south-in-provo",
+  "ts": 1791435146,
+  "title": "Traffic stop at 100 East and 400 South in Provo",
+  "address": "S & S 100 E, Provo, UT 84606",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791435146_jsujvzga-traffic-stop-at-100-east-and-400-south-in-provo"
+ },
+ {
+  "id": "26923_1791434360_mexoxfil-owner-argues-with-tow-truck-driver-on-canyon-road",
+  "ts": 1791434360,
+  "title": "Owner argues with tow truck driver on Canyon Road",
+  "address": "N Canyon Rd, Provo, UT 84604",
+  "category": "Disturbance",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791434360_mexoxfil-owner-argues-with-tow-truck-driver-on-canyon-road"
+ },
+ {
+  "id": "12042-6210_1791433869_nkzslxdo-welfare-check-after-teens-reportedly-left-in-car-while-adults-drink-in-orem",
+  "ts": 1791433869,
+  "title": "Welfare check after teens reportedly left in car while adults drink in Orem",
+  "address": "N 85 E St, Orem, UT 84057",
+  "category": "Substance Use",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1791433869_nkzslxdo-welfare-check-after-teens-reportedly-left-in-car-while-adults-drink-in-orem"
+ },
+ {
+  "id": "26923_1791433241_ticnckwa-open-door-found-at-front-of-affinity-business",
+  "ts": 1791433241,
+  "title": "Open door found at front of Affinity business",
+  "address": "S State St, Orem, UT 84058",
+  "category": "Break-In",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791433241_ticnckwa-open-door-found-at-front-of-affinity-business"
+ },
+ {
+  "id": "26923_1791429026_fwgyigva-ongoing-complaint-of-barking-dog-in-orem-yard",
+  "ts": 1791429026,
+  "title": "Ongoing complaint of barking dog in Orem yard",
+  "address": "N 40 W, Orem, UT 84057",
+  "category": "Disturbance",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791429026_fwgyigva-ongoing-complaint-of-barking-dog-in-orem-yard"
+ },
+ {
+  "id": "26923_1791428979_qpokaude-officer-requested-for-family-dispute-over-phone",
+  "ts": 1791428979,
+  "title": "Officer requested for family dispute over phone",
+  "address": "N 980 W, Orem, UT 84057",
+  "category": "Other Non-Crime",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791428979_qpokaude-officer-requested-for-family-dispute-over-phone"
+ },
+ {
+  "id": "26923_1791425939_ohwnmhqj-lifeguard-with-bloody-nose-and-lightheadedness-at-rec-center",
+  "ts": 1791425939,
+  "title": "Lifeguard with bloody nose and lightheadedness at rec center",
+  "address": "W Center St, Orem, UT 84058",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791425939_ohwnmhqj-lifeguard-with-bloody-nose-and-lightheadedness-at-rec-center"
+ },
+ {
+  "id": "26923_1791425475_ueybqksk-traffic-stop-in-chili-s-parking-lot",
+  "ts": 1791425475,
+  "title": "Traffic stop in Chili's parking lot",
+  "address": "E 1300 S, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791425475_ueybqksk-traffic-stop-in-chili-s-parking-lot"
+ },
+ {
   "id": "12042-6210_1791418531_buavejns-traffic-stop-at-osman-designs-parking-lot",
   "ts": 1791418531,
   "title": "Traffic stop at Osman Designs parking lot",
@@ -206,117 +318,5 @@
   "address": "Lakeshore Dr, Provo, UT 84601",
   "category": "Other Non-Crime Event",
   "link": "https://www.crimeradar.us/provo-ut/26923_1791404213_sfkocnwr-cat-trapped-in-car-engine-at-high-school"
- },
- {
-  "id": "26923_1791403330_mzsbumsg-officer-contacts-blue-motorcycle-on-800-north",
-  "ts": 1791403330,
-  "title": "Officer contacts blue motorcycle on 800 North",
-  "address": "N 980 W, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791403330_mzsbumsg-officer-contacts-blue-motorcycle-on-800-north"
- },
- {
-  "id": "26923_1791401004_maiefbhv-two-vehicle-crash-at-800-west-and-1250-south",
-  "ts": 1791401004,
-  "title": "Two-vehicle crash at 800 West and 1250 South",
-  "address": "W 1250 N & 800 W, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791401004_maiefbhv-two-vehicle-crash-at-800-west-and-1250-south"
- },
- {
-  "id": "12042-6210_1791400919_yadbnfbz-officers-search-for-missing-woman-at-winco-in-orem",
-  "ts": 1791400919,
-  "title": "Officers search for missing woman at WinCo in Orem",
-  "address": "N 980 W, Orem, UT 84057",
-  "category": "Missing Person",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1791400919_yadbnfbz-officers-search-for-missing-woman-at-winco-in-orem"
- },
- {
-  "id": "26923_1791400745_dmvejqjx-officers-monitor-vehicle-in-store-parking-lot",
-  "ts": 1791400745,
-  "title": "Officers monitor vehicle in store parking lot",
-  "address": "N 980 W, Orem, UT 84057",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791400745_dmvejqjx-officers-monitor-vehicle-in-store-parking-lot"
- },
- {
-  "id": "26923_1791400090_tnxigvzs-officers-check-for-possible-crash-near-retirement-home",
-  "ts": 1791400090,
-  "title": "Officers check for possible crash near retirement home",
-  "address": "N 800 W, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791400090_tnxigvzs-officers-check-for-possible-crash-near-retirement-home"
- },
- {
-  "id": "12042-5921_1791400020_sydpsuaa-suicidal-woman-last-seen-driving-with-possible-firearm",
-  "ts": 1791400020,
-  "title": "Suicidal woman last seen driving with possible firearm",
-  "address": "N 400 W St & 400 N, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/12042-5921_1791400020_sydpsuaa-suicidal-woman-last-seen-driving-with-possible-firearm"
- },
- {
-  "id": "26923_1791399948_cbbufoav-police-search-for-woman-who-may-have-silenced-gun",
-  "ts": 1791399948,
-  "title": "Police search for woman who may have silenced gun",
-  "address": "N 400 W St, Orem, UT 84057",
-  "category": "Weapons",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791399948_cbbufoav-police-search-for-woman-who-may-have-silenced-gun"
- },
- {
-  "id": "12042-6216_1791390179_duspkpux-man-with-chest-pain-and-lightheadedness-at-health-building",
-  "ts": 1791390179,
-  "title": "Man with chest pain and lightheadedness at health building",
-  "address": "N 500 W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6216_1791390179_duspkpux-man-with-chest-pain-and-lightheadedness-at-health-building"
- },
- {
-  "id": "26923_1791390123_zdpgwrpp-person-with-chest-pain-and-low-blood-pressure-in-provo",
-  "ts": 1791390123,
-  "title": "Person with chest pain and low blood pressure in Provo",
-  "address": "N 500 W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791390123_zdpgwrpp-person-with-chest-pain-and-low-blood-pressure-in-provo"
- },
- {
-  "id": "26923_1791389880_chgkwmmc-verbal-disturbance-at-northeast-corner-in-orem",
-  "ts": 1791389880,
-  "title": "Verbal disturbance at northeast corner in Orem",
-  "address": "E 1400 S, Orem, UT 84097",
-  "category": "Disturbance",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791389880_chgkwmmc-verbal-disturbance-at-northeast-corner-in-orem"
- },
- {
-  "id": "26923_1791389486_kwpcebcc-traffic-stops-on-south-state-street-in-orem",
-  "ts": 1791389486,
-  "title": "Traffic stops on South State Street in Orem",
-  "address": "S State St, Orem, UT 84097",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791389486_kwpcebcc-traffic-stops-on-south-state-street-in-orem"
- },
- {
-  "id": "26923_1791388047_phbhryow-traffic-stop-on-suv-without-license-plate",
-  "ts": 1791388047,
-  "title": "Traffic stop on SUV without license plate",
-  "address": "W 800 N, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791388047_phbhryow-traffic-stop-on-suv-without-license-plate"
- },
- {
-  "id": "26923_1791387527_xwyvmvsb-person-had-seizure-breathing-near-orem",
-  "ts": 1791387527,
-  "title": "Person had seizure, breathing near Orem",
-  "address": "S Mountain Way Dr, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791387527_xwyvmvsb-person-had-seizure-breathing-near-orem"
- },
- {
-  "id": "26923_1791387441_pvsiotuz-traffic-stop-for-trailer-with-no-license-plate",
-  "ts": 1791387441,
-  "title": "Traffic stop for trailer with no license plate",
-  "address": "S, Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791387441_pvsiotuz-traffic-stop-for-trailer-with-no-license-plate"
  }
 ]
