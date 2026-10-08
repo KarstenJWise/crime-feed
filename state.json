@@ -1,5 +1,45 @@
 [
  {
+  "id": "26923_1791462509_lhquwpgy-welfare-check-for-man-lying-in-traffic-lanes",
+  "ts": 1791462509,
+  "title": "Welfare check for man lying in traffic lanes",
+  "address": "N Seven Peaks Blvd, Provo, UT 84606",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791462509_lhquwpgy-welfare-check-for-man-lying-in-traffic-lanes"
+ },
+ {
+  "id": "47411_1791454628_mhnavceb-juveniles-on-e-bikes-riding-dangerously-in-traffic",
+  "ts": 1791454628,
+  "title": "Juveniles on e-bikes riding dangerously in traffic",
+  "address": "E University Pkwy, Orem, UT 84097",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/47411_1791454628_mhnavceb-juveniles-on-e-bikes-riding-dangerously-in-traffic"
+ },
+ {
+  "id": "26923_1791446710_pxgquwbk-welfare-check-after-report-of-distressed-woman",
+  "ts": 1791446710,
+  "title": "Welfare check after report of distressed woman",
+  "address": "N Freedom Blvd building 5, apartment 320, Provo, UT 84604",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791446710_pxgquwbk-welfare-check-after-report-of-distressed-woman"
+ },
+ {
+  "id": "26923_1791444488_dmvccnlo-72-year-old-woman-shows-stroke-symptoms-after-fall",
+  "ts": 1791444488,
+  "title": "72-year-old woman shows stroke symptoms after fall",
+  "address": "W 1700 N St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791444488_dmvccnlo-72-year-old-woman-shows-stroke-symptoms-after-fall"
+ },
+ {
+  "id": "26923_1791444181_cqpzbffb-caller-repeatedly-hangs-up-on-dispatch",
+  "ts": 1791444181,
+  "title": "Caller repeatedly hangs up on dispatch",
+  "address": "W 950 N St, Provo, UT 84604",
+  "category": "Suspicious",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791444181_cqpzbffb-caller-repeatedly-hangs-up-on-dispatch"
+ },
+ {
   "id": "26923_1791443455_jhgouhkv-traffic-stop-at-fifth-north-and-500-west",
   "ts": 1791443455,
   "title": "Traffic stop at Fifth North and 500 West",
@@ -278,45 +318,5 @@
   "address": "N 500 W, Provo, UT 84604",
   "category": "Medical Emergency",
   "link": "https://www.crimeradar.us/provo-ut/26923_1791405885_vhhkoruh-25-year-old-male-taken-to-hospital-for-evaluation"
- },
- {
-  "id": "26923_1791405772_ojpmqpme-traffic-signal-malfunction-near-north-university-avenue-in-provo",
-  "ts": 1791405772,
-  "title": "Traffic signal malfunction near North University Avenue in Provo",
-  "address": "N University Ave & E 800 N, Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791405772_ojpmqpme-traffic-signal-malfunction-near-north-university-avenue-in-provo"
- },
- {
-  "id": "26923_1791405719_dphdfjgv-caller-upset-after-suspicious-activity-report",
-  "ts": 1791405719,
-  "title": "Caller upset after suspicious activity report",
-  "address": "W 1000 N St, Provo, UT 84604",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791405719_dphdfjgv-caller-upset-after-suspicious-activity-report"
- },
- {
-  "id": "26923_1791405419_zikwgnor-disturbance-involving-man-near-parking-garage",
-  "ts": 1791405419,
-  "title": "Disturbance involving man near parking garage",
-  "address": "Provo, UT 84606",
-  "category": "Disturbance",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791405419_zikwgnor-disturbance-involving-man-near-parking-garage"
- },
- {
-  "id": "26923_1791405135_rooikxml-male-overdoses-on-antidepressants-at-provo-apartment",
-  "ts": 1791405135,
-  "title": "Male overdoses on antidepressants at Provo apartment",
-  "address": "Building 3, N 40 W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791405135_rooikxml-male-overdoses-on-antidepressants-at-provo-apartment"
- },
- {
-  "id": "26923_1791404213_sfkocnwr-cat-trapped-in-car-engine-at-high-school",
-  "ts": 1791404213,
-  "title": "Cat trapped in car engine at high school",
-  "address": "Lakeshore Dr, Provo, UT 84601",
-  "category": "Other Non-Crime Event",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791404213_sfkocnwr-cat-trapped-in-car-engine-at-high-school"
  }
 ]
