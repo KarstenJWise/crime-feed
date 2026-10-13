@@ -1,5 +1,133 @@
 [
  {
+  "id": "26923_1791860823_gromhzys-request-for-medical-assistance-near-north-number-withheld-east-street",
+  "ts": 1791860823,
+  "title": "Request for medical assistance near North (number withheld) East Street",
+  "address": "100 E, Orem, UT 84097",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791860823_gromhzys-request-for-medical-assistance-near-north-number-withheld-east-street"
+ },
+ {
+  "id": "12042-2261_1791860592_fojgkarr-child-transferred-for-appendicitis-treatment-to-primary-children-s-hospital",
+  "ts": 1791860592,
+  "title": "Child transferred for appendicitis treatment to Primary Children\u2019s Hospital",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/12042-2261_1791860592_fojgkarr-child-transferred-for-appendicitis-treatment-to-primary-children-s-hospital"
+ },
+ {
+  "id": "12042-63414_1791859946_ypshytcv-patient-assisted-and-taken-to-hospital-after-medical-call",
+  "ts": 1791859946,
+  "title": "Patient assisted and taken to hospital after medical call",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/12042-63414_1791859946_ypshytcv-patient-assisted-and-taken-to-hospital-after-medical-call"
+ },
+ {
+  "id": "26923_1791859443_bpfbnkbz-fire-alarm-investigation-at-orem-residential-building",
+  "ts": 1791859443,
+  "title": "Fire alarm investigation at Orem residential building",
+  "address": "N 1060 W, Orem, UT 84057",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791859443_bpfbnkbz-fire-alarm-investigation-at-orem-residential-building"
+ },
+ {
+  "id": "12042-5935_1791859121_wfxdcqyj-commercial-fire-alarm-at-provo-business",
+  "ts": 1791859121,
+  "title": "Commercial fire alarm at Provo business",
+  "address": "N 1650 W St, Provo, UT 84604",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/12042-5935_1791859121_wfxdcqyj-commercial-fire-alarm-at-provo-business"
+ },
+ {
+  "id": "26923_1791858533_uqnwaxkv-two-car-crash-at-university-avenue-and-cougar-boulevard",
+  "ts": 1791858533,
+  "title": "Two-car crash at University Avenue and Cougar Boulevard",
+  "address": "N University Ave & West Cougar Blvd, Provo, UT 84604",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791858533_uqnwaxkv-two-car-crash-at-university-avenue-and-cougar-boulevard"
+ },
+ {
+  "id": "12042-63463_1791858325_axzasani-damaged-car-towed-from-south-sand-hill-road",
+  "ts": 1791858325,
+  "title": "Damaged car towed from South Sand Hill Road",
+  "address": "S Sandhill Rd, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-63463_1791858325_axzasani-damaged-car-towed-from-south-sand-hill-road"
+ },
+ {
+  "id": "26923_1791855733_grjylpoy-unconscious-breathing-patient-transported-in-provo",
+  "ts": 1791855733,
+  "title": "Unconscious breathing patient transported in Provo",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791855733_grjylpoy-unconscious-breathing-patient-transported-in-provo"
+ },
+ {
+  "id": "26923_1791855289_kqzpjglo-fire-alarm-at-windsor-park-apartments-in-provo",
+  "ts": 1791855289,
+  "title": "Fire alarm at Windsor Park Apartments in Provo",
+  "address": "W 1230 N St, Provo, UT 84604",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791855289_kqzpjglo-fire-alarm-at-windsor-park-apartments-in-provo"
+ },
+ {
+  "id": "26923_1791853993_tzlgkilf-person-having-a-seizure-near-2950-north-street",
+  "ts": 1791853993,
+  "title": "Person having a seizure near 2950 North street",
+  "address": "E 2950 N, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791853993_tzlgkilf-person-having-a-seizure-near-2950-north-street"
+ },
+ {
+  "id": "26923_1791853927_ezlyvujf-fire-response-dispatched-to-provo-address",
+  "ts": 1791853927,
+  "title": "Fire response dispatched to Provo address",
+  "address": "E 2950 N, Provo, UT 84604",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791853927_ezlyvujf-fire-response-dispatched-to-provo-address"
+ },
+ {
+  "id": "26923_1791853271_kvinzyvw-vehicle-crashed-into-trees-near-north-number-withheld-east-in-provo",
+  "ts": 1791853271,
+  "title": "Vehicle crashed into trees near North (number withheld) East in Provo",
+  "address": "900 E, Provo, UT 84606",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791853271_kvinzyvw-vehicle-crashed-into-trees-near-north-number-withheld-east-in-provo"
+ },
+ {
+  "id": "26923_1791852044_fkmptwex-follow-up-on-possible-theft-involving-white-ford-van",
+  "ts": 1791852044,
+  "title": "Follow-up on possible theft involving white Ford van",
+  "address": "E University Pkwy Ste. B28, Orem, UT 84097",
+  "category": "Theft Report",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791852044_fkmptwex-follow-up-on-possible-theft-involving-white-ford-van"
+ },
+ {
+  "id": "26923_1791852019_dyblqgqb-officers-respond-to-keep-the-peace-near-frontrunner",
+  "ts": 1791852019,
+  "title": "Officers respond to keep the peace near FrontRunner",
+  "address": "Orem Station, Orem, UT 84058",
+  "category": "Other Non-Crime",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1791852019_dyblqgqb-officers-respond-to-keep-the-peace-near-frontrunner"
+ },
+ {
+  "id": "26923_1791851749_zmmaurgf-people-camping-behind-dumpster-near-provo",
+  "ts": 1791851749,
+  "title": "People camping behind dumpster near Provo",
+  "address": "900 E, Provo, UT 84606",
+  "category": "Disturbance",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1791851749_zmmaurgf-people-camping-behind-dumpster-near-provo"
+ },
+ {
+  "id": "12042-3701_1791851708_ttmvocud-female-claims-fentanyl-ingestion-at-train-station",
+  "ts": 1791851708,
+  "title": "Female claims fentanyl ingestion at train station",
+  "address": "Orem Station, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/12042-3701_1791851708_ttmvocud-female-claims-fentanyl-ingestion-at-train-station"
+ },
+ {
   "id": "12042-3701_1791844586_rzzypwrm-man-yelling-at-passengers-at-provo-central-station",
   "ts": 1791844586,
   "title": "Man yelling at passengers at Provo Central station",
@@ -190,133 +318,5 @@
   "address": "S Ridgeview Dr, Orem, UT 84058",
   "category": "Medical Emergency",
   "link": "https://www.crimeradar.us/orem-ut/26923_1791796491_opccekvh-21-year-old-male-passed-out-with-high-fever-in-orem"
- },
- {
-  "id": "26923_1791789314_nwasnrfw-carbon-monoxide-alarms-sounding-at-orem-home",
-  "ts": 1791789314,
-  "title": "Carbon monoxide alarms sounding at Orem home",
-  "address": "N 680 W, Orem, UT 84057",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791789314_nwasnrfw-carbon-monoxide-alarms-sounding-at-orem-home"
- },
- {
-  "id": "26923_1791787735_bfnofwbn-fire-alarm-investigation-near-provo",
-  "ts": 1791787735,
-  "title": "Fire alarm investigation near Provo",
-  "address": "W 520 S, Provo, UT 84601",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791787735_bfnofwbn-fire-alarm-investigation-near-provo"
- },
- {
-  "id": "12042-5935_1791787403_rpryexbf-propane-or-gas-leak-on-north-400-east-street",
-  "ts": 1791787403,
-  "title": "Propane or gas leak on North 400 East street",
-  "address": "N 400 E, Provo, UT 84606",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/12042-5935_1791787403_rpryexbf-propane-or-gas-leak-on-north-400-east-street"
- },
- {
-  "id": "12042-5935_1791786528_vttyrslb-medical-call-near-north-apple-c-lane-in-orem",
-  "ts": 1791786528,
-  "title": "Medical call near North Apple C Lane in Orem",
-  "address": "N, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/12042-5935_1791786528_vttyrslb-medical-call-near-north-apple-c-lane-in-orem"
- },
- {
-  "id": "26923_1791785535_wfxauhus-woman-checked-after-domestic-incident-in-orem",
-  "ts": 1791785535,
-  "title": "Woman checked after domestic incident in Orem",
-  "address": "N 100 W, Orem, UT 84057",
-  "category": "Domestic Dispute",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791785535_wfxauhus-woman-checked-after-domestic-incident-in-orem"
- },
- {
-  "id": "26923_1791783883_nhpssvbt-traffic-stop-at-500-south-and-state-street",
-  "ts": 1791783883,
-  "title": "Traffic stop at 500 South and State Street",
-  "address": "E 500 S & S State St, Provo, UT 84606",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791783883_nhpssvbt-traffic-stop-at-500-south-and-state-street"
- },
- {
-  "id": "26923_1791778595_igsetrcy-fire-alarm-with-electrical-odor-at-alpine-village",
-  "ts": 1791778595,
-  "title": "Fire alarm with electrical odor at Alpine Village",
-  "address": "Freedom Blvd 200 W, Provo, UT 84604",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791778595_igsetrcy-fire-alarm-with-electrical-odor-at-alpine-village"
- },
- {
-  "id": "26923_1791776167_ubortcnl-officer-contact-on-misdemeanor-warrant-in-provo",
-  "ts": 1791776167,
-  "title": "Officer contact on misdemeanor warrant in Provo",
-  "address": "E 1700 S, Provo, UT 84606",
-  "category": "Other Incidents",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791776167_ubortcnl-officer-contact-on-misdemeanor-warrant-in-provo"
- },
- {
-  "id": "26923_1791772311_braxfcex-officer-requested-regarding-concerning-text-messages-between-minors",
-  "ts": 1791772311,
-  "title": "Officer requested regarding concerning text messages between minors",
-  "address": "E 960 S, Provo, UT 84606",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791772311_braxfcex-officer-requested-regarding-concerning-text-messages-between-minors"
- },
- {
-  "id": "26923_1791771142_hrrrimzq-carbon-monoxide-alarm-near-orem",
-  "ts": 1791771142,
-  "title": "Carbon monoxide alarm near Orem",
-  "address": "E 760 N St, Orem, UT 84097",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791771142_hrrrimzq-carbon-monoxide-alarm-near-orem"
- },
- {
-  "id": "26923_1791769457_aqeycypm-false-alarm-at-petsmart-on-west-university-parkway",
-  "ts": 1791769457,
-  "title": "False alarm at PetSmart on West University Parkway",
-  "address": "W University Pkwy, Orem, UT 84058",
-  "category": "Break-In",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791769457_aqeycypm-false-alarm-at-petsmart-on-west-university-parkway"
- },
- {
-  "id": "26923_1791769416_knbulxjy-officers-start-warrant-case-on-west-355-south",
-  "ts": 1791769416,
-  "title": "Officers start warrant case on West 355 South",
-  "address": "W 355 S, Orem, UT 84058",
-  "category": "Other Incidents",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791769416_knbulxjy-officers-start-warrant-case-on-west-355-south"
- },
- {
-  "id": "26923_1791767408_fjcmxzfb-loud-bangs-reported-on-south-1680-west",
-  "ts": 1791767408,
-  "title": "Loud bangs reported on South 1680 West",
-  "address": "S 1680 W, Provo, UT 84601",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791767408_fjcmxzfb-loud-bangs-reported-on-south-1680-west"
- },
- {
-  "id": "12042-5935_1791767256_xmmfrzak-person-injured-in-fall-on-mount-timpanogos-trail",
-  "ts": 1791767256,
-  "title": "Person injured in fall on Mount Timpanogos Trail",
-  "address": "Mount Timpanogos Trail (052), Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-5935_1791767256_xmmfrzak-person-injured-in-fall-on-mount-timpanogos-trail"
- },
- {
-  "id": "26923_1791766786_sbcnjnoo-silent-duress-alarm-at-orem-residence",
-  "ts": 1791766786,
-  "title": "Silent duress alarm at Orem residence",
-  "address": "E 600 S, Orem, UT 84058",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791766786_sbcnjnoo-silent-duress-alarm-at-orem-residence"
- },
- {
-  "id": "26923_1791766599_hpmkizoq-child-injured-by-fuel-hose-at-apartment-parking-garage",
-  "ts": 1791766599,
-  "title": "Child injured by fuel hose at apartment parking garage",
-  "address": "W Center St building 5 apt 252, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791766599_hpmkizoq-child-injured-by-fuel-hose-at-apartment-parking-garage"
  }
 ]
