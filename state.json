@@ -1,5 +1,77 @@
 [
  {
+  "id": "12042-6210_1792016385_vimnpqhu-traffic-crash-with-injury-check-at-maverik-in-orem",
+  "ts": 1792016385,
+  "title": "Traffic crash with injury check at Maverik in Orem",
+  "address": "W University Pkwy, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792016385_vimnpqhu-traffic-crash-with-injury-check-at-maverik-in-orem"
+ },
+ {
+  "id": "26923_1792014930_kywdidvi-residents-evacuate-after-residential-fire-alarm-near-e-200-s",
+  "ts": 1792014930,
+  "title": "Residents evacuate after residential fire alarm near E 200 S",
+  "address": "200 S, Provo, UT 84606",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792014930_kywdidvi-residents-evacuate-after-residential-fire-alarm-near-e-200-s"
+ },
+ {
+  "id": "26923_1792014621_wegltyoi-vehicle-fire-reported-near-dutch-bros-parking-lot",
+  "ts": 1792014621,
+  "title": "Vehicle fire reported near Dutch Bros parking lot",
+  "address": "N State St, Orem, UT 84057",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792014621_wegltyoi-vehicle-fire-reported-near-dutch-bros-parking-lot"
+ },
+ {
+  "id": "26923_1792014436_ahkzuftn-paramedics-requested-for-medical-assist-near-orem",
+  "ts": 1792014436,
+  "title": "Paramedics requested for medical assist near Orem",
+  "address": "N Emery Ave, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792014436_ahkzuftn-paramedics-requested-for-medical-assist-near-orem"
+ },
+ {
+  "id": "26923_1792012957_pcsuipeo-abandoned-pickup-truck-with-flat-tire-reported",
+  "ts": 1792012957,
+  "title": "Abandoned pickup truck with flat tire reported",
+  "address": "E 1270 S, Provo, UT 84606",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792012957_pcsuipeo-abandoned-pickup-truck-with-flat-tire-reported"
+ },
+ {
+  "id": "12042-6215_1792011981_sjsrmehw-medical-call-near-east-normandy-drive-provo",
+  "ts": 1792011981,
+  "title": "Medical call near East Normandy Drive, Provo",
+  "address": "E Normandy Dr, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6215_1792011981_sjsrmehw-medical-call-near-east-normandy-drive-provo"
+ },
+ {
+  "id": "26923_1792011290_slqxsysf-suspicious-juveniles-near-800-e-and-400-s",
+  "ts": 1792011290,
+  "title": "Suspicious juveniles near 800 E and 400 S",
+  "address": "400 S, Provo, UT 84606",
+  "category": "Theft Report",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792011290_slqxsysf-suspicious-juveniles-near-800-e-and-400-s"
+ },
+ {
+  "id": "12042-6216_1792007607_qiesgyqn-carbon-monoxide-alarm-at-provo-residence",
+  "ts": 1792007607,
+  "title": "Carbon monoxide alarm at Provo residence",
+  "address": "N 1150 E, Provo, UT 84606",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6216_1792007607_qiesgyqn-carbon-monoxide-alarm-at-provo-residence"
+ },
+ {
+  "id": "26923_1792007097_jfowiswi-welfare-check-for-man-missing-from-work-in-orem",
+  "ts": 1792007097,
+  "title": "Welfare check for man missing from work in Orem",
+  "address": "W 960 S St, Orem, UT 84058",
+  "category": "Missing Person",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792007097_jfowiswi-welfare-check-for-man-missing-from-work-in-orem"
+ },
+ {
   "id": "26923_1792004923_kwinrlme-search-for-missing-person-near-provo-temple-area",
   "ts": 1792004923,
   "title": "Search for missing person near Provo temple area",
@@ -246,77 +318,5 @@
   "address": "E 300 S, Provo, UT 84606",
   "category": "Medical Emergency",
   "link": "https://www.crimeradar.us/provo-ut/26923_1791955666_nvixywnf-man-with-possible-hernia-in-severe-abdominal-pain-in-provo"
- },
- {
-  "id": "26923_1791954300_hlongflz-transport-of-conscious-49-year-old-female-to-medical-center",
-  "ts": 1791954300,
-  "title": "Transport of conscious 49-year-old female to medical center",
-  "address": "N 500 W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791954300_hlongflz-transport-of-conscious-49-year-old-female-to-medical-center"
- },
- {
-  "id": "26923_1791953353_uuoathzm-traffic-stop-on-north-carterville-road",
-  "ts": 1791953353,
-  "title": "Traffic stop on North Carterville Road",
-  "address": "N Carterville Rd, Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791953353_uuoathzm-traffic-stop-on-north-carterville-road"
- },
- {
-  "id": "26923_1791953044_grtgedsl-traffic-stop-at-pioneer-and-1700-south",
-  "ts": 1791953044,
-  "title": "Traffic stop at Pioneer and 1700 South",
-  "address": "E 1700 S, Provo, UT 84606",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791953044_grtgedsl-traffic-stop-at-pioneer-and-1700-south"
- },
- {
-  "id": "26923_1791952748_boiwbsgn-unoccupied-silver-honda-stopped-on-300-south",
-  "ts": 1791952748,
-  "title": "Unoccupied silver Honda stopped on 300 South",
-  "address": "E 300 S, Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791952748_boiwbsgn-unoccupied-silver-honda-stopped-on-300-south"
- },
- {
-  "id": "26923_1791952102_obqbaawn-traffic-stop-at-geneva-road-and-vineyard-connector",
-  "ts": 1791952102,
-  "title": "Traffic stop at Geneva Road and Vineyard Connector",
-  "address": "Geneva Rd & Vineyard Connector Rd, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791952102_obqbaawn-traffic-stop-at-geneva-road-and-vineyard-connector"
- },
- {
-  "id": "26923_1791942757_ywkldmwl-person-reports-possible-fractured-ankle-at-university-building",
-  "ts": 1791942757,
-  "title": "Person reports possible fractured ankle at university building",
-  "address": "Field House Dr, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791942757_ywkldmwl-person-reports-possible-fractured-ankle-at-university-building"
- },
- {
-  "id": "26923_1791941465_pydgubrl-patient-transfer-by-ems-en-route-to-hospital-in-provo",
-  "ts": 1791941465,
-  "title": "Patient transfer by EMS en route to hospital in Provo",
-  "address": "Provo, UT 84602",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791941465_pydgubrl-patient-transfer-by-ems-en-route-to-hospital-in-provo"
- },
- {
-  "id": "26923_1791941397_xkcdppol-missing-person-reported-on-west-center-street",
-  "ts": 1791941397,
-  "title": "Missing person reported on West Center Street",
-  "address": "W Center St, Provo, UT 84601",
-  "category": "Missing Person",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791941397_xkcdppol-missing-person-reported-on-west-center-street"
- },
- {
-  "id": "26923_1791940845_txhjyqgr-woman-on-bridge-outside-guardrail-above-river-medics-staging-at-lake-shore-dr-center-st",
-  "ts": 1791940845,
-  "title": "Woman on bridge outside guardrail above river; medics staging at Lake Shore Dr & Center St",
-  "address": "W Center St & Lakeshore Dr, Provo, UT 84601",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791940845_txhjyqgr-woman-on-bridge-outside-guardrail-above-river-medics-staging-at-lake-shore-dr-center-st"
  }
 ]
