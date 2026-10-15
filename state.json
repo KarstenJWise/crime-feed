@@ -1,5 +1,53 @@
 [
  {
+  "id": "12042-1838_1792074270_biaukzbf-traffic-stop-on-blue-jeep-wrangler",
+  "ts": 1792074270,
+  "title": "Traffic stop on blue Jeep Wrangler",
+  "address": "N, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-1838_1792074270_biaukzbf-traffic-stop-on-blue-jeep-wrangler"
+ },
+ {
+  "id": "26923_1792067031_zsofvele-traffic-stop-on-gray-toyota-pickup-in-provo",
+  "ts": 1792067031,
+  "title": "Traffic stop on gray Toyota pickup in Provo",
+  "address": "W Center St, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792067031_zsofvele-traffic-stop-on-gray-toyota-pickup-in-provo"
+ },
+ {
+  "id": "26923_1792066941_uywoxlvl-suicidal-patient-leaves-hospital-then-returns",
+  "ts": 1792066941,
+  "title": "Suicidal patient leaves hospital then returns",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792066941_uywoxlvl-suicidal-patient-leaves-hospital-then-returns"
+ },
+ {
+  "id": "26923_1792066064_fsenwhwa-man-takes-intentional-overdose-of-antipsychotic-meds-in-provo",
+  "ts": 1792066064,
+  "title": "Man takes intentional overdose of antipsychotic meds in Provo",
+  "address": "S 1600 W St, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792066064_fsenwhwa-man-takes-intentional-overdose-of-antipsychotic-meds-in-provo"
+ },
+ {
+  "id": "12042-1838_1792065331_pkcrqpkq-traffic-stop-on-northbound-exit-269-in-orem",
+  "ts": 1792065331,
+  "title": "Traffic stop on northbound exit 269 in Orem",
+  "address": "Orem (Exit 269), UT, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-1838_1792065331_pkcrqpkq-traffic-stop-on-northbound-exit-269-in-orem"
+ },
+ {
+  "id": "26923_1792063222_aysjkvxk-man-shaking-and-hallucinating-with-facial-bleeding-in-provo",
+  "ts": 1792063222,
+  "title": "Man shaking and hallucinating with facial bleeding in Provo",
+  "address": "S 500 W St, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792063222_aysjkvxk-man-shaking-and-hallucinating-with-facial-bleeding-in-provo"
+ },
+ {
   "id": "26923_1792049225_jeeasrgk-80-year-old-man-falls-in-apartment-in-orem",
   "ts": 1792049225,
   "title": "80-year-old man falls in apartment in Orem",
@@ -270,53 +318,5 @@
   "address": "N Emery Ave, Orem, UT 84057",
   "category": "Medical Emergency",
   "link": "https://www.crimeradar.us/orem-ut/26923_1792014436_ahkzuftn-paramedics-requested-for-medical-assist-near-orem"
- },
- {
-  "id": "26923_1792012957_pcsuipeo-abandoned-pickup-truck-with-flat-tire-reported",
-  "ts": 1792012957,
-  "title": "Abandoned pickup truck with flat tire reported",
-  "address": "E 1270 S, Provo, UT 84606",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792012957_pcsuipeo-abandoned-pickup-truck-with-flat-tire-reported"
- },
- {
-  "id": "12042-6215_1792011981_sjsrmehw-medical-call-near-east-normandy-drive-provo",
-  "ts": 1792011981,
-  "title": "Medical call near East Normandy Drive, Provo",
-  "address": "E Normandy Dr, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6215_1792011981_sjsrmehw-medical-call-near-east-normandy-drive-provo"
- },
- {
-  "id": "26923_1792011290_slqxsysf-suspicious-juveniles-near-800-e-and-400-s",
-  "ts": 1792011290,
-  "title": "Suspicious juveniles near 800 E and 400 S",
-  "address": "400 S, Provo, UT 84606",
-  "category": "Theft Report",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792011290_slqxsysf-suspicious-juveniles-near-800-e-and-400-s"
- },
- {
-  "id": "12042-6216_1792007607_qiesgyqn-carbon-monoxide-alarm-at-provo-residence",
-  "ts": 1792007607,
-  "title": "Carbon monoxide alarm at Provo residence",
-  "address": "N 1150 E, Provo, UT 84606",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6216_1792007607_qiesgyqn-carbon-monoxide-alarm-at-provo-residence"
- },
- {
-  "id": "26923_1792007097_jfowiswi-welfare-check-for-man-missing-from-work-in-orem",
-  "ts": 1792007097,
-  "title": "Welfare check for man missing from work in Orem",
-  "address": "W 960 S St, Orem, UT 84058",
-  "category": "Missing Person",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792007097_jfowiswi-welfare-check-for-man-missing-from-work-in-orem"
- },
- {
-  "id": "26923_1792004923_kwinrlme-search-for-missing-person-near-provo-temple-area",
-  "ts": 1792004923,
-  "title": "Search for missing person near Provo temple area",
-  "address": "Temple View Dr, Provo, UT 84604",
-  "category": "Missing Person",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792004923_kwinrlme-search-for-missing-person-near-provo-temple-area"
  }
 ]
