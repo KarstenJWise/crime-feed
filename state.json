@@ -1,5 +1,45 @@
 [
  {
+  "id": "12042-5936_1792087609_lpcjxjcz-natural-gas-leak-reported-at-provo-residence",
+  "ts": 1792087609,
+  "title": "Natural gas leak reported at Provo residence",
+  "address": "W Northwood Ln, Provo, UT 84604",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/12042-5936_1792087609_lpcjxjcz-natural-gas-leak-reported-at-provo-residence"
+ },
+ {
+  "id": "12042-5921_1792087096_kabbnwte-suspicious-suvs-share-same-plate-near-provo-building",
+  "ts": 1792087096,
+  "title": "Suspicious SUVs share same plate near Provo building",
+  "address": "N 1350 W St, Provo, UT 84604",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/provo-ut/12042-5921_1792087096_kabbnwte-suspicious-suvs-share-same-plate-near-provo-building"
+ },
+ {
+  "id": "12042-6210_1792086132_umgsjcxa-woman-with-mouth-injury-reported-near-orem",
+  "ts": 1792086132,
+  "title": "Woman with mouth injury reported near Orem",
+  "address": "N 1130 W St, Orem, UT 84057",
+  "category": "Assault Report",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792086132_umgsjcxa-woman-with-mouth-injury-reported-near-orem"
+ },
+ {
+  "id": "12042-6210_1792085857_hzcaxazi-traffic-stop-on-white-toyota-in-orem",
+  "ts": 1792085857,
+  "title": "Traffic stop on white Toyota in Orem",
+  "address": "E 200 N St & 400 E, Orem, UT 84097",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792085857_hzcaxazi-traffic-stop-on-white-toyota-in-orem"
+ },
+ {
+  "id": "12042-6210_1792083611_wkmhrngb-traffic-stop-on-truck-with-trailer-at-domino-s-lot",
+  "ts": 1792083611,
+  "title": "Traffic stop on truck with trailer at Domino\u2019s lot",
+  "address": "W 1600 N Suite 100 Ste100, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792083611_wkmhrngb-traffic-stop-on-truck-with-trailer-at-domino-s-lot"
+ },
+ {
   "id": "12042-1838_1792074270_biaukzbf-traffic-stop-on-blue-jeep-wrangler",
   "ts": 1792074270,
   "title": "Traffic stop on blue Jeep Wrangler",
@@ -278,45 +318,5 @@
   "address": "W Mountain View Ct, Orem, UT 84057",
   "category": "Traffic",
   "link": "https://www.crimeradar.us/orem-ut/12042-5936_1792020100_svwxpynz-two-injured-in-crash-on-raptor-road-and-mountain-view"
- },
- {
-  "id": "12042-3507_1792016911_gfqrdouz-traffic-stop-on-south-500-west-in-provo",
-  "ts": 1792016911,
-  "title": "Traffic stop on South 500 West in Provo",
-  "address": "S 500 W, Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/12042-3507_1792016911_gfqrdouz-traffic-stop-on-south-500-west-in-provo"
- },
- {
-  "id": "12042-6210_1792016385_vimnpqhu-traffic-crash-with-injury-check-at-maverik-in-orem",
-  "ts": 1792016385,
-  "title": "Traffic crash with injury check at Maverik in Orem",
-  "address": "W University Pkwy, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792016385_vimnpqhu-traffic-crash-with-injury-check-at-maverik-in-orem"
- },
- {
-  "id": "26923_1792014930_kywdidvi-residents-evacuate-after-residential-fire-alarm-near-e-200-s",
-  "ts": 1792014930,
-  "title": "Residents evacuate after residential fire alarm near E 200 S",
-  "address": "200 S, Provo, UT 84606",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792014930_kywdidvi-residents-evacuate-after-residential-fire-alarm-near-e-200-s"
- },
- {
-  "id": "26923_1792014621_wegltyoi-vehicle-fire-reported-near-dutch-bros-parking-lot",
-  "ts": 1792014621,
-  "title": "Vehicle fire reported near Dutch Bros parking lot",
-  "address": "N State St, Orem, UT 84057",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792014621_wegltyoi-vehicle-fire-reported-near-dutch-bros-parking-lot"
- },
- {
-  "id": "26923_1792014436_ahkzuftn-paramedics-requested-for-medical-assist-near-orem",
-  "ts": 1792014436,
-  "title": "Paramedics requested for medical assist near Orem",
-  "address": "N Emery Ave, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792014436_ahkzuftn-paramedics-requested-for-medical-assist-near-orem"
  }
 ]
