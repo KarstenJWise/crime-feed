@@ -1,5 +1,69 @@
 [
  {
+  "id": "26923_1792024418_nlbjhadx-gas-odor-reported-at-provo-residence",
+  "ts": 1792024418,
+  "title": "Gas odor reported at Provo residence",
+  "address": "S 1080 E, Provo, UT 84606",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792024418_nlbjhadx-gas-odor-reported-at-provo-residence"
+ },
+ {
+  "id": "26923_1792024149_efswrsuy-teenagers-disturb-home-on-north-700-west",
+  "ts": 1792024149,
+  "title": "Teenagers disturb home on North 700 West",
+  "address": "N 700 W St, Orem, UT 84057",
+  "category": "Disturbance",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792024149_efswrsuy-teenagers-disturb-home-on-north-700-west"
+ },
+ {
+  "id": "26923_1792022864_chsxzpus-custody-exchange-party-does-not-arrive",
+  "ts": 1792022864,
+  "title": "Custody exchange party does not arrive",
+  "address": "W Center St, Provo, UT 84601",
+  "category": "Other Non-Crime Event",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792022864_chsxzpus-custody-exchange-party-does-not-arrive"
+ },
+ {
+  "id": "12042-6210_1792022444_nrdetzgm-car-hits-seminary-building-in-orem-crash",
+  "ts": 1792022444,
+  "title": "Car hits seminary building in Orem crash",
+  "address": "W 800 S, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792022444_nrdetzgm-car-hits-seminary-building-in-orem-crash"
+ },
+ {
+  "id": "26923_1792021897_lhxfzjyc-officers-track-suspect-vehicle-to-orem-apartment-complex",
+  "ts": 1792021897,
+  "title": "Officers track suspect vehicle to Orem apartment complex",
+  "address": "N 820 W, Orem, UT 84057",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792021897_lhxfzjyc-officers-track-suspect-vehicle-to-orem-apartment-complex"
+ },
+ {
+  "id": "26923_1792021837_xpuohvtu-driver-reported-for-illegal-passing-on-geneva-road",
+  "ts": 1792021837,
+  "title": "Driver reported for illegal passing on Geneva Road",
+  "address": "W 1390 N, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792021837_xpuohvtu-driver-reported-for-illegal-passing-on-geneva-road"
+ },
+ {
+  "id": "12042-5936_1792020100_svwxpynz-two-injured-in-crash-on-raptor-road-and-mountain-view",
+  "ts": 1792020100,
+  "title": "Two injured in crash on Raptor Road and Mountain View",
+  "address": "W Mountain View Ct, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-5936_1792020100_svwxpynz-two-injured-in-crash-on-raptor-road-and-mountain-view"
+ },
+ {
+  "id": "12042-3507_1792016911_gfqrdouz-traffic-stop-on-south-500-west-in-provo",
+  "ts": 1792016911,
+  "title": "Traffic stop on South 500 West in Provo",
+  "address": "S 500 W, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/12042-3507_1792016911_gfqrdouz-traffic-stop-on-south-500-west-in-provo"
+ },
+ {
   "id": "12042-6210_1792016385_vimnpqhu-traffic-crash-with-injury-check-at-maverik-in-orem",
   "ts": 1792016385,
   "title": "Traffic crash with injury check at Maverik in Orem",
@@ -254,69 +318,5 @@
   "address": "S Geneva Rd, Orem, UT 84058",
   "category": "Medical Emergency",
   "link": "https://www.crimeradar.us/orem-ut/26923_1791968088_ahxzdspn-75-year-old-with-bruising-after-fall-near-orem"
- },
- {
-  "id": "26923_1791968003_ngnurdus-person-fallen-with-arm-and-knee-pain-at-home",
-  "ts": 1791968003,
-  "title": "Person fallen with arm and knee pain at home",
-  "address": "N Emery Ave, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791968003_ngnurdus-person-fallen-with-arm-and-knee-pain-at-home"
- },
- {
-  "id": "26923_1791967769_ryzwqnxo-23-year-old-man-having-seizure-in-orem",
-  "ts": 1791967769,
-  "title": "23-year-old man having seizure in Orem",
-  "address": "W 170 N, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791967769_ryzwqnxo-23-year-old-man-having-seizure-in-orem"
- },
- {
-  "id": "26923_1791966745_skpuhcqt-60-year-old-female-falls-breaks-wrist-and-hits-head",
-  "ts": 1791966745,
-  "title": "60-year-old female falls, breaks wrist and hits head",
-  "address": "E 900 S St, Provo, UT 84606",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791966745_skpuhcqt-60-year-old-female-falls-breaks-wrist-and-hits-head"
- },
- {
-  "id": "26923_1791963320_cakygvfo-person-having-seizure-near-west-number-withheld-north-street-orem",
-  "ts": 1791963320,
-  "title": "Person having seizure near West (number withheld) North Street, Orem",
-  "address": "W 170 N, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791963320_cakygvfo-person-having-seizure-near-west-number-withheld-north-street-orem"
- },
- {
-  "id": "12042-6216_1791957580_pzttgrrc-downed-wire-reported-in-front-of-driveway",
-  "ts": 1791957580,
-  "title": "Downed wire reported in front of driveway",
-  "address": "S Stubbs Ave, Provo, UT 84601",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6216_1791957580_pzttgrrc-downed-wire-reported-in-front-of-driveway"
- },
- {
-  "id": "26923_1791957221_ddsijffj-traffic-stop-at-600-south-and-state-street",
-  "ts": 1791957221,
-  "title": "Traffic stop at 600 South and State Street",
-  "address": "E 600 S & S State St, Provo, UT 84606",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791957221_ddsijffj-traffic-stop-at-600-south-and-state-street"
- },
- {
-  "id": "26923_1791957153_byrwclgi-traffic-stop-on-silver-audi-with-no-license-plate",
-  "ts": 1791957153,
-  "title": "Traffic stop on silver Audi with no license plate",
-  "address": "N & State St, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1791957153_byrwclgi-traffic-stop-on-silver-audi-with-no-license-plate"
- },
- {
-  "id": "26923_1791955666_nvixywnf-man-with-possible-hernia-in-severe-abdominal-pain-in-provo",
-  "ts": 1791955666,
-  "title": "Man with possible hernia in severe abdominal pain in Provo",
-  "address": "E 300 S, Provo, UT 84606",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1791955666_nvixywnf-man-with-possible-hernia-in-severe-abdominal-pain-in-provo"
  }
 ]
