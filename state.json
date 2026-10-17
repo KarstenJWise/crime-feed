@@ -1,5 +1,61 @@
 [
  {
+  "id": "26923_1792279168_tcwjneok-smoke-from-detached-garage-behind-provo-home",
+  "ts": 1792279168,
+  "title": "Smoke from detached garage behind Provo home",
+  "address": "S 760 W, Provo, UT 84601",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792279168_tcwjneok-smoke-from-detached-garage-behind-provo-home"
+ },
+ {
+  "id": "12042-6210_1792278162_nvyiuxkf-driver-reported-with-dog-on-lap-on-state-street",
+  "ts": 1792278162,
+  "title": "Driver reported with dog on lap on State Street",
+  "address": "N State St, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792278162_nvyiuxkf-driver-reported-with-dog-on-lap-on-state-street"
+ },
+ {
+  "id": "26923_1792277593_rnpuaqwy-medical-aid-requested-near-gate-five-at-provo-stadium",
+  "ts": 1792277593,
+  "title": "Medical aid requested near gate five at Provo stadium",
+  "address": "N Canyon Rd, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792277593_rnpuaqwy-medical-aid-requested-near-gate-five-at-provo-stadium"
+ },
+ {
+  "id": "12042-6215_1792275890_cvmkqfcm-small-fire-reported-near-north-and-west-intersection-in-provo",
+  "ts": 1792275890,
+  "title": "Small fire reported near north and west intersection in Provo",
+  "address": "N & 800 W, Provo, UT 84601",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6215_1792275890_cvmkqfcm-small-fire-reported-near-north-and-west-intersection-in-provo"
+ },
+ {
+  "id": "12042-6210_1792275865_yfhvxdsr-suspicious-person-reportedly-recording-softball-game-at-lakeside-sports-park",
+  "ts": 1792275865,
+  "title": "Suspicious person reportedly recording softball game at Lakeside Sports Park",
+  "address": "Lakeside Sports Park, 400 S 1850 W St, Orem, UT 84058",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792275865_yfhvxdsr-suspicious-person-reportedly-recording-softball-game-at-lakeside-sports-park"
+ },
+ {
+  "id": "12042-6210_1792272950_zqvgczrp-non-injury-crash-blocking-traffic-on-south-orem-blvd",
+  "ts": 1792272950,
+  "title": "Non-injury crash blocking traffic on South Orem Blvd",
+  "address": "S Orem Blvd, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792272950_zqvgczrp-non-injury-crash-blocking-traffic-on-south-orem-blvd"
+ },
+ {
+  "id": "12042-6210_1792272934_tehdfatj-non-injury-crash-blocking-traffic-on-south-orem-blvd",
+  "ts": 1792272934,
+  "title": "Non-injury crash blocking traffic on South Orem Blvd",
+  "address": "S Orem Blvd, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792272934_tehdfatj-non-injury-crash-blocking-traffic-on-south-orem-blvd"
+ },
+ {
   "id": "12042-2261_1792272064_pnqgyzvf-18-year-old-male-psych-patient-transported-to-children-s-hospital",
   "ts": 1792272064,
   "title": "18-year-old male psych patient transported to children's hospital",
@@ -262,61 +318,5 @@
   "address": "S 650 W, Provo, UT 84601",
   "category": "Break-In",
   "link": "https://www.crimeradar.us/provo-ut/26923_1792217776_cmwovlvx-resident-reports-possible-home-burglary-in-tooele"
- },
- {
-  "id": "26923_1792216258_myeyfyui-traffic-stop-on-1030-west-in-orem",
-  "ts": 1792216258,
-  "title": "Traffic stop on 1030 West in Orem",
-  "address": "North 1030 West and 1600th North, Orem, Utah 84057, United States",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792216258_myeyfyui-traffic-stop-on-1030-west-in-orem"
- },
- {
-  "id": "26923_1792215465_yqxtgved-81-year-old-woman-treated-for-heat-illness-in-er",
-  "ts": 1792215465,
-  "title": "81-year-old woman treated for heat illness in ER",
-  "address": "N 500 W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792215465_yqxtgved-81-year-old-woman-treated-for-heat-illness-in-er"
- },
- {
-  "id": "26923_1792215443_bauewhhn-intoxicated-person-reported-with-knives-in-orem",
-  "ts": 1792215443,
-  "title": "Intoxicated person reported with knives in Orem",
-  "address": "N 320 W, Orem, UT 84057",
-  "category": "Weapons",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792215443_bauewhhn-intoxicated-person-reported-with-knives-in-orem"
- },
- {
-  "id": "26923_1792215401_figsoezg-traffic-stop-in-arctic-circle-parking-lot",
-  "ts": 1792215401,
-  "title": "Traffic stop in Arctic Circle parking lot",
-  "address": "S State St, Orem, UT 84097",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792215401_figsoezg-traffic-stop-in-arctic-circle-parking-lot"
- },
- {
-  "id": "26923_1792215062_kyfvfxrx-fire-alarm-report-at-apartment-shows-no-problem",
-  "ts": 1792215062,
-  "title": "Fire alarm report at apartment shows no problem",
-  "address": "N University Ave, Provo, UT 84601",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792215062_kyfvfxrx-fire-alarm-report-at-apartment-shows-no-problem"
- },
- {
-  "id": "26923_1792214054_ipqvkldq-traffic-stop-on-grandview-boulevard",
-  "ts": 1792214054,
-  "title": "Traffic stop on Grandview Boulevard",
-  "address": "N Grandview Ln, Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792214054_ipqvkldq-traffic-stop-on-grandview-boulevard"
- },
- {
-  "id": "26923_1792213586_snovqswg-welfare-check-request-at-freedom-prep-school",
-  "ts": 1792213586,
-  "title": "Welfare check request at Freedom Prep school",
-  "address": "W 820 N, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792213586_snovqswg-welfare-check-request-at-freedom-prep-school"
  }
 ]
