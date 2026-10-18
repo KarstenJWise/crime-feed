@@ -1,5 +1,21 @@
 [
  {
+  "id": "26923_1792329434_oqqhbuff-car-hits-light-pole-driver-injured-in-provo",
+  "ts": 1792329434,
+  "title": "Car hits light pole, driver injured in Provo",
+  "address": "E 2200 N & 300 E, Provo, UT 84604",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792329434_oqqhbuff-car-hits-light-pole-driver-injured-in-provo"
+ },
+ {
+  "id": "26923_1792321138_ujhdeljf-person-with-breathing-problem-near-boulders-in-provo",
+  "ts": 1792321138,
+  "title": "Person with breathing problem near Boulders in Provo",
+  "address": "S 650 W, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792321138_ujhdeljf-person-with-breathing-problem-near-boulders-in-provo"
+ },
+ {
   "id": "26923_1792317194_heexhboh-person-repeatedly-trying-to-break-into-garage",
   "ts": 1792317194,
   "title": "Person repeatedly trying to break into garage",
@@ -302,21 +318,5 @@
   "address": "N State St, Orem, UT 84057",
   "category": "Traffic",
   "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792278162_nvyiuxkf-driver-reported-with-dog-on-lap-on-state-street"
- },
- {
-  "id": "26923_1792277593_rnpuaqwy-medical-aid-requested-near-gate-five-at-provo-stadium",
-  "ts": 1792277593,
-  "title": "Medical aid requested near gate five at Provo stadium",
-  "address": "N Canyon Rd, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792277593_rnpuaqwy-medical-aid-requested-near-gate-five-at-provo-stadium"
- },
- {
-  "id": "12042-6215_1792275890_cvmkqfcm-small-fire-reported-near-north-and-west-intersection-in-provo",
-  "ts": 1792275890,
-  "title": "Small fire reported near north and west intersection in Provo",
-  "address": "N & 800 W, Provo, UT 84601",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6215_1792275890_cvmkqfcm-small-fire-reported-near-north-and-west-intersection-in-provo"
  }
 ]
