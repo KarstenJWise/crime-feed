@@ -1,5 +1,45 @@
 [
  {
+  "id": "26923_1792364584_urdtixmy-man-in-dark-clothing-reported-with-alcohol-near-sonic",
+  "ts": 1792364584,
+  "title": "Man in dark clothing reported with alcohol near Sonic",
+  "address": "N State St, Provo, UT 84604",
+  "category": "Substance Use",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792364584_urdtixmy-man-in-dark-clothing-reported-with-alcohol-near-sonic"
+ },
+ {
+  "id": "26923_1792364074_nwnooohp-vehicles-moved-after-crash-on-south-highway",
+  "ts": 1792364074,
+  "title": "Vehicles moved after crash on south highway",
+  "address": "N Canyon Rd, Provo, UT 84604",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792364074_nwnooohp-vehicles-moved-after-crash-on-south-highway"
+ },
+ {
+  "id": "26923_1792362241_vviedzuc-minor-traffic-crash-with-no-injuries",
+  "ts": 1792362241,
+  "title": "Minor traffic crash with no injuries",
+  "address": "S 400 W, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792362241_vviedzuc-minor-traffic-crash-with-no-injuries"
+ },
+ {
+  "id": "26923_1792361814_nclvyqsa-traffic-stop-on-black-gmc-acadia-in-provo",
+  "ts": 1792361814,
+  "title": "Traffic stop on black GMC Acadia in Provo",
+  "address": "N 1400 W, Provo, UT 84604",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792361814_nclvyqsa-traffic-stop-on-black-gmc-acadia-in-provo"
+ },
+ {
+  "id": "26923_1792360295_vjrfvzhy-medical-transport-dispatched-near-north-500-west-in-provo",
+  "ts": 1792360295,
+  "title": "Medical transport dispatched near North 500 West in Provo",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792360295_vjrfvzhy-medical-transport-dispatched-near-north-500-west-in-provo"
+ },
+ {
   "id": "12042-6210_1792355167_pkxyjgdo-22-year-old-male-receives-cpr-after-suspected-overdose",
   "ts": 1792355167,
   "title": "22-year-old male receives CPR after suspected overdose",
@@ -278,45 +318,5 @@
   "address": "UT-265 & State St, Orem, UT 84058",
   "category": "Non-Crime Event",
   "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792305422_oijayggf-officers-conduct-welfare-check-on-man-walking-on-state"
- },
- {
-  "id": "26923_1792301955_ragkokux-39-year-old-man-with-head-trauma-and-altered-mental-status",
-  "ts": 1792301955,
-  "title": "39-year-old man with head trauma and altered mental status",
-  "address": "N 500 W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792301955_ragkokux-39-year-old-man-with-head-trauma-and-altered-mental-status"
- },
- {
-  "id": "26923_1792301189_dgviridd-noise-complaint-over-loud-music-and-people",
-  "ts": 1792301189,
-  "title": "Noise complaint over loud music and people",
-  "address": "E 300 S, Provo, UT 84606",
-  "category": "Disturbance",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792301189_dgviridd-noise-complaint-over-loud-music-and-people"
- },
- {
-  "id": "26923_1792300909_zjrgkfaz-suspicious-vehicle-left-running-at-front-center",
-  "ts": 1792300909,
-  "title": "Suspicious vehicle left running at front center",
-  "address": "S University Ave, Provo, UT 84601",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792300909_zjrgkfaz-suspicious-vehicle-left-running-at-front-center"
- },
- {
-  "id": "12042-3701_1792300740_mgzrjtbq-suspicious-running-vehicle-at-provo-central",
-  "ts": 1792300740,
-  "title": "Suspicious running vehicle at Provo Central",
-  "address": "Provo, 300 W 600 S, Provo, UT 84601",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/12042-3701_1792300740_mgzrjtbq-suspicious-running-vehicle-at-provo-central"
- },
- {
-  "id": "26923_1792300336_ljmpbaxj-lift-assist-for-elderly-man-at-orem-apartment",
-  "ts": 1792300336,
-  "title": "Lift assist for elderly man at Orem apartment",
-  "address": "W Center St, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792300336_ljmpbaxj-lift-assist-for-elderly-man-at-orem-apartment"
  }
 ]
