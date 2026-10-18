@@ -1,5 +1,53 @@
 [
  {
+  "id": "12042-6210_1792355167_pkxyjgdo-22-year-old-male-receives-cpr-after-suspected-overdose",
+  "ts": 1792355167,
+  "title": "22-year-old male receives CPR after suspected overdose",
+  "address": "Sandhill Rd, Orem, UT 84058",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792355167_pkxyjgdo-22-year-old-male-receives-cpr-after-suspected-overdose"
+ },
+ {
+  "id": "12042-2261_1792355016_jlzzbqmu-patient-transfer-by-air-medical-team-at-provo-airport",
+  "ts": 1792355016,
+  "title": "Patient transfer by air medical team at Provo airport",
+  "address": "Mike Jense Pkwy, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/12042-2261_1792355016_jlzzbqmu-patient-transfer-by-air-medical-team-at-provo-airport"
+ },
+ {
+  "id": "12042-2261_1792354286_wqlknhyu-teen-treated-after-overdose-at-utah-valley-er",
+  "ts": 1792354286,
+  "title": "Teen treated after overdose at Utah Valley ER",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Substance Use",
+  "link": "https://www.crimeradar.us/provo-ut/12042-2261_1792354286_wqlknhyu-teen-treated-after-overdose-at-utah-valley-er"
+ },
+ {
+  "id": "12042-2261_1792352660_wmzrinpl-teen-treated-for-overdose-transported-to-hospital",
+  "ts": 1792352660,
+  "title": "Teen treated for overdose, transported to hospital",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/12042-2261_1792352660_wmzrinpl-teen-treated-for-overdose-transported-to-hospital"
+ },
+ {
+  "id": "26923_1792351626_spcnpqqy-person-treated-with-oxygen-and-albuterol-in-orem",
+  "ts": 1792351626,
+  "title": "Person treated with oxygen and albuterol in Orem",
+  "address": "N 400 W St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792351626_spcnpqqy-person-treated-with-oxygen-and-albuterol-in-orem"
+ },
+ {
+  "id": "26923_1792351285_avjopqkn-ambulance-dispatched-to-near-north-400-west-for-fire",
+  "ts": 1792351285,
+  "title": "Ambulance dispatched to near North 400 West for fire",
+  "address": "N 400 W St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792351285_avjopqkn-ambulance-dispatched-to-near-north-400-west-for-fire"
+ },
+ {
   "id": "26923_1792349334_kgdikviy-medical-alarm-near-north-325-east-street",
   "ts": 1792349334,
   "title": "Medical alarm near North 325 East street",
@@ -270,53 +318,5 @@
   "address": "W Center St, Orem, UT 84057",
   "category": "Medical Emergency",
   "link": "https://www.crimeradar.us/orem-ut/26923_1792300336_ljmpbaxj-lift-assist-for-elderly-man-at-orem-apartment"
- },
- {
-  "id": "26923_1792300079_kkxskadl-smoke-alarm-malfunction-at-home-in-orem",
-  "ts": 1792300079,
-  "title": "Smoke alarm malfunction at home in Orem",
-  "address": "S 1080 W, Orem, UT 84058",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792300079_kkxskadl-smoke-alarm-malfunction-at-home-in-orem"
- },
- {
-  "id": "26923_1792299952_ebkwqvuo-smoke-alarm-with-basement-smoke-and-gas-alert",
-  "ts": 1792299952,
-  "title": "Smoke alarm with basement smoke and gas alert",
-  "address": "N 240 W, Orem, UT 84057",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792299952_ebkwqvuo-smoke-alarm-with-basement-smoke-and-gas-alert"
- },
- {
-  "id": "26923_1792298909_lfrqdsal-silent-duress-alarm-at-utah-county-residence",
-  "ts": 1792298909,
-  "title": "Silent duress alarm at Utah County residence",
-  "address": "S 770 W, Provo, UT 84601",
-  "category": "Break-In",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792298909_lfrqdsal-silent-duress-alarm-at-utah-county-residence"
- },
- {
-  "id": "26923_1792296270_ukvtpxap-traffic-crash-at-riverside-country-club",
-  "ts": 1792296270,
-  "title": "Traffic crash at Riverside Country Club",
-  "address": "Riverside Country Club, 2701 N University Ave, Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792296270_ukvtpxap-traffic-crash-at-riverside-country-club"
- },
- {
-  "id": "26923_1792295819_hknlpdsj-road-debris-hazard-on-east-center-street",
-  "ts": 1792295819,
-  "title": "Road debris hazard on East Center Street",
-  "address": "E Center St, Provo, UT 84606",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792295819_hknlpdsj-road-debris-hazard-on-east-center-street"
- },
- {
-  "id": "26923_1792294460_kkazlubl-smoke-reported-from-third-floor-apartment-balcony",
-  "ts": 1792294460,
-  "title": "Smoke reported from third floor apartment balcony",
-  "address": "1000 S building b, Orem, UT 84058",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792294460_kkazlubl-smoke-reported-from-third-floor-apartment-balcony"
  }
 ]
