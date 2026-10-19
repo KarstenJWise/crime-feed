@@ -1,5 +1,93 @@
 [
  {
+  "id": "26923_1792450573_echeucjc-two-car-crash-on-university-avenue-no-injuries",
+  "ts": 1792450573,
+  "title": "Two-car crash on University Avenue, no injuries",
+  "address": "N University Ave, Provo, UT 84604",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792450573_echeucjc-two-car-crash-on-university-avenue-no-injuries"
+ },
+ {
+  "id": "26923_1792449990_xvwzteqt-strong-natural-gas-odor-near-playground-at-byu",
+  "ts": 1792449990,
+  "title": "Strong natural gas odor near playground at BYU",
+  "address": "N Wymount Ter Dr building 6a, Provo, UT 84604",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792449990_xvwzteqt-strong-natural-gas-odor-near-playground-at-byu"
+ },
+ {
+  "id": "12042-6210_1792449025_stgiapln-two-pickup-trucks-crash-on-west-center-street",
+  "ts": 1792449025,
+  "title": "Two pickup trucks crash on West Center Street",
+  "address": "W Center St, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792449025_stgiapln-two-pickup-trucks-crash-on-west-center-street"
+ },
+ {
+  "id": "26923_1792447929_aqyakyrn-traffic-stop-on-white-tesla-on-south-orem-boulevard",
+  "ts": 1792447929,
+  "title": "Traffic stop on white Tesla on South Orem Boulevard",
+  "address": "South Orem Boulevard, Orem, Utah 84058, United States",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792447929_aqyakyrn-traffic-stop-on-white-tesla-on-south-orem-boulevard"
+ },
+ {
+  "id": "26923_1792447311_oaggeaho-parent-reports-concern-about-child-s-whereabouts",
+  "ts": 1792447311,
+  "title": "Parent reports concern about child\u2019s whereabouts",
+  "address": "S 1100 E, Orem, UT 84097",
+  "category": "Missing Person",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792447311_oaggeaho-parent-reports-concern-about-child-s-whereabouts"
+ },
+ {
+  "id": "26923_1792446978_rckotoqn-large-road-hazard-on-university-avenue",
+  "ts": 1792446978,
+  "title": "Large road hazard on University Avenue",
+  "address": "N University Ave & West Cougar Blvd, Provo, UT 84604",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792446978_rckotoqn-large-road-hazard-on-university-avenue"
+ },
+ {
+  "id": "26923_1792446929_fbupmsjh-officers-unable-to-locate-caller-at-taco-bell",
+  "ts": 1792446929,
+  "title": "Officers unable to locate caller at Taco Bell",
+  "address": "N University Ave & West Cougar Blvd, Provo, UT 84604",
+  "category": "Other Incidents",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792446929_fbupmsjh-officers-unable-to-locate-caller-at-taco-bell"
+ },
+ {
+  "id": "26923_1792446606_rntnqagc-civil-dispute-involving-vehicle-on-express-lanes",
+  "ts": 1792446606,
+  "title": "Civil dispute involving vehicle on express lanes",
+  "address": "W 3700 N & 400 W, Provo, UT 84604",
+  "category": "Other Incidents",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792446606_rntnqagc-civil-dispute-involving-vehicle-on-express-lanes"
+ },
+ {
+  "id": "26923_1792446265_gqkxgghs-officer-to-check-reported-crash-on-university-avenue",
+  "ts": 1792446265,
+  "title": "Officer to check reported crash on University Avenue",
+  "address": "N University Ave & E 600 N, Provo, UT 84606",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792446265_gqkxgghs-officer-to-check-reported-crash-on-university-avenue"
+ },
+ {
+  "id": "26923_1792442041_gxgxoyad-fire-alarm-check-at-buffalo-wild-wings",
+  "ts": 1792442041,
+  "title": "Fire alarm check at Buffalo Wild Wings",
+  "address": "E University Pkwy Ste. B28, Orem, UT 84097",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792442041_gxgxoyad-fire-alarm-check-at-buffalo-wild-wings"
+ },
+ {
+  "id": "26923_1792441703_jqayjckz-people-selling-equipment-from-van-in-parking-lot",
+  "ts": 1792441703,
+  "title": "People selling equipment from van in parking lot",
+  "address": "W Center St, Provo, UT 84601",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792441703_jqayjckz-people-selling-equipment-from-van-in-parking-lot"
+ },
+ {
   "id": "26923_1792437469_efllmpns-child-s-finger-stuck-and-discolored-in-wooden-toy",
   "ts": 1792437469,
   "title": "Child's finger stuck and discolored in wooden toy",
@@ -230,93 +318,5 @@
   "address": "West Cougar Blvd & N Freedom Blvd, Provo, UT 84604",
   "category": "Assault Report",
   "link": "https://www.crimeradar.us/provo-ut/26923_1792383102_gpajuxuw-police-search-for-assault-victim-at-mcdonald-s"
- },
- {
-  "id": "26923_1792382789_optayrxg-person-having-allergic-reaction-to-medication-in-provo",
-  "ts": 1792382789,
-  "title": "Person having allergic reaction to medication in Provo",
-  "address": "N 400 W St Apt 7, Provo, UT 84601",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792382789_optayrxg-person-having-allergic-reaction-to-medication-in-provo"
- },
- {
-  "id": "12042-2882_1792378849_bcvfvarl-two-car-crash-in-provo-with-no-reported-injuries",
-  "ts": 1792378849,
-  "title": "Two-car crash in Provo with no reported injuries",
-  "address": "S St, Provo, UT 84606",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/12042-2882_1792378849_bcvfvarl-two-car-crash-in-provo-with-no-reported-injuries"
- },
- {
-  "id": "26923_1792377810_rimgaxjr-alarm-company-reports-man-trying-to-disarm-shop-alarm",
-  "ts": 1792377810,
-  "title": "Alarm company reports man trying to disarm shop alarm",
-  "address": "E 500 S, Provo, UT 84606",
-  "category": "Break-In",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792377810_rimgaxjr-alarm-company-reports-man-trying-to-disarm-shop-alarm"
- },
- {
-  "id": "26923_1792376637_fyocwnpd-stalled-suv-creating-traffic-hazard-on-west-51-south",
-  "ts": 1792376637,
-  "title": "Stalled SUV creating traffic hazard on West 51 South",
-  "address": "W, Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792376637_fyocwnpd-stalled-suv-creating-traffic-hazard-on-west-51-south"
- },
- {
-  "id": "26923_1792376031_iocwhrtd-traffic-stop-in-parking-lot-on-south-vineyard-road",
-  "ts": 1792376031,
-  "title": "Traffic stop in parking lot on South Vineyard Road",
-  "address": "S Vineyard Rd, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792376031_iocwhrtd-traffic-stop-in-parking-lot-on-south-vineyard-road"
- },
- {
-  "id": "26923_1792375674_mkeldsel-alert-for-stolen-black-cadillac-in-provo-area",
-  "ts": 1792375674,
-  "title": "Alert for stolen black Cadillac in Provo area",
-  "address": "N Geneva Rd & W 1390 N, Provo, UT 84601",
-  "category": "Stolen Vehicle",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792375674_mkeldsel-alert-for-stolen-black-cadillac-in-provo-area"
- },
- {
-  "id": "26923_1792375477_hlynlhab-home-evacuated-after-gas-leak-and-co-alarms",
-  "ts": 1792375477,
-  "title": "Home evacuated after gas leak and CO alarms",
-  "address": "W 2370 N, Provo, UT 84604",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792375477_hlynlhab-home-evacuated-after-gas-leak-and-co-alarms"
- },
- {
-  "id": "26923_1792374811_wmxtzdxi-truck-flees-after-crash-near-900-north-in-provo",
-  "ts": 1792374811,
-  "title": "Truck flees after crash near 900 North in Provo",
-  "address": "W 900 N & N 850 W St, Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792374811_wmxtzdxi-truck-flees-after-crash-near-900-north-in-provo"
- },
- {
-  "id": "26923_1792374375_dcswtgts-traffic-stop-at-west-center-street-and-arizona",
-  "ts": 1792374375,
-  "title": "Traffic stop at West Center Street and Arizona",
-  "address": "W Center St, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792374375_dcswtgts-traffic-stop-at-west-center-street-and-arizona"
- },
- {
-  "id": "26923_1792374228_ravgurqd-elderly-woman-with-extreme-back-pain-at-senior-living",
-  "ts": 1792374228,
-  "title": "Elderly woman with extreme back pain at senior living",
-  "address": "N State St, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792374228_ravgurqd-elderly-woman-with-extreme-back-pain-at-senior-living"
- },
- {
-  "id": "26923_1792373783_vmnklsmd-suspicious-vehicle-reported-in-orem-and-provo-area",
-  "ts": 1792373783,
-  "title": "Suspicious vehicle reported in Orem and Provo area",
-  "address": "W 600 N St, Orem, UT 84057",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792373783_vmnklsmd-suspicious-vehicle-reported-in-orem-and-provo-area"
  }
 ]
