@@ -1,5 +1,29 @@
 [
  {
+  "id": "26923_1792372827_fqucjzlx-man-struck-in-head-at-helaman-halls-dormitory",
+  "ts": 1792372827,
+  "title": "Man struck in head at Helaman Halls dormitory",
+  "address": "Helaman Dr, Provo, UT 84604",
+  "category": "Assault Report",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792372827_fqucjzlx-man-struck-in-head-at-helaman-halls-dormitory"
+ },
+ {
+  "id": "26923_1792372201_erfcmeou-head-on-crash-with-injuries-at-900-west-400-south",
+  "ts": 1792372201,
+  "title": "Head-on crash with injuries at 900 West 400 South",
+  "address": "400 S, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792372201_erfcmeou-head-on-crash-with-injuries-at-900-west-400-south"
+ },
+ {
+  "id": "26923_1792369193_vbvxglok-concern-for-resident-after-person-ran-into-backyard",
+  "ts": 1792369193,
+  "title": "Concern for resident after person ran into backyard",
+  "address": "W 1200 N St, Orem, UT 84057",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792369193_vbvxglok-concern-for-resident-after-person-ran-into-backyard"
+ },
+ {
   "id": "26923_1792364584_urdtixmy-man-in-dark-clothing-reported-with-alcohol-near-sonic",
   "ts": 1792364584,
   "title": "Man in dark clothing reported with alcohol near Sonic",
@@ -294,29 +318,5 @@
   "address": "N 500 W, Provo, UT 84604",
   "category": "Medical Emergency",
   "link": "https://www.crimeradar.us/provo-ut/12042-2261_1792306822_mygkiydt-43-year-old-male-transported-conscious-and-breathing"
- },
- {
-  "id": "12042-2261_1792306224_jbbjtyvt-75-year-old-male-with-bradycardia-transported-to-rehab",
-  "ts": 1792306224,
-  "title": "75-year-old male with bradycardia transported to rehab",
-  "address": "N 500 W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-2261_1792306224_jbbjtyvt-75-year-old-male-with-bradycardia-transported-to-rehab"
- },
- {
-  "id": "26923_1792305540_aieygxsb-officer-checks-vehicle-owner-at-ihop-near-exit-269",
-  "ts": 1792305540,
-  "title": "Officer checks vehicle owner at IHOP near Exit 269",
-  "address": "Orem (Exit 269), UT, Orem, UT 84058",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792305540_aieygxsb-officer-checks-vehicle-owner-at-ihop-near-exit-269"
- },
- {
-  "id": "12042-6210_1792305422_oijayggf-officers-conduct-welfare-check-on-man-walking-on-state",
-  "ts": 1792305422,
-  "title": "Officers conduct welfare check on man walking on State",
-  "address": "UT-265 & State St, Orem, UT 84058",
-  "category": "Non-Crime Event",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792305422_oijayggf-officers-conduct-welfare-check-on-man-walking-on-state"
  }
 ]
