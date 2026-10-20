@@ -1,5 +1,101 @@
 [
  {
+  "id": "26923_1792460258_lbcspaep-possible-groaning-male-triggers-welfare-check-in-provo",
+  "ts": 1792460258,
+  "title": "Possible groaning male triggers welfare check in Provo",
+  "address": "N 1640 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792460258_lbcspaep-possible-groaning-male-triggers-welfare-check-in-provo"
+ },
+ {
+  "id": "12042-6210_1792459486_snwrjceq-traffic-complaint-involving-white-suv-near-number-withheld-north",
+  "ts": 1792459486,
+  "title": "Traffic complaint involving white SUV near (number withheld) North",
+  "address": "N Main St, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792459486_snwrjceq-traffic-complaint-involving-white-suv-near-number-withheld-north"
+ },
+ {
+  "id": "26923_1792459377_rhzpjzpl-person-with-epilepsy-having-seizure-at-home-on-ventilator",
+  "ts": 1792459377,
+  "title": "Person with epilepsy having seizure at home on ventilator",
+  "address": "W 80 S, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792459377_rhzpjzpl-person-with-epilepsy-having-seizure-at-home-on-ventilator"
+ },
+ {
+  "id": "26923_1792457832_gfqhinlw-traffic-issue-reported-near-north-mill-road",
+  "ts": 1792457832,
+  "title": "Traffic issue reported near North Mill Road",
+  "address": "Campus Dr, Provo, UT 84604",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792457832_gfqhinlw-traffic-issue-reported-near-north-mill-road"
+ },
+ {
+  "id": "26923_1792457139_aylwhduv-civil-dispute-reported-at-orem-residence",
+  "ts": 1792457139,
+  "title": "Civil dispute reported at Orem residence",
+  "address": "E 1010 N St, Orem, UT 84097",
+  "category": "Other Incidents",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792457139_aylwhduv-civil-dispute-reported-at-orem-residence"
+ },
+ {
+  "id": "12042-6210_1792455367_leddimci-garage-alarm-reported-at-home-in-orem",
+  "ts": 1792455367,
+  "title": "Garage alarm reported at home in Orem",
+  "address": "S 500 E, Orem, UT 84097",
+  "category": "Break-In",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792455367_leddimci-garage-alarm-reported-at-home-in-orem"
+ },
+ {
+  "id": "26923_1792453777_sunsvosh-reckless-van-runs-red-light-on-state-street",
+  "ts": 1792453777,
+  "title": "Reckless van runs red light on State Street",
+  "address": "N State St, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792453777_sunsvosh-reckless-van-runs-red-light-on-state-street"
+ },
+ {
+  "id": "12042-2261_1792453408_kkhxfzut-intoxicated-woman-needing-medical-clearance",
+  "ts": 1792453408,
+  "title": "Intoxicated woman needing medical clearance",
+  "address": "E 750 N St, Orem, UT 84097",
+  "category": "Substance Use",
+  "link": "https://www.crimeradar.us/orem-ut/12042-2261_1792453408_kkhxfzut-intoxicated-woman-needing-medical-clearance"
+ },
+ {
+  "id": "26923_1792453086_zluomplm-person-possibly-on-drugs-on-sidewalk-in-orem",
+  "ts": 1792453086,
+  "title": "Person possibly on drugs on sidewalk in Orem",
+  "address": "S Palisade Dr & Center St, Orem, UT 84097",
+  "category": "Substance Use",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792453086_zluomplm-person-possibly-on-drugs-on-sidewalk-in-orem"
+ },
+ {
+  "id": "12042-6210_1792451038_xmvbomwk-officer-assists-driver-of-gray-toyota-camry",
+  "ts": 1792451038,
+  "title": "Officer assists driver of gray Toyota Camry",
+  "address": "S Orem Blvd, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792451038_xmvbomwk-officer-assists-driver-of-gray-toyota-camry"
+ },
+ {
+  "id": "12042-6210_1792451024_vnztejiy-traffic-stop-on-south-geneva-road",
+  "ts": 1792451024,
+  "title": "Traffic stop on south Geneva Road",
+  "address": "S Geneva Rd, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792451024_vnztejiy-traffic-stop-on-south-geneva-road"
+ },
+ {
+  "id": "26923_1792450951_ejryqanv-traffic-crash-on-south-geneva-road",
+  "ts": 1792450951,
+  "title": "Traffic crash on South Geneva Road",
+  "address": "S Geneva Rd, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792450951_ejryqanv-traffic-crash-on-south-geneva-road"
+ },
+ {
   "id": "26923_1792450573_echeucjc-two-car-crash-on-university-avenue-no-injuries",
   "ts": 1792450573,
   "title": "Two-car crash on University Avenue, no injuries",
@@ -222,101 +318,5 @@
   "address": "W 1600 N St, Orem, UT 84057",
   "category": "Other Non-Crime Event",
   "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792414832_mgfjomns-cat-near-street-in-front-of-residence"
- },
- {
-  "id": "26923_1792412826_sziaydxl-unlocked-front-door-found-in-living-room-near-provo",
-  "ts": 1792412826,
-  "title": "Unlocked front door found in living room near Provo",
-  "address": "N 850 W St, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792412826_sziaydxl-unlocked-front-door-found-in-living-room-near-provo"
- },
- {
-  "id": "26923_1792407656_geytmztn-parking-issue-involving-white-pickup-in-orem",
-  "ts": 1792407656,
-  "title": "Parking issue involving white pickup in Orem",
-  "address": "W 310 N St, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792407656_geytmztn-parking-issue-involving-white-pickup-in-orem"
- },
- {
-  "id": "26923_1792407305_wmthpgav-patient-lethargic-with-low-blood-pressure-at-senior-living",
-  "ts": 1792407305,
-  "title": "Patient lethargic with low blood pressure at senior living",
-  "address": "S Geneva Rd, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792407305_wmthpgav-patient-lethargic-with-low-blood-pressure-at-senior-living"
- },
- {
-  "id": "26923_1792406650_pkrpdkke-72-year-old-male-with-heart-failure-has-trouble-breathing",
-  "ts": 1792406650,
-  "title": "72-year-old male with heart failure has trouble breathing",
-  "address": "360 W, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792406650_pkrpdkke-72-year-old-male-with-heart-failure-has-trouble-breathing"
- },
- {
-  "id": "26923_1792403049_ujzrgkgp-person-with-heart-problem-feels-dizzy-at-apartment",
-  "ts": 1792403049,
-  "title": "Person with heart problem feels dizzy at apartment",
-  "address": "S 1230 W, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792403049_ujzrgkgp-person-with-heart-problem-feels-dizzy-at-apartment"
- },
- {
-  "id": "26923_1792389156_akghyvlj-smoke-reported-in-home-on-north-300-west",
-  "ts": 1792389156,
-  "title": "Smoke reported in home on North 300 West",
-  "address": "N 300 W, Provo, UT 84604",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792389156_akghyvlj-smoke-reported-in-home-on-north-300-west"
- },
- {
-  "id": "26923_1792388200_ueguhliq-traffic-stop-at-chevron-on-north-state-street",
-  "ts": 1792388200,
-  "title": "Traffic stop at Chevron on North State Street",
-  "address": "N & State St, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792388200_ueguhliq-traffic-stop-at-chevron-on-north-state-street"
- },
- {
-  "id": "26923_1792386934_vcibytno-officers-check-reported-domestic-incident-at-main",
-  "ts": 1792386934,
-  "title": "Officers check reported domestic incident at Main",
-  "address": "UT-265 & S Main St, Orem, UT 84058",
-  "category": "Domestic Dispute",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792386934_vcibytno-officers-check-reported-domestic-incident-at-main"
- },
- {
-  "id": "26923_1792386585_pamrguiz-man-assaulted-and-unconscious-outside-orem-store",
-  "ts": 1792386585,
-  "title": "Man assaulted and unconscious outside Orem store",
-  "address": "W 800 S, Orem, UT 84058",
-  "category": "Domestic Dispute",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792386585_pamrguiz-man-assaulted-and-unconscious-outside-orem-store"
- },
- {
-  "id": "26923_1792386267_tuywmqgr-traffic-stop-on-suv-with-canceled-registration",
-  "ts": 1792386267,
-  "title": "Traffic stop on SUV with canceled registration",
-  "address": "E 1600 N St & 250 E, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792386267_tuywmqgr-traffic-stop-on-suv-with-canceled-registration"
- },
- {
-  "id": "12042-2261_1792385523_owiqcsxx-woman-with-severe-abdominal-pain-and-rectal-bleeding-in-orem",
-  "ts": 1792385523,
-  "title": "Woman with severe abdominal pain and rectal bleeding in Orem",
-  "address": "E 750 N St, Orem, UT 84097",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/12042-2261_1792385523_owiqcsxx-woman-with-severe-abdominal-pain-and-rectal-bleeding-in-orem"
- },
- {
-  "id": "26923_1792383102_gpajuxuw-police-search-for-assault-victim-at-mcdonald-s",
-  "ts": 1792383102,
-  "title": "Police search for assault victim at McDonald\u2019s",
-  "address": "West Cougar Blvd & N Freedom Blvd, Provo, UT 84604",
-  "category": "Assault Report",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792383102_gpajuxuw-police-search-for-assault-victim-at-mcdonald-s"
  }
 ]
