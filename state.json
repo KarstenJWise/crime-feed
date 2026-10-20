@@ -1,5 +1,69 @@
 [
  {
+  "id": "12042-5935_1792524656_xaqdiolt-medical-call-near-south-number-withheld-west-street-in-spanish-fork",
+  "ts": 1792524656,
+  "title": "Medical call near South (number withheld) West Street in Spanish Fork",
+  "address": "S 400 W St, Orem, UT 84058",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/12042-5935_1792524656_xaqdiolt-medical-call-near-south-number-withheld-west-street-in-spanish-fork"
+ },
+ {
+  "id": "12042-6210_1792521946_vhstmpsf-crash-involving-two-pickup-trucks-at-savers-lot",
+  "ts": 1792521946,
+  "title": "Crash involving two pickup trucks at Savers lot",
+  "address": "N Orem Blvd, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792521946_vhstmpsf-crash-involving-two-pickup-trucks-at-savers-lot"
+ },
+ {
+  "id": "12042-6210_1792520762_zdqxkkky-road-hazard-in-southbound-lane-on-north-geneva",
+  "ts": 1792520762,
+  "title": "Road hazard in southbound lane on North Geneva",
+  "address": "N Geneva Rd, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792520762_zdqxkkky-road-hazard-in-southbound-lane-on-north-geneva"
+ },
+ {
+  "id": "12042-5935_1792520727_gggsevbi-building-collapse-with-fire-near-provo",
+  "ts": 1792520727,
+  "title": "Building collapse with fire near Provo",
+  "address": "N 250 W St, Provo, UT 84604",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/12042-5935_1792520727_gggsevbi-building-collapse-with-fire-near-provo"
+ },
+ {
+  "id": "12042-6210_1792519926_mzikqmdm-two-vehicle-crash-at-center-street-and-orem-boulevard",
+  "ts": 1792519926,
+  "title": "Two-vehicle crash at Center Street and Orem Boulevard",
+  "address": "Center St & Orem Blvd, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792519926_mzikqmdm-two-vehicle-crash-at-center-street-and-orem-boulevard"
+ },
+ {
+  "id": "26923_1792519764_suzapkea-crash-at-center-and-armory-boulevard-intersection",
+  "ts": 1792519764,
+  "title": "Crash at Center and Armory Boulevard intersection",
+  "address": "W Center St, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792519764_suzapkea-crash-at-center-and-armory-boulevard-intersection"
+ },
+ {
+  "id": "26923_1792519341_khdgewth-parking-lot-crash-with-no-reported-injuries",
+  "ts": 1792519341,
+  "title": "Parking lot crash with no reported injuries",
+  "address": "N University Pkwy, Provo, UT 84604",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792519341_khdgewth-parking-lot-crash-with-no-reported-injuries"
+ },
+ {
+  "id": "26923_1792516701_laghthpc-person-reports-abdominal-pain-near-orem",
+  "ts": 1792516701,
+  "title": "Person reports abdominal pain near Orem",
+  "address": "W 1200 N St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792516701_laghthpc-person-reports-abdominal-pain-near-orem"
+ },
+ {
   "id": "12042-1838_1792512754_hoalhdvs-22-year-old-man-vomiting-after-crash-in-provo",
   "ts": 1792512754,
   "title": "22-year-old man vomiting after crash in Provo",
@@ -254,69 +318,5 @@
   "address": "E 750 N St, Orem, UT 84097",
   "category": "Substance Use",
   "link": "https://www.crimeradar.us/orem-ut/12042-2261_1792453408_kkhxfzut-intoxicated-woman-needing-medical-clearance"
- },
- {
-  "id": "26923_1792453086_zluomplm-person-possibly-on-drugs-on-sidewalk-in-orem",
-  "ts": 1792453086,
-  "title": "Person possibly on drugs on sidewalk in Orem",
-  "address": "S Palisade Dr & Center St, Orem, UT 84097",
-  "category": "Substance Use",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792453086_zluomplm-person-possibly-on-drugs-on-sidewalk-in-orem"
- },
- {
-  "id": "12042-6210_1792451038_xmvbomwk-officer-assists-driver-of-gray-toyota-camry",
-  "ts": 1792451038,
-  "title": "Officer assists driver of gray Toyota Camry",
-  "address": "S Orem Blvd, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792451038_xmvbomwk-officer-assists-driver-of-gray-toyota-camry"
- },
- {
-  "id": "12042-6210_1792451024_vnztejiy-traffic-stop-on-south-geneva-road",
-  "ts": 1792451024,
-  "title": "Traffic stop on south Geneva Road",
-  "address": "S Geneva Rd, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792451024_vnztejiy-traffic-stop-on-south-geneva-road"
- },
- {
-  "id": "26923_1792450951_ejryqanv-traffic-crash-on-south-geneva-road",
-  "ts": 1792450951,
-  "title": "Traffic crash on South Geneva Road",
-  "address": "S Geneva Rd, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792450951_ejryqanv-traffic-crash-on-south-geneva-road"
- },
- {
-  "id": "26923_1792450573_echeucjc-two-car-crash-on-university-avenue-no-injuries",
-  "ts": 1792450573,
-  "title": "Two-car crash on University Avenue, no injuries",
-  "address": "N University Ave, Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792450573_echeucjc-two-car-crash-on-university-avenue-no-injuries"
- },
- {
-  "id": "26923_1792449990_xvwzteqt-strong-natural-gas-odor-near-playground-at-byu",
-  "ts": 1792449990,
-  "title": "Strong natural gas odor near playground at BYU",
-  "address": "N Wymount Ter Dr building 6a, Provo, UT 84604",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792449990_xvwzteqt-strong-natural-gas-odor-near-playground-at-byu"
- },
- {
-  "id": "12042-6210_1792449025_stgiapln-two-pickup-trucks-crash-on-west-center-street",
-  "ts": 1792449025,
-  "title": "Two pickup trucks crash on West Center Street",
-  "address": "W Center St, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792449025_stgiapln-two-pickup-trucks-crash-on-west-center-street"
- },
- {
-  "id": "26923_1792447929_aqyakyrn-traffic-stop-on-white-tesla-on-south-orem-boulevard",
-  "ts": 1792447929,
-  "title": "Traffic stop on white Tesla on South Orem Boulevard",
-  "address": "South Orem Boulevard, Orem, Utah 84058, United States",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792447929_aqyakyrn-traffic-stop-on-white-tesla-on-south-orem-boulevard"
  }
 ]
