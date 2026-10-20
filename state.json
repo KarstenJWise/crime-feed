@@ -1,5 +1,141 @@
 [
  {
+  "id": "26923_1792477300_snvfyaod-traffic-stop-at-university-parkway-and-state-street",
+  "ts": 1792477300,
+  "title": "Traffic stop at University Parkway and State Street",
+  "address": "UT-265 & State St, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792477300_snvfyaod-traffic-stop-at-university-parkway-and-state-street"
+ },
+ {
+  "id": "26923_1792474106_rvlwbdla-traffic-stop-on-north-state-street-in-orem",
+  "ts": 1792474106,
+  "title": "Traffic stop on North State Street in Orem",
+  "address": "N State St, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792474106_rvlwbdla-traffic-stop-on-north-state-street-in-orem"
+ },
+ {
+  "id": "26923_1792473596_gvnoftxu-suspicious-driver-leaving-del-taco-parking-lot",
+  "ts": 1792473596,
+  "title": "Suspicious driver leaving Del Taco parking lot",
+  "address": "S State St, Orem, UT 84097",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792473596_gvnoftxu-suspicious-driver-leaving-del-taco-parking-lot"
+ },
+ {
+  "id": "26923_1792472347_crcejgzg-6-year-old-male-with-painful-hernia-in-provo",
+  "ts": 1792472347,
+  "title": "6-year-old male with painful hernia in Provo",
+  "address": "W 600 S & S Freedom Blvd, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792472347_crcejgzg-6-year-old-male-with-painful-hernia-in-provo"
+ },
+ {
+  "id": "26923_1792471646_rvroowwb-disturbance-suspect-leaves-university-parkway-lot",
+  "ts": 1792471646,
+  "title": "Disturbance suspect leaves University Parkway lot",
+  "address": "E University Pkwy, Orem, UT 84058",
+  "category": "Disturbance",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792471646_rvroowwb-disturbance-suspect-leaves-university-parkway-lot"
+ },
+ {
+  "id": "12042-2261_1792470253_fcsjcmmo-post-operative-complications-in-70-year-old-woman",
+  "ts": 1792470253,
+  "title": "Post-operative complications in 70-year-old woman",
+  "address": "W University Pkwy, Orem, UT 84058",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/12042-2261_1792470253_fcsjcmmo-post-operative-complications-in-70-year-old-woman"
+ },
+ {
+  "id": "26923_1792470209_airpgdxr-person-feeling-nauseous-at-apartment-in-provo",
+  "ts": 1792470209,
+  "title": "Person feeling nauseous at apartment in Provo",
+  "address": "N 100 E Apt 3, Provo, UT 84606",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792470209_airpgdxr-person-feeling-nauseous-at-apartment-in-provo"
+ },
+ {
+  "id": "12042-3701_1792469669_umtvpykv-officer-holds-lost-duffel-bag-for-owner-pickup",
+  "ts": 1792469669,
+  "title": "Officer holds lost duffel bag for owner pickup",
+  "address": "Provo, 300 W 600 S, Provo, UT 84601",
+  "category": "Other Non-Crime Events",
+  "link": "https://www.crimeradar.us/provo-ut/12042-3701_1792469669_umtvpykv-officer-holds-lost-duffel-bag-for-owner-pickup"
+ },
+ {
+  "id": "26923_1792469530_ghspxcnu-animal-complaint-involving-chihuahua-at-provo-home",
+  "ts": 1792469530,
+  "title": "Animal complaint involving Chihuahua at Provo home",
+  "address": "N 900 W, Provo, UT 84601",
+  "category": "Other Incidents",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792469530_ghspxcnu-animal-complaint-involving-chihuahua-at-provo-home"
+ },
+ {
+  "id": "26923_1792468752_wgreqouw-73-year-old-woman-fell-and-has-swollen-ankle",
+  "ts": 1792468752,
+  "title": "73-year-old woman fell and has swollen ankle",
+  "address": "S 400 E, Orem, UT 84058",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792468752_wgreqouw-73-year-old-woman-fell-and-has-swollen-ankle"
+ },
+ {
+  "id": "26923_1792468648_rrtibbvj-parent-reports-missing-juvenile-in-orem",
+  "ts": 1792468648,
+  "title": "Parent reports missing juvenile in Orem",
+  "address": "S 430 W, Orem, UT 84058",
+  "category": "Missing Person",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792468648_rrtibbvj-parent-reports-missing-juvenile-in-orem"
+ },
+ {
+  "id": "26923_1792467409_xnlvseid-patient-en-route-to-hospital-from-provo-address",
+  "ts": 1792467409,
+  "title": "Patient en route to hospital from Provo address",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792467409_xnlvseid-patient-en-route-to-hospital-from-provo-address"
+ },
+ {
+  "id": "26923_1792464276_qjhpyeav-person-with-abdominal-pain-in-orem-basement-apartment",
+  "ts": 1792464276,
+  "title": "Person with abdominal pain in Orem basement apartment",
+  "address": "450 E, Orem, UT 84097",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792464276_qjhpyeav-person-with-abdominal-pain-in-orem-basement-apartment"
+ },
+ {
+  "id": "26923_1792463343_eksnzpec-neighbor-dispute-over-tools-near-provo",
+  "ts": 1792463343,
+  "title": "Neighbor dispute over tools near Provo",
+  "address": "S 800 W, Provo, UT 84601",
+  "category": "Other Incidents",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792463343_eksnzpec-neighbor-dispute-over-tools-near-provo"
+ },
+ {
+  "id": "12042-560_1792461987_mcxuotfd-basement-fire-alarm-at-provo-residence",
+  "ts": 1792461987,
+  "title": "Basement fire alarm at Provo residence",
+  "address": "S 900 E St, Provo, UT 84606",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/12042-560_1792461987_mcxuotfd-basement-fire-alarm-at-provo-residence"
+ },
+ {
+  "id": "12042-559_1792461885_gyfclzzf-fire-alarm-at-south-900-east-residence",
+  "ts": 1792461885,
+  "title": "Fire alarm at South 900 East residence",
+  "address": "S 900 E St, Provo, UT 84606",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/12042-559_1792461885_gyfclzzf-fire-alarm-at-south-900-east-residence"
+ },
+ {
+  "id": "26923_1792460952_spuocham-traffic-stop-with-red-nissan-on-address-number-withheld-south",
+  "ts": 1792460952,
+  "title": "Traffic stop with red Nissan on (address_number withheld) South",
+  "address": "S 1000 E, Orem, UT 84097",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792460952_spuocham-traffic-stop-with-red-nissan-on-address-number-withheld-south"
+ },
+ {
   "id": "26923_1792460258_lbcspaep-possible-groaning-male-triggers-welfare-check-in-provo",
   "ts": 1792460258,
   "title": "Possible groaning male triggers welfare check in Provo",
@@ -182,141 +318,5 @@
   "address": "W Center St, Provo, UT 84601",
   "category": "Suspicious Activity",
   "link": "https://www.crimeradar.us/provo-ut/26923_1792441703_jqayjckz-people-selling-equipment-from-van-in-parking-lot"
- },
- {
-  "id": "26923_1792437469_efllmpns-child-s-finger-stuck-and-discolored-in-wooden-toy",
-  "ts": 1792437469,
-  "title": "Child's finger stuck and discolored in wooden toy",
-  "address": "S Main St, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792437469_efllmpns-child-s-finger-stuck-and-discolored-in-wooden-toy"
- },
- {
-  "id": "26923_1792437427_ibkcdbxl-traffic-stop-of-black-nissan-titan-truck",
-  "ts": 1792437427,
-  "title": "Traffic stop of black Nissan Titan truck",
-  "address": "S Main St, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792437427_ibkcdbxl-traffic-stop-of-black-nissan-titan-truck"
- },
- {
-  "id": "26923_1792436177_pnlmkkre-workers-control-natural-gas-leak-at-provo-building",
-  "ts": 1792436177,
-  "title": "Workers control natural gas leak at Provo building",
-  "address": "400 S, Provo, UT 84606",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792436177_pnlmkkre-workers-control-natural-gas-leak-at-provo-building"
- },
- {
-  "id": "26923_1792434691_qzwiuimf-male-patient-bleeding-from-kidney-drainage-bag-in-orem",
-  "ts": 1792434691,
-  "title": "Male patient bleeding from kidney drainage bag in Orem",
-  "address": "N 950 W St, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792434691_qzwiuimf-male-patient-bleeding-from-kidney-drainage-bag-in-orem"
- },
- {
-  "id": "26923_1792432445_dvnfeceu-officer-requests-help-at-traffic-stop-on-south-university",
-  "ts": 1792432445,
-  "title": "Officer requests help at traffic stop on South University",
-  "address": "S University Ave, Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792432445_dvnfeceu-officer-requests-help-at-traffic-stop-on-south-university"
- },
- {
-  "id": "26923_1792431621_btoatnkf-possible-unattended-death-at-number-withheld-south-in-orem",
-  "ts": 1792431621,
-  "title": "Possible unattended death at (number withheld) South in Orem",
-  "address": "W & W 400 S, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792431621_btoatnkf-possible-unattended-death-at-number-withheld-south-in-orem"
- },
- {
-  "id": "26923_1792430902_twcvbbit-small-fire-reported-near-provo",
-  "ts": 1792430902,
-  "title": "Small fire reported near Provo",
-  "address": "W 300 S St, Provo, UT 84601",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792430902_twcvbbit-small-fire-reported-near-provo"
- },
- {
-  "id": "26923_1792430286_aiserxtk-officers-locate-woman-near-campus-library",
-  "ts": 1792430286,
-  "title": "Officers locate woman near campus library",
-  "address": "Library, Orem, UT 84058",
-  "category": "Missing Person",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792430286_aiserxtk-officers-locate-woman-near-campus-library"
- },
- {
-  "id": "26923_1792429973_irwvrcei-officer-checks-vehicle-at-dollar-tree-parking-lot",
-  "ts": 1792429973,
-  "title": "Officer checks vehicle at Dollar Tree parking lot",
-  "address": "N State St, Orem, UT 84057",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792429973_irwvrcei-officer-checks-vehicle-at-dollar-tree-parking-lot"
- },
- {
-  "id": "12042-6206_1792428495_fyexylsd-disabled-vehicle-blocking-left-turn-lane",
-  "ts": 1792428495,
-  "title": "Disabled vehicle blocking left-turn lane",
-  "address": "N State St, Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6206_1792428495_fyexylsd-disabled-vehicle-blocking-left-turn-lane"
- },
- {
-  "id": "26923_1792425734_mpsegbrj-traffic-stop-at-main-and-university-parkway",
-  "ts": 1792425734,
-  "title": "Traffic stop at Main and University Parkway",
-  "address": "E University Pkwy & S Main St, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792425734_mpsegbrj-traffic-stop-at-main-and-university-parkway"
- },
- {
-  "id": "26923_1792425683_huaxdbiu-traffic-stop-on-w-200-north-in-orem",
-  "ts": 1792425683,
-  "title": "Traffic stop on W 200 North in Orem",
-  "address": "W 200 N, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792425683_huaxdbiu-traffic-stop-on-w-200-north-in-orem"
- },
- {
-  "id": "26923_1792425435_koxfnmum-officer-contacts-black-gmc-yukon-in-theater-lot",
-  "ts": 1792425435,
-  "title": "Officer contacts black GMC Yukon in theater lot",
-  "address": "S 400 E, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792425435_koxfnmum-officer-contacts-black-gmc-yukon-in-theater-lot"
- },
- {
-  "id": "26923_1792425336_nrgnapkx-person-had-a-seizure-at-recovery-center-in-orem",
-  "ts": 1792425336,
-  "title": "Person had a seizure at recovery center in Orem",
-  "address": "Orem Blvd, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792425336_nrgnapkx-person-had-a-seizure-at-recovery-center-in-orem"
- },
- {
-  "id": "26923_1792425321_royadslm-marijuana-odor-reported-in-room-at-south-university",
-  "ts": 1792425321,
-  "title": "Marijuana odor reported in room at South University",
-  "address": "S University Ave, Provo, UT 84601",
-  "category": "Substance Use",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792425321_royadslm-marijuana-odor-reported-in-room-at-south-university"
- },
- {
-  "id": "26923_1792417195_fbrsbcjo-burglar-alarm-at-west-entrance-of-orem-address",
-  "ts": 1792417195,
-  "title": "Burglar alarm at west entrance of Orem address",
-  "address": "E 800 S, Orem, UT 84097",
-  "category": "Break-In",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792417195_fbrsbcjo-burglar-alarm-at-west-entrance-of-orem-address"
- },
- {
-  "id": "12042-6210_1792414832_mgfjomns-cat-near-street-in-front-of-residence",
-  "ts": 1792414832,
-  "title": "Cat near street in front of residence",
-  "address": "W 1600 N St, Orem, UT 84057",
-  "category": "Other Non-Crime Event",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792414832_mgfjomns-cat-near-street-in-front-of-residence"
  }
 ]
