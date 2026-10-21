@@ -1,5 +1,109 @@
 [
  {
+  "id": "12042-5936_1792614007_cnhripwz-man-intubated-with-respiratory-failure-transported-to-hospital",
+  "ts": 1792614007,
+  "title": "Man intubated with respiratory failure transported to hospital",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/12042-5936_1792614007_cnhripwz-man-intubated-with-respiratory-failure-transported-to-hospital"
+ },
+ {
+  "id": "26923_1792612113_nruqustw-officer-reports-abandoned-vehicle-with-parking-issue",
+  "ts": 1792612113,
+  "title": "Officer reports abandoned vehicle with parking issue",
+  "address": "W 1340 S & 680 W, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792612113_nruqustw-officer-reports-abandoned-vehicle-with-parking-issue"
+ },
+ {
+  "id": "12042-1838_1792610250_vfhvaoqh-traffic-inspection-of-white-dump-truck-on-off-ramp",
+  "ts": 1792610250,
+  "title": "Traffic inspection of white dump truck on off-ramp",
+  "address": "I 15 and West University Parkway, Orem, Utah 84058, United States",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-1838_1792610250_vfhvaoqh-traffic-inspection-of-white-dump-truck-on-off-ramp"
+ },
+ {
+  "id": "26923_1792608750_xitotbrs-welfare-check-for-woman-in-black-jeep-near-middle-school",
+  "ts": 1792608750,
+  "title": "Welfare check for woman in black Jeep near middle school",
+  "address": "W 890 S, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792608750_xitotbrs-welfare-check-for-woman-in-black-jeep-near-middle-school"
+ },
+ {
+  "id": "26923_1792608307_xwmydxup-paper-service-near-university-village",
+  "ts": 1792608307,
+  "title": "Paper service near University Village",
+  "address": "S Sandhill Rd, Orem, UT 84058",
+  "category": "Other Incidents",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792608307_xwmydxup-paper-service-near-university-village"
+ },
+ {
+  "id": "12042-6206_1792607631_itsurnfy-family-disturbance-at-grandview-village-condos",
+  "ts": 1792607631,
+  "title": "Family disturbance at Grandview Village Condos",
+  "address": "N Grandview Ln, Provo, UT 84604",
+  "category": "Domestic Dispute",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6206_1792607631_itsurnfy-family-disturbance-at-grandview-village-condos"
+ },
+ {
+  "id": "26923_1792607558_ncngamlp-family-argument-outside-grandview-village-condos",
+  "ts": 1792607558,
+  "title": "Family argument outside Grandview Village condos",
+  "address": "N Grandview Ln, Provo, UT 84604",
+  "category": "Domestic Dispute",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792607558_ncngamlp-family-argument-outside-grandview-village-condos"
+ },
+ {
+  "id": "12042-6206_1792606338_oaomkaox-pedestrian-reportedly-hit-by-vehicle-near-taco-bell",
+  "ts": 1792606338,
+  "title": "Pedestrian reportedly hit by vehicle near Taco Bell",
+  "address": "S University Ave, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6206_1792606338_oaomkaox-pedestrian-reportedly-hit-by-vehicle-near-taco-bell"
+ },
+ {
+  "id": "12042-3701_1792604736_ohhbitsg-minor-traffic-crash-on-west-university-parkway",
+  "ts": 1792604736,
+  "title": "Minor traffic crash on West University Parkway",
+  "address": "W University Pkwy, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-3701_1792604736_ohhbitsg-minor-traffic-crash-on-west-university-parkway"
+ },
+ {
+  "id": "26923_1792603413_zrzdgpvg-rock-thrown-through-garage-window-in-provo",
+  "ts": 1792603413,
+  "title": "Rock thrown through garage window in Provo",
+  "address": "S 950 E, Provo, UT 84606",
+  "category": "Property Damage",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792603413_zrzdgpvg-rock-thrown-through-garage-window-in-provo"
+ },
+ {
+  "id": "26923_1792602480_lskhahvk-infant-with-hypoxia-and-apnea-receives-oxygen-in-provo",
+  "ts": 1792602480,
+  "title": "Infant with hypoxia and apnea receives oxygen in Provo",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792602480_lskhahvk-infant-with-hypoxia-and-apnea-receives-oxygen-in-provo"
+ },
+ {
+  "id": "26923_1792602320_llcpvfwj-woman-reported-without-pants-in-campus-library",
+  "ts": 1792602320,
+  "title": "Woman reported without pants in campus library",
+  "address": "W University Pkwy, Orem, UT 84058",
+  "category": "Suspicious Person",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792602320_llcpvfwj-woman-reported-without-pants-in-campus-library"
+ },
+ {
+  "id": "26923_1792602015_rrpayhjk-5-year-old-girl-bleeding-after-fall-in-orem",
+  "ts": 1792602015,
+  "title": "5-year-old girl bleeding after fall in Orem",
+  "address": "N 970 W St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792602015_rrpayhjk-5-year-old-girl-bleeding-after-fall-in-orem"
+ },
+ {
   "id": "26923_1792601321_dlyrxbgj-patient-with-chest-pain-at-dental-office-in-provo",
   "ts": 1792601321,
   "title": "Patient with chest pain at dental office in Provo",
@@ -214,109 +318,5 @@
   "address": "Geneva Rd & 800 S, Orem, UT 84058",
   "category": "Traffic",
   "link": "https://www.crimeradar.us/orem-ut/26923_1792555587_kiyhogrj-two-vehicle-crash-blocking-geneva-road-in-orem"
- },
- {
-  "id": "12042-6216_1792555406_tsaooaeh-adult-male-unconscious-and-breathing-after-cpr-in-provo",
-  "ts": 1792555406,
-  "title": "Adult male unconscious and breathing after CPR in Provo",
-  "address": "N 1350 W St, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6216_1792555406_tsaooaeh-adult-male-unconscious-and-breathing-after-cpr-in-provo"
- },
- {
-  "id": "12042-6216_1792555396_eknhfndq-75-year-old-woman-passes-out-and-bleeds-from-head",
-  "ts": 1792555396,
-  "title": "75-year-old woman passes out and bleeds from head",
-  "address": "N 840 E St, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6216_1792555396_eknhfndq-75-year-old-woman-passes-out-and-bleeds-from-head"
- },
- {
-  "id": "26923_1792555381_vtefjkkg-adult-male-with-suspected-fentanyl-overdose",
-  "ts": 1792555381,
-  "title": "Adult male with suspected fentanyl overdose",
-  "address": "N 1550 W St, Provo, UT 84604",
-  "category": "Substance Use",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792555381_vtefjkkg-adult-male-with-suspected-fentanyl-overdose"
- },
- {
-  "id": "12042-6215_1792555323_yuimocab-adult-receives-cpr-near-provo",
-  "ts": 1792555323,
-  "title": "Adult receives CPR near Provo",
-  "address": "N 1350 W St, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6215_1792555323_yuimocab-adult-receives-cpr-near-provo"
- },
- {
-  "id": "26923_1792555265_xcqbqonr-unconscious-person-with-possible-drug-overdose",
-  "ts": 1792555265,
-  "title": "Unconscious person with possible drug overdose",
-  "address": "N 1350 W St, Provo, UT 84604",
-  "category": "Substance Use",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792555265_xcqbqonr-unconscious-person-with-possible-drug-overdose"
- },
- {
-  "id": "26923_1792554608_psclnqps-officer-responds-to-road-hazard-on-southridge-road",
-  "ts": 1792554608,
-  "title": "Officer responds to road hazard on Southridge Road",
-  "address": "N 500 E, Provo, UT 84606",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792554608_psclnqps-officer-responds-to-road-hazard-on-southridge-road"
- },
- {
-  "id": "26923_1792554076_agwsumuy-vehicle-parked-for-days-occupants-may-use-drugs",
-  "ts": 1792554076,
-  "title": "Vehicle parked for days, occupants may use drugs",
-  "address": "W 1033 N St, Orem, UT 84057",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792554076_agwsumuy-vehicle-parked-for-days-occupants-may-use-drugs"
- },
- {
-  "id": "26923_1792550992_pemetetv-traffic-stop-involving-white-van-in-orem",
-  "ts": 1792550992,
-  "title": "Traffic stop involving white van in Orem",
-  "address": "S 100 E, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792550992_pemetetv-traffic-stop-involving-white-van-in-orem"
- },
- {
-  "id": "12042-6210_1792548589_cjuvauky-medical-response-at-mcdonald-s-at-1600-north-state",
-  "ts": 1792548589,
-  "title": "Medical response at McDonald's at 1600 North State",
-  "address": "N State St, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792548589_cjuvauky-medical-response-at-mcdonald-s-at-1600-north-state"
- },
- {
-  "id": "12042-6210_1792548573_jdipkufv-traffic-stop-with-medical-response-at-mcdonald-s",
-  "ts": 1792548573,
-  "title": "Traffic stop with medical response at McDonald's",
-  "address": "N State St, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792548573_jdipkufv-traffic-stop-with-medical-response-at-mcdonald-s"
- },
- {
-  "id": "26923_1792548371_oacgehoo-medics-requested-after-taser-and-spray-use-at-fulton-library",
-  "ts": 1792548371,
-  "title": "Medics requested after Taser and spray use at Fulton Library",
-  "address": "W University Pkwy, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792548371_oacgehoo-medics-requested-after-taser-and-spray-use-at-fulton-library"
- },
- {
-  "id": "26923_1792545730_fmbiippg-crying-person-reported-outside-keller-building",
-  "ts": 1792545730,
-  "title": "Crying person reported outside Keller building",
-  "address": "Orem, UT 84058",
-  "category": "Suspicious Person",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792545730_fmbiippg-crying-person-reported-outside-keller-building"
- },
- {
-  "id": "26923_1792545129_xvscwpqb-traffic-stop-for-expired-registration-on-state-street",
-  "ts": 1792545129,
-  "title": "Traffic stop for expired registration on State Street",
-  "address": "Buckley Ln, Provo, UT 84606",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792545129_xvscwpqb-traffic-stop-for-expired-registration-on-state-street"
  }
 ]
