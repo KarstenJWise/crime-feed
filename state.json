@@ -1,5 +1,117 @@
 [
  {
+  "id": "26923_1792711464_lzcxhxnq-citizen-complaint-about-street-parking-ruled-legal",
+  "ts": 1792711464,
+  "title": "Citizen complaint about street parking ruled legal",
+  "address": "S 400 W St, Orem, UT 84058",
+  "category": "Other Incidents",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792711464_lzcxhxnq-citizen-complaint-about-street-parking-ruled-legal"
+ },
+ {
+  "id": "12042-6210_1792711170_nvhewesi-panic-alarm-reported-at-business-on-canyon-parkway",
+  "ts": 1792711170,
+  "title": "Panic alarm reported at business on Canyon Parkway",
+  "address": "W Cyn Pkwy, Orem, UT 84057",
+  "category": "Break-In",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792711170_nvhewesi-panic-alarm-reported-at-business-on-canyon-parkway"
+ },
+ {
+  "id": "12042-6210_1792711158_haznhjug-police-respond-to-keys-call-involving-blue-kia",
+  "ts": 1792711158,
+  "title": "Police respond to keys call involving blue Kia",
+  "address": "S State St, Orem, UT 84058",
+  "category": "Other Incidents",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792711158_haznhjug-police-respond-to-keys-call-involving-blue-kia"
+ },
+ {
+  "id": "12042-6210_1792711146_ybdeaiwd-traffic-stop-on-blue-kia-at-wolverine-way",
+  "ts": 1792711146,
+  "title": "Traffic stop on blue Kia at Wolverine Way",
+  "address": "N Wolverine Wy, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792711146_ybdeaiwd-traffic-stop-on-blue-kia-at-wolverine-way"
+ },
+ {
+  "id": "26923_1792710942_fhxpyfzm-patient-conscious-and-breathing-in-icu-room",
+  "ts": 1792710942,
+  "title": "Patient conscious and breathing in ICU room",
+  "address": "W University Pkwy, Orem, UT 84058",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792710942_fhxpyfzm-patient-conscious-and-breathing-in-icu-room"
+ },
+ {
+  "id": "12042-6206_1792709844_hpptfyql-person-overdoses-on-medication-near-provo",
+  "ts": 1792709844,
+  "title": "Person overdoses on medication near Provo",
+  "address": "N 820 E St, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6206_1792709844_hpptfyql-person-overdoses-on-medication-near-provo"
+ },
+ {
+  "id": "12042-6215_1792709828_fctyzdyp-person-overdosed-at-home-in-provo",
+  "ts": 1792709828,
+  "title": "Person overdosed at home in Provo",
+  "address": "N 820 E St, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6215_1792709828_fctyzdyp-person-overdosed-at-home-in-provo"
+ },
+ {
+  "id": "12042-2882_1792708737_ngqoaznb-officer-with-victim-near-orem",
+  "ts": 1792708737,
+  "title": "Officer with victim near Orem",
+  "address": "E 840 N, Orem, UT 84097",
+  "category": "Other Incidents",
+  "link": "https://www.crimeradar.us/orem-ut/12042-2882_1792708737_ngqoaznb-officer-with-victim-near-orem"
+ },
+ {
+  "id": "26923_1792705861_wshjqyhq-person-found-unconscious-at-healthcare-facility",
+  "ts": 1792705861,
+  "title": "Person found unconscious at healthcare facility",
+  "address": "N 500 W Bldg A, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792705861_wshjqyhq-person-found-unconscious-at-healthcare-facility"
+ },
+ {
+  "id": "26923_1792705790_bdkjpzau-medical-condition-alert-near-provo",
+  "ts": 1792705790,
+  "title": "Medical condition alert near Provo",
+  "address": "N 1640 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792705790_bdkjpzau-medical-condition-alert-near-provo"
+ },
+ {
+  "id": "12042-6210_1792704557_pbtuhfgp-traffic-stop-on-west-center-street-in-orem",
+  "ts": 1792704557,
+  "title": "Traffic stop on West Center Street in Orem",
+  "address": "W Center St, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792704557_pbtuhfgp-traffic-stop-on-west-center-street-in-orem"
+ },
+ {
+  "id": "12042-6210_1792704542_ifhijrjx-loose-dog-near-junior-high-school",
+  "ts": 1792704542,
+  "title": "Loose dog near junior high school",
+  "address": "E 950 N St, Orem, UT 84097",
+  "category": "Other Non-Crime Event",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792704542_ifhijrjx-loose-dog-near-junior-high-school"
+ },
+ {
+  "id": "26923_1792702682_ihnsqier-minor-crash-between-two-city-vehicles-on-state-street",
+  "ts": 1792702682,
+  "title": "Minor crash between two city vehicles on State Street",
+  "address": "N State St, Provo, UT 84604",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792702682_ihnsqier-minor-crash-between-two-city-vehicles-on-state-street"
+ },
+ {
+  "id": "26923_1792702528_nijlijsy-domestic-disturbance-with-man-and-woman-reported",
+  "ts": 1792702528,
+  "title": "Domestic disturbance with man and woman reported",
+  "address": "W 640 N St, Orem, UT 84057",
+  "category": "Domestic Dispute",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792702528_nijlijsy-domestic-disturbance-with-man-and-woman-reported"
+ },
+ {
   "id": "26923_1792700851_apbsdcik-man-reports-lost-passport-at-orem-grocery-store",
   "ts": 1792700851,
   "title": "Man reports lost passport at Orem grocery store",
@@ -206,117 +318,5 @@
   "address": "S Main St, Orem, UT 84058",
   "category": "Traffic",
   "link": "https://www.crimeradar.us/orem-ut/26923_1792663724_izglzbup-traffic-stop-on-south-main-street-in-orem"
- },
- {
-  "id": "26923_1792663708_drpabnvr-police-dog-requested-for-vehicle-search-assist",
-  "ts": 1792663708,
-  "title": "Police dog requested for vehicle search assist",
-  "address": "Towne Centre Dr & University Ave, Provo, UT 84601",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792663708_drpabnvr-police-dog-requested-for-vehicle-search-assist"
- },
- {
-  "id": "26923_1792654967_fjvviort-officer-provides-motorist-assistance-at-winco",
-  "ts": 1792654967,
-  "title": "Officer provides motorist assistance at WinCo",
-  "address": "N 980 W, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792654967_fjvviort-officer-provides-motorist-assistance-at-winco"
- },
- {
-  "id": "26923_1792654944_kcbiptpk-officers-respond-to-fight-on-south-university-avenue",
-  "ts": 1792654944,
-  "title": "Officers respond to fight on South University Avenue",
-  "address": "S University Ave, Provo, UT 84601",
-  "category": "Assault Report",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792654944_kcbiptpk-officers-respond-to-fight-on-south-university-avenue"
- },
- {
-  "id": "26923_1792651507_mazymdyx-traffic-stop-on-south-state-street-in-orem",
-  "ts": 1792651507,
-  "title": "Traffic stop on South State Street in Orem",
-  "address": "S State St, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792651507_mazymdyx-traffic-stop-on-south-state-street-in-orem"
- },
- {
-  "id": "26923_1792647723_klmudakj-masked-juveniles-running-through-yards-in-orem",
-  "ts": 1792647723,
-  "title": "Masked juveniles running through yards in Orem",
-  "address": "N 350 W, Orem, UT 84057",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792647723_klmudakj-masked-juveniles-running-through-yards-in-orem"
- },
- {
-  "id": "26923_1792646444_lzfuntji-traffic-stop-and-welfare-check-outside-provo-store",
-  "ts": 1792646444,
-  "title": "Traffic stop and welfare check outside Provo store",
-  "address": "100 N, Provo, UT 84606",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792646444_lzfuntji-traffic-stop-and-welfare-check-outside-provo-store"
- },
- {
-  "id": "26923_1792646369_wajaazhs-male-in-60s-conscious-and-breathing-in-parking-lot",
-  "ts": 1792646369,
-  "title": "Male in 60s conscious and breathing in parking lot",
-  "address": "E University Pkwy, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792646369_wajaazhs-male-in-60s-conscious-and-breathing-in-parking-lot"
- },
- {
-  "id": "26923_1792642425_kyulvial-carbon-monoxide-alarm-at-home-in-orem",
-  "ts": 1792642425,
-  "title": "Carbon monoxide alarm at home in Orem",
-  "address": "W 360 S, Orem, UT 84058",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792642425_kyulvial-carbon-monoxide-alarm-at-home-in-orem"
- },
- {
-  "id": "26923_1792641141_nhjxwiwn-commercial-fire-alarm-at-business-near-taco-time",
-  "ts": 1792641141,
-  "title": "Commercial fire alarm at business near Taco Time",
-  "address": "S State St, Orem, UT 84097",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792641141_nhjxwiwn-commercial-fire-alarm-at-business-near-taco-time"
- },
- {
-  "id": "26923_1792640941_azgjxuvm-person-staring-through-door-at-east-100-south-address",
-  "ts": 1792640941,
-  "title": "Person staring through door at East 100 South address",
-  "address": "E 100 S, Orem, UT 84097",
-  "category": "Suspicious Person",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792640941_azgjxuvm-person-staring-through-door-at-east-100-south-address"
- },
- {
-  "id": "12042-5936_1792639809_fkafovfm-fire-crew-investigates-two-story-home-nothing-showing",
-  "ts": 1792639809,
-  "title": "Fire crew investigates two-story home, nothing showing",
-  "address": "W 950 N St, Provo, UT 84604",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/12042-5936_1792639809_fkafovfm-fire-crew-investigates-two-story-home-nothing-showing"
- },
- {
-  "id": "26923_1792639673_ehyljmbb-traffic-stop-on-i-15-near-1600-south-in-orem",
-  "ts": 1792639673,
-  "title": "Traffic stop on I-15 near 1600 South in Orem",
-  "address": "1600 S, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792639673_ehyljmbb-traffic-stop-on-i-15-near-1600-south-in-orem"
- },
- {
-  "id": "26923_1792639110_kpeggroa-child-locked-in-car-seat-in-vehicle-at-university-building",
-  "ts": 1792639110,
-  "title": "Child locked in car seat in vehicle at university building",
-  "address": "Jefferson Building, N University Ave, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792639110_kpeggroa-child-locked-in-car-seat-in-vehicle-at-university-building"
- },
- {
-  "id": "26923_1792638726_ccnwzayu-46-year-old-woman-dizzy-with-slowed-breathing-after-collapsing-at-home-in-orem",
-  "ts": 1792638726,
-  "title": "46-year-old woman dizzy with slowed breathing after collapsing at home in Orem",
-  "address": "S 350 E, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792638726_ccnwzayu-46-year-old-woman-dizzy-with-slowed-breathing-after-collapsing-at-home-in-orem"
  }
 ]
