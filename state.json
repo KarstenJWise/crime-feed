@@ -1,5 +1,61 @@
 [
  {
+  "id": "26923_1792668938_dfwgsewf-minor-crash-involving-two-cars-on-north-3500-west",
+  "ts": 1792668938,
+  "title": "Minor crash involving two cars on North 3500 West",
+  "address": "North 3500 West, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792668938_dfwgsewf-minor-crash-involving-two-cars-on-north-3500-west"
+ },
+ {
+  "id": "26923_1792664252_fitrirlm-unconscious-person-found-in-navy-blue-suv-on-north-state-street",
+  "ts": 1792664252,
+  "title": "Unconscious person found in navy blue SUV on North State Street",
+  "address": "N State St, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792664252_fitrirlm-unconscious-person-found-in-navy-blue-suv-on-north-state-street"
+ },
+ {
+  "id": "26923_1792663724_izglzbup-traffic-stop-on-south-main-street-in-orem",
+  "ts": 1792663724,
+  "title": "Traffic stop on South Main Street in Orem",
+  "address": "S Main St, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792663724_izglzbup-traffic-stop-on-south-main-street-in-orem"
+ },
+ {
+  "id": "26923_1792663708_drpabnvr-police-dog-requested-for-vehicle-search-assist",
+  "ts": 1792663708,
+  "title": "Police dog requested for vehicle search assist",
+  "address": "Towne Centre Dr & University Ave, Provo, UT 84601",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792663708_drpabnvr-police-dog-requested-for-vehicle-search-assist"
+ },
+ {
+  "id": "26923_1792654967_fjvviort-officer-provides-motorist-assistance-at-winco",
+  "ts": 1792654967,
+  "title": "Officer provides motorist assistance at WinCo",
+  "address": "N 980 W, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792654967_fjvviort-officer-provides-motorist-assistance-at-winco"
+ },
+ {
+  "id": "26923_1792654944_kcbiptpk-officers-respond-to-fight-on-south-university-avenue",
+  "ts": 1792654944,
+  "title": "Officers respond to fight on South University Avenue",
+  "address": "S University Ave, Provo, UT 84601",
+  "category": "Assault Report",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792654944_kcbiptpk-officers-respond-to-fight-on-south-university-avenue"
+ },
+ {
+  "id": "26923_1792651507_mazymdyx-traffic-stop-on-south-state-street-in-orem",
+  "ts": 1792651507,
+  "title": "Traffic stop on South State Street in Orem",
+  "address": "S State St, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792651507_mazymdyx-traffic-stop-on-south-state-street-in-orem"
+ },
+ {
   "id": "26923_1792647723_klmudakj-masked-juveniles-running-through-yards-in-orem",
   "ts": 1792647723,
   "title": "Masked juveniles running through yards in Orem",
@@ -262,61 +318,5 @@
   "address": "N 500 W, Provo, UT 84604",
   "category": "Medical Emergency",
   "link": "https://www.crimeradar.us/provo-ut/12042-5936_1792614007_cnhripwz-man-intubated-with-respiratory-failure-transported-to-hospital"
- },
- {
-  "id": "26923_1792612113_nruqustw-officer-reports-abandoned-vehicle-with-parking-issue",
-  "ts": 1792612113,
-  "title": "Officer reports abandoned vehicle with parking issue",
-  "address": "W 1340 S & 680 W, Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792612113_nruqustw-officer-reports-abandoned-vehicle-with-parking-issue"
- },
- {
-  "id": "12042-1838_1792610250_vfhvaoqh-traffic-inspection-of-white-dump-truck-on-off-ramp",
-  "ts": 1792610250,
-  "title": "Traffic inspection of white dump truck on off-ramp",
-  "address": "I 15 and West University Parkway, Orem, Utah 84058, United States",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-1838_1792610250_vfhvaoqh-traffic-inspection-of-white-dump-truck-on-off-ramp"
- },
- {
-  "id": "26923_1792608750_xitotbrs-welfare-check-for-woman-in-black-jeep-near-middle-school",
-  "ts": 1792608750,
-  "title": "Welfare check for woman in black Jeep near middle school",
-  "address": "W 890 S, Provo, UT 84601",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792608750_xitotbrs-welfare-check-for-woman-in-black-jeep-near-middle-school"
- },
- {
-  "id": "26923_1792608307_xwmydxup-paper-service-near-university-village",
-  "ts": 1792608307,
-  "title": "Paper service near University Village",
-  "address": "S Sandhill Rd, Orem, UT 84058",
-  "category": "Other Incidents",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792608307_xwmydxup-paper-service-near-university-village"
- },
- {
-  "id": "12042-6206_1792607631_itsurnfy-family-disturbance-at-grandview-village-condos",
-  "ts": 1792607631,
-  "title": "Family disturbance at Grandview Village Condos",
-  "address": "N Grandview Ln, Provo, UT 84604",
-  "category": "Domestic Dispute",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6206_1792607631_itsurnfy-family-disturbance-at-grandview-village-condos"
- },
- {
-  "id": "26923_1792607558_ncngamlp-family-argument-outside-grandview-village-condos",
-  "ts": 1792607558,
-  "title": "Family argument outside Grandview Village condos",
-  "address": "N Grandview Ln, Provo, UT 84604",
-  "category": "Domestic Dispute",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792607558_ncngamlp-family-argument-outside-grandview-village-condos"
- },
- {
-  "id": "12042-6206_1792606338_oaomkaox-pedestrian-reportedly-hit-by-vehicle-near-taco-bell",
-  "ts": 1792606338,
-  "title": "Pedestrian reportedly hit by vehicle near Taco Bell",
-  "address": "S University Ave, Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6206_1792606338_oaomkaox-pedestrian-reportedly-hit-by-vehicle-near-taco-bell"
  }
 ]
