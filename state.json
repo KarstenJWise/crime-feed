@@ -1,11 +1,83 @@
 [
  {
+  "id": "26923_1792801862_ujvoqnij-domestic-violence-reported-at-orem-residence",
+  "ts": 1792801862,
+  "title": "Domestic violence reported at Orem residence",
+  "address": "W 1500 N St, Orem, UT 84057",
+  "category": "Domestic Dispute",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792801862_ujvoqnij-domestic-violence-reported-at-orem-residence"
+ },
+ {
+  "id": "26923_1792801583_wctsmoec-person-experiencing-chest-pain-at-apartment-in-orem",
+  "ts": 1792801583,
+  "title": "Person experiencing chest pain at apartment in Orem",
+  "address": "W Center St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792801583_wctsmoec-person-experiencing-chest-pain-at-apartment-in-orem"
+ },
+ {
+  "id": "12042-5935_1792799608_dzqzhccb-medical-call-near-south-number-withheld-west-street-in-orem",
+  "ts": 1792799608,
+  "title": "Medical call near South (number withheld) West Street in Orem",
+  "address": "S 400 W St, Orem, UT 84058",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/12042-5935_1792799608_dzqzhccb-medical-call-near-south-number-withheld-west-street-in-orem"
+ },
+ {
+  "id": "12042-6210_1792798274_xcsdfelq-report-of-juvenile-problem-on-west-1200-north",
+  "ts": 1792798274,
+  "title": "Report of juvenile problem on West 1200 North",
+  "address": "W 1200 N St, Orem, UT 84057",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792798274_xcsdfelq-report-of-juvenile-problem-on-west-1200-north"
+ },
+ {
+  "id": "26923_1792797125_svsierzi-teen-with-chest-pain-refuses-ambulance-near-orem",
+  "ts": 1792797125,
+  "title": "Teen with chest pain refuses ambulance near Orem",
+  "address": "S 50 E St, Orem, UT 84058",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792797125_svsierzi-teen-with-chest-pain-refuses-ambulance-near-orem"
+ },
+ {
+  "id": "26923_1792796917_bknwucuc-officers-check-on-uncooperative-resident-in-orem",
+  "ts": 1792796917,
+  "title": "Officers check on uncooperative resident in Orem",
+  "address": "S Vlg Ln, Orem, UT 84058",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792796917_bknwucuc-officers-check-on-uncooperative-resident-in-orem"
+ },
+ {
+  "id": "26923_1792796877_exgvschb-report-of-intoxicated-driver-leaving-business",
+  "ts": 1792796877,
+  "title": "Report of intoxicated driver leaving business",
+  "address": "N University Ave, Provo, UT 84601",
+  "category": "Substance Use",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792796877_exgvschb-report-of-intoxicated-driver-leaving-business"
+ },
+ {
+  "id": "26923_1792796603_nsxqopak-commercial-fire-alarm-at-business-address",
+  "ts": 1792796603,
+  "title": "Commercial fire alarm at business address",
+  "address": "W 500 S St, Provo, UT 84601",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792796603_nsxqopak-commercial-fire-alarm-at-business-address"
+ },
+ {
   "id": "26923_1792795970_gcsmeskb-traffic-stop-near-beams-and-brows-in-orem",
   "ts": 1792795970,
   "title": "Traffic stop near Beams and Brows in Orem",
   "address": "E University Pkwy Ste A, Orem, UT 84058",
   "category": "Traffic",
   "link": "https://www.crimeradar.us/orem-ut/26923_1792795970_gcsmeskb-traffic-stop-near-beams-and-brows-in-orem"
+ },
+ {
+  "id": "26923_1792795392_ncxzqtde-officer-serves-warrant-at-provo-residence",
+  "ts": 1792795392,
+  "title": "Officer serves warrant at Provo residence",
+  "address": "N 2520 W, Provo, UT 84601",
+  "category": "Other Incidents",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792795392_ncxzqtde-officer-serves-warrant-at-provo-residence"
  },
  {
   "id": "26923_1792794460_owwykaya-domestic-violence-call-with-female-medical-complaint-at-apartment-in-orem",
@@ -246,77 +318,5 @@
   "address": "E University Pkwy & 200 E, Orem, UT 84058",
   "category": "Traffic",
   "link": "https://www.crimeradar.us/orem-ut/26923_1792772991_fxidukol-motorcycle-crash-near-university-parkway-in-orem"
- },
- {
-  "id": "26923_1792772424_tkhvccjm-fire-alarm-investigated-at-church-on-east-1100-south",
-  "ts": 1792772424,
-  "title": "Fire alarm investigated at church on East 1100 South",
-  "address": "E 1100 S, Orem, UT 84058",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792772424_tkhvccjm-fire-alarm-investigated-at-church-on-east-1100-south"
- },
- {
-  "id": "26923_1792770634_ahknkmbp-man-loitering-outside-del-taco-alarming-parents",
-  "ts": 1792770634,
-  "title": "Man loitering outside Del Taco, alarming parents",
-  "address": "N State St, Provo, UT 84604",
-  "category": "Suspicious Person",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792770634_ahknkmbp-man-loitering-outside-del-taco-alarming-parents"
- },
- {
-  "id": "26923_1792770544_xowbblih-patient-with-altered-consciousness-at-dialysis-center",
-  "ts": 1792770544,
-  "title": "Patient with altered consciousness at dialysis center",
-  "address": "N Freedom Blvd, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792770544_xowbblih-patient-with-altered-consciousness-at-dialysis-center"
- },
- {
-  "id": "26923_1792769957_zoxzuewy-woman-with-back-pain-treated-after-urgent-care-visit",
-  "ts": 1792769957,
-  "title": "Woman with back pain treated after urgent care visit",
-  "address": "W 570 N St, Provo, UT 84601",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792769957_zoxzuewy-woman-with-back-pain-treated-after-urgent-care-visit"
- },
- {
-  "id": "26923_1792769903_vlawkung-person-breathing-and-alert-near-north-university-avenue",
-  "ts": 1792769903,
-  "title": "Person breathing and alert near North University Avenue",
-  "address": "N University Ave, Provo, UT 84606",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792769903_vlawkung-person-breathing-and-alert-near-north-university-avenue"
- },
- {
-  "id": "26923_1792768281_gadlobnh-abandoned-vehicles-on-north-cherokee-street",
-  "ts": 1792768281,
-  "title": "Abandoned vehicles on North Cherokee Street",
-  "address": "Cherokee Ln, Provo, UT 84604",
-  "category": "Other Incidents",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792768281_gadlobnh-abandoned-vehicles-on-north-cherokee-street"
- },
- {
-  "id": "26923_1792767804_ottnqmqz-23-year-old-woman-having-seizures-at-orem-apartment",
-  "ts": 1792767804,
-  "title": "23-year-old woman having seizures at Orem apartment",
-  "address": "W 960 S St, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792767804_ottnqmqz-23-year-old-woman-having-seizures-at-orem-apartment"
- },
- {
-  "id": "26923_1792767375_fjgmsjaf-disturbance-between-couple-at-cherry-hill-apartments",
-  "ts": 1792767375,
-  "title": "Disturbance between couple at Cherry Hill Apartments",
-  "address": "S Vlg Ln, Orem, UT 84058",
-  "category": "Domestic Dispute",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792767375_fjgmsjaf-disturbance-between-couple-at-cherry-hill-apartments"
- },
- {
-  "id": "26923_1792767123_pypvfzjk-infant-receives-cpr-after-not-breathing-in-provo",
-  "ts": 1792767123,
-  "title": "Infant receives CPR after not breathing in Provo",
-  "address": "600 W, Provo, UT 84601",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792767123_pypvfzjk-infant-receives-cpr-after-not-breathing-in-provo"
  }
 ]
