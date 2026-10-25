@@ -1,5 +1,149 @@
 [
  {
+  "id": "26923_1792910262_hareqsvr-traffic-stop-with-field-sobriety-tests-in-provo",
+  "ts": 1792910262,
+  "title": "Traffic stop with field sobriety tests in Provo",
+  "address": "W 100 N & N 300 W, Provo, UT 84601",
+  "category": "Substance Use",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792910262_hareqsvr-traffic-stop-with-field-sobriety-tests-in-provo"
+ },
+ {
+  "id": "26923_1792909608_imftvupv-fire-alarm-checked-at-orem-apartment-complex",
+  "ts": 1792909608,
+  "title": "Fire alarm checked at Orem apartment complex",
+  "address": "Beverly Ave, Orem, UT 84057",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792909608_imftvupv-fire-alarm-checked-at-orem-apartment-complex"
+ },
+ {
+  "id": "26923_1792907151_wlsniunn-elderly-woman-with-high-blood-pressure-and-headache",
+  "ts": 1792907151,
+  "title": "Elderly woman with high blood pressure and headache",
+  "address": "E Center St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792907151_wlsniunn-elderly-woman-with-high-blood-pressure-and-headache"
+ },
+ {
+  "id": "26923_1792904472_duizujhh-35-year-old-woman-with-medical-issues-outside-national-guard-building",
+  "ts": 1792904472,
+  "title": "35-year-old woman with medical issues outside National Guard building",
+  "address": "S Geneva Rd, Orem, UT 84058",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792904472_duizujhh-35-year-old-woman-with-medical-issues-outside-national-guard-building"
+ },
+ {
+  "id": "26923_1792904281_vtrjfkft-woman-reportedly-hit-in-face-during-dispute",
+  "ts": 1792904281,
+  "title": "Woman reportedly hit in face during dispute",
+  "address": "W 975 N, Orem, UT 84057",
+  "category": "Domestic Dispute",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792904281_vtrjfkft-woman-reportedly-hit-in-face-during-dispute"
+ },
+ {
+  "id": "26923_1792903450_zzsluisr-woman-unconscious-after-drinking-rum-breathes-every-2-seconds",
+  "ts": 1792903450,
+  "title": "Woman unconscious after drinking rum breathes every 2 seconds",
+  "address": "W 1200 N St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792903450_zzsluisr-woman-unconscious-after-drinking-rum-breathes-every-2-seconds"
+ },
+ {
+  "id": "26923_1792902794_eobvjuok-traffic-stop-near-number-withheld-north-in-orem",
+  "ts": 1792902794,
+  "title": "Traffic stop near (number withheld) North in Orem",
+  "address": "E 400 N, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792902794_eobvjuok-traffic-stop-near-number-withheld-north-in-orem"
+ },
+ {
+  "id": "26923_1792902511_aiqcytmv-diabetic-person-losing-hearing-and-feeling-weak-at-apartment",
+  "ts": 1792902511,
+  "title": "Diabetic person losing hearing and feeling weak at apartment",
+  "address": "N 500 W Apt 301, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792902511_aiqcytmv-diabetic-person-losing-hearing-and-feeling-weak-at-apartment"
+ },
+ {
+  "id": "26923_1792901648_ecefwhuc-traffic-stop-involving-gray-jeep-at-gas-station",
+  "ts": 1792901648,
+  "title": "Traffic stop involving gray Jeep at gas station",
+  "address": "S Geneva Rd, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792901648_ecefwhuc-traffic-stop-involving-gray-jeep-at-gas-station"
+ },
+ {
+  "id": "26923_1792901530_lltmctbz-runaway-reported-near-south-geneva-road-gas-station",
+  "ts": 1792901530,
+  "title": "Runaway reported near South Geneva Road gas station",
+  "address": "N 2260 W, Provo, UT 84601",
+  "category": "Missing Person",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792901530_lltmctbz-runaway-reported-near-south-geneva-road-gas-station"
+ },
+ {
+  "id": "12042-5935_1792901236_wghxbith-brush-fire-reported-near-rock-canyon",
+  "ts": 1792901236,
+  "title": "Brush fire reported near Rock Canyon",
+  "address": "Rock Canyon Trail, Provo, UT 84604",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/12042-5935_1792901236_wghxbith-brush-fire-reported-near-rock-canyon"
+ },
+ {
+  "id": "26923_1792900965_hodyrkdi-records-check-on-parked-lexus-suv-in-orem",
+  "ts": 1792900965,
+  "title": "Records check on parked Lexus SUV in Orem",
+  "address": "S Wolverine Wy, Orem, UT 84058",
+  "category": "Administrative Check",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792900965_hodyrkdi-records-check-on-parked-lexus-suv-in-orem"
+ },
+ {
+  "id": "12042-5935_1792900054_zuhsbclf-brush-fire-reported-at-rock-canyon-in-utah-county",
+  "ts": 1792900054,
+  "title": "Brush fire reported at Rock Canyon in Utah County",
+  "address": "Rock Canyon Trail, Provo, UT 84604",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/12042-5935_1792900054_zuhsbclf-brush-fire-reported-at-rock-canyon-in-utah-county"
+ },
+ {
+  "id": "26923_1792900045_yvudjwng-traffic-stop-on-west-center-street",
+  "ts": 1792900045,
+  "title": "Traffic stop on West Center Street",
+  "address": "W Center St, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792900045_yvudjwng-traffic-stop-on-west-center-street"
+ },
+ {
+  "id": "12042-5921_1792896181_ojwkrwku-motorcycle-riding-in-middle-of-road-in-provo",
+  "ts": 1792896181,
+  "title": "Motorcycle riding in middle of road in Provo",
+  "address": "W 265 N, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/12042-5921_1792896181_ojwkrwku-motorcycle-riding-in-middle-of-road-in-provo"
+ },
+ {
+  "id": "26923_1792894539_ukptvqpc-vehicle-followed-by-another-car-on-center-street",
+  "ts": 1792894539,
+  "title": "Vehicle followed by another car on Center Street",
+  "address": "E Center St & N 300 E, Provo, UT 84606",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792894539_ukptvqpc-vehicle-followed-by-another-car-on-center-street"
+ },
+ {
+  "id": "26923_1792894051_slloyyag-patient-fell-and-hit-head-at-provo-rehabilitation-center",
+  "ts": 1792894051,
+  "title": "Patient fell and hit head at Provo Rehabilitation center",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792894051_slloyyag-patient-fell-and-hit-head-at-provo-rehabilitation-center"
+ },
+ {
+  "id": "26923_1792892505_jktchbdn-reckless-silver-suv-speeding-near-crossing-and-mile-high",
+  "ts": 1792892505,
+  "title": "Reckless silver SUV speeding near Crossing and Mile High",
+  "address": "Mile High Dr, Provo, UT 84604",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792892505_jktchbdn-reckless-silver-suv-speeding-near-crossing-and-mile-high"
+ },
+ {
   "id": "26923_1792892266_pnommzvv-small-ground-fire-next-to-parked-car-in-lot",
   "ts": 1792892266,
   "title": "Small ground fire next to parked car in lot",
@@ -174,149 +318,5 @@
   "address": "S 800 E, Orem, UT 84097",
   "category": "Fire",
   "link": "https://www.crimeradar.us/orem-ut/26923_1792870088_pwjuxivn-fuel-alarm-and-evacuation-at-orem-parking-lot"
- },
- {
-  "id": "26923_1792869815_rnnnafzu-complaint-about-car-full-of-kittens-in-parking-lot",
-  "ts": 1792869815,
-  "title": "Complaint about car full of kittens in parking lot",
-  "address": "S 1150 E St, Provo, UT 84606",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792869815_rnnnafzu-complaint-about-car-full-of-kittens-in-parking-lot"
- },
- {
-  "id": "26923_1792869182_azqgqmro-hit-and-run-crash-with-possible-injuries-in-orem",
-  "ts": 1792869182,
-  "title": "Hit-and-run crash with possible injuries in Orem",
-  "address": "Garden Park & Center St, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792869182_azqgqmro-hit-and-run-crash-with-possible-injuries-in-orem"
- },
- {
-  "id": "26923_1792866700_noqytdpr-traffic-stop-on-400-west-in-provo",
-  "ts": 1792866700,
-  "title": "Traffic stop on 400 West in Provo",
-  "address": "W, Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792866700_noqytdpr-traffic-stop-on-400-west-in-provo"
- },
- {
-  "id": "26923_1792865353_qlbwncot-55-year-old-male-falls-and-hits-head-at-provo-rehab",
-  "ts": 1792865353,
-  "title": "55-year-old male falls and hits head at Provo Rehab",
-  "address": "N 500 W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792865353_qlbwncot-55-year-old-male-falls-and-hits-head-at-provo-rehab"
- },
- {
-  "id": "26923_1792863238_mictkjer-man-with-chest-pain-and-high-blood-pressure-at-university-center",
-  "ts": 1792863238,
-  "title": "Man with chest pain and high blood pressure at university center",
-  "address": "Ernest L. Wilkinson Student Center, 1060 E Campus Dr, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792863238_mictkjer-man-with-chest-pain-and-high-blood-pressure-at-university-center"
- },
- {
-  "id": "26923_1792862464_sxizhmej-possible-vandalism-reported-at-exchange-park",
-  "ts": 1792862464,
-  "title": "Possible vandalism reported at Exchange Park",
-  "address": "Exchange Park, 900 700 W, Provo, UT 84604",
-  "category": "Property Damage",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792862464_sxizhmej-possible-vandalism-reported-at-exchange-park"
- },
- {
-  "id": "26923_1792862400_ucspgcvi-unoccupied-car-smoking-near-provo-city-center-temple",
-  "ts": 1792862400,
-  "title": "Unoccupied car smoking near Provo City Center Temple",
-  "address": "W 200 S, Provo, UT 84601",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792862400_ucspgcvi-unoccupied-car-smoking-near-provo-city-center-temple"
- },
- {
-  "id": "26923_1792861874_eumpgpzw-woman-feeling-numb-and-short-of-breath-at-apartment",
-  "ts": 1792861874,
-  "title": "Woman feeling numb and short of breath at apartment",
-  "address": "S 750 E, Orem, UT 84097",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792861874_eumpgpzw-woman-feeling-numb-and-short-of-breath-at-apartment"
- },
- {
-  "id": "26923_1792861367_jdebkrbk-police-search-for-retail-theft-suspect-in-orem",
-  "ts": 1792861367,
-  "title": "Police search for retail theft suspect in Orem",
-  "address": "400 E, Orem, UT 84097",
-  "category": "Theft Report",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792861367_jdebkrbk-police-search-for-retail-theft-suspect-in-orem"
- },
- {
-  "id": "26923_1792860478_onsfnnoa-elderly-woman-with-head-injury-and-bleeding-in-orem",
-  "ts": 1792860478,
-  "title": "Elderly woman with head injury and bleeding in Orem",
-  "address": "S Carterville Rd, Orem, UT 84097",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792860478_onsfnnoa-elderly-woman-with-head-injury-and-bleeding-in-orem"
- },
- {
-  "id": "26923_1792858425_ztiwtrjb-person-unconscious-inside-macy-s-near-north-state-street",
-  "ts": 1792858425,
-  "title": "Person unconscious inside Macy's near North State Street",
-  "address": "N State St, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792858425_ztiwtrjb-person-unconscious-inside-macy-s-near-north-state-street"
- },
- {
-  "id": "12042-2261_1792857607_efrpllrv-63-year-old-male-with-hypoxia-transported-to-assisted-living",
-  "ts": 1792857607,
-  "title": "63-year-old male with hypoxia transported to assisted living",
-  "address": "N 500 W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-2261_1792857607_efrpllrv-63-year-old-male-with-hypoxia-transported-to-assisted-living"
- },
- {
-  "id": "26923_1792855010_veofbtkr-welfare-check-for-worker-who-missed-shift",
-  "ts": 1792855010,
-  "title": "Welfare check for worker who missed shift",
-  "address": "W 500 S St, Orem, UT 84058",
-  "category": "Missing Person",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792855010_veofbtkr-welfare-check-for-worker-who-missed-shift"
- },
- {
-  "id": "26923_1792851991_ebmfgrzz-traffic-stop-on-south-state-street",
-  "ts": 1792851991,
-  "title": "Traffic stop on South State Street",
-  "address": "S State St, Provo, UT 84606",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792851991_ebmfgrzz-traffic-stop-on-south-state-street"
- },
- {
-  "id": "26923_1792851050_wuwyojko-officer-checks-person-near-carrabba-s-in-orem",
-  "ts": 1792851050,
-  "title": "Officer checks person near Carrabba's in Orem",
-  "address": "University Mall, 683 E University Pkwy, Orem, UT 84097",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792851050_wuwyojko-officer-checks-person-near-carrabba-s-in-orem"
- },
- {
-  "id": "26923_1792850494_ljywekzx-suspicious-vehicle-reported-on-west-500-north",
-  "ts": 1792850494,
-  "title": "Suspicious vehicle reported on West 500 North",
-  "address": "N, Provo, UT 84601",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792850494_ljywekzx-suspicious-vehicle-reported-on-west-500-north"
- },
- {
-  "id": "26923_1792850436_vfvjbsab-person-having-seizure-outside-rec-center-in-provo",
-  "ts": 1792850436,
-  "title": "Person Having Seizure Outside Rec Center in Provo",
-  "address": "W 700 N St, Provo, UT 84601",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792850436_vfvjbsab-person-having-seizure-outside-rec-center-in-provo"
- },
- {
-  "id": "12042-6210_1792844317_kcsnsslf-person-recently-released-from-jail-threatens-suicide-at-home",
-  "ts": 1792844317,
-  "title": "Person recently released from jail threatens suicide at home",
-  "address": "W 1430 S St, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1792844317_kcsnsslf-person-recently-released-from-jail-threatens-suicide-at-home"
  }
 ]
