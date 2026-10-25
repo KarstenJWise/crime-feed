@@ -1,5 +1,53 @@
 [
  {
+  "id": "26923_1792953904_wrhwtbpa-person-possibly-had-a-seizure-in-orem-apartment",
+  "ts": 1792953904,
+  "title": "Person possibly had a seizure in Orem apartment",
+  "address": "S 900 E St, Orem, UT 84097",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792953904_wrhwtbpa-person-possibly-had-a-seizure-in-orem-apartment"
+ },
+ {
+  "id": "26923_1792952895_ihnqixvm-traffic-stop-on-black-jeep-on-university-avenue",
+  "ts": 1792952895,
+  "title": "Traffic stop on black Jeep on University Avenue",
+  "address": "N & N University Ave, Provo, UT 84606",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792952895_ihnqixvm-traffic-stop-on-black-jeep-on-university-avenue"
+ },
+ {
+  "id": "26923_1792950485_ocmdczox-two-vehicle-crash-at-600-south-1200-west-in-orem",
+  "ts": 1792950485,
+  "title": "Two-vehicle crash at 600 South 1200 West in Orem",
+  "address": "W & W 600 S, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792950485_ocmdczox-two-vehicle-crash-at-600-south-1200-west-in-orem"
+ },
+ {
+  "id": "26923_1792949185_unwfbwzf-person-with-chest-pain-and-heart-history-treated-in-orem",
+  "ts": 1792949185,
+  "title": "Person with chest pain and heart history treated in Orem",
+  "address": "S Columbia Ln, Orem, UT 84097",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792949185_unwfbwzf-person-with-chest-pain-and-heart-history-treated-in-orem"
+ },
+ {
+  "id": "26923_1792947130_gxogrtbw-possible-vehicle-crash-with-domestic-dispute-history",
+  "ts": 1792947130,
+  "title": "Possible vehicle crash with domestic dispute history",
+  "address": "S Main St, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1792947130_gxogrtbw-possible-vehicle-crash-with-domestic-dispute-history"
+ },
+ {
+  "id": "26923_1792944198_xsaqmzoc-traffic-stop-at-freedom-boulevard-and-100-south",
+  "ts": 1792944198,
+  "title": "Traffic stop at Freedom Boulevard and 100 South",
+  "address": "S Freedom Blvd & W 100 S, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1792944198_xsaqmzoc-traffic-stop-at-freedom-boulevard-and-100-south"
+ },
+ {
   "id": "26923_1792943665_amawdtjg-parking-complaint-on-north-1350-west-in-provo",
   "ts": 1792943665,
   "title": "Parking complaint on North 1350 West in Provo",
@@ -270,53 +318,5 @@
   "address": "W Center St, Orem, UT 84057",
   "category": "Traffic",
   "link": "https://www.crimeradar.us/orem-ut/26923_1792900045_yvudjwng-traffic-stop-on-west-center-street"
- },
- {
-  "id": "12042-5921_1792896181_ojwkrwku-motorcycle-riding-in-middle-of-road-in-provo",
-  "ts": 1792896181,
-  "title": "Motorcycle riding in middle of road in Provo",
-  "address": "W 265 N, Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/12042-5921_1792896181_ojwkrwku-motorcycle-riding-in-middle-of-road-in-provo"
- },
- {
-  "id": "26923_1792894539_ukptvqpc-vehicle-followed-by-another-car-on-center-street",
-  "ts": 1792894539,
-  "title": "Vehicle followed by another car on Center Street",
-  "address": "E Center St & N 300 E, Provo, UT 84606",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792894539_ukptvqpc-vehicle-followed-by-another-car-on-center-street"
- },
- {
-  "id": "26923_1792894051_slloyyag-patient-fell-and-hit-head-at-provo-rehabilitation-center",
-  "ts": 1792894051,
-  "title": "Patient fell and hit head at Provo Rehabilitation center",
-  "address": "N 500 W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792894051_slloyyag-patient-fell-and-hit-head-at-provo-rehabilitation-center"
- },
- {
-  "id": "26923_1792892505_jktchbdn-reckless-silver-suv-speeding-near-crossing-and-mile-high",
-  "ts": 1792892505,
-  "title": "Reckless silver SUV speeding near Crossing and Mile High",
-  "address": "Mile High Dr, Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1792892505_jktchbdn-reckless-silver-suv-speeding-near-crossing-and-mile-high"
- },
- {
-  "id": "26923_1792892266_pnommzvv-small-ground-fire-next-to-parked-car-in-lot",
-  "ts": 1792892266,
-  "title": "Small ground fire next to parked car in lot",
-  "address": "Carillion Square, 301 E University Pkwy, Orem, UT 84058",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792892266_pnommzvv-small-ground-fire-next-to-parked-car-in-lot"
- },
- {
-  "id": "26923_1792891723_chitdzog-fire-alarm-at-church-on-west-1600-north-in-orem",
-  "ts": 1792891723,
-  "title": "Fire alarm at church on West 1600 North in Orem",
-  "address": "W 1600 N St, Orem, UT 84057",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1792891723_chitdzog-fire-alarm-at-church-on-west-1600-north-in-orem"
  }
 ]
