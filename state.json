@@ -1,5 +1,29 @@
 [
  {
+  "id": "12042-5921_1793211051_bjvlckio-youths-trespassing-at-outdoor-pool-in-orem",
+  "ts": 1793211051,
+  "title": "Youths trespassing at outdoor pool in Orem",
+  "address": "E 200 S St, Orem, UT 84057",
+  "category": "Break-In",
+  "link": "https://www.crimeradar.us/orem-ut/12042-5921_1793211051_bjvlckio-youths-trespassing-at-outdoor-pool-in-orem"
+ },
+ {
+  "id": "12042-6206_1793210210_dstntopp-crash-reported-on-north-university-avenue",
+  "ts": 1793210210,
+  "title": "Crash reported on North University Avenue",
+  "address": "N University Ave, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6206_1793210210_dstntopp-crash-reported-on-north-university-avenue"
+ },
+ {
+  "id": "12042-6206_1793199547_pgqdfgjg-assault-reported-near-food-and-care-in-provo",
+  "ts": 1793199547,
+  "title": "Assault reported near Food and Care in Provo",
+  "address": "E 900 S, Provo, UT 84606",
+  "category": "Assault Report",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6206_1793199547_pgqdfgjg-assault-reported-near-food-and-care-in-provo"
+ },
+ {
   "id": "26923_1793189057_grtcldij-cpr-performed-on-78-year-old-male-at-provo-rehab",
   "ts": 1793189057,
   "title": "CPR performed on 78-year-old male at Provo Rehab",
@@ -294,29 +318,5 @@
   "address": "N, Orem, UT 84057",
   "category": "Traffic",
   "link": "https://www.crimeradar.us/orem-ut/26923_1793137763_mgybhrwg-traffic-stop-at-600-west-and-400-north-in-orem"
- },
- {
-  "id": "26923_1793137455_qvwxruhq-child-leaning-out-window-of-stopped-suv-on-parkway",
-  "ts": 1793137455,
-  "title": "Child leaning out window of stopped SUV on parkway",
-  "address": "W University Pkwy, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1793137455_qvwxruhq-child-leaning-out-window-of-stopped-suv-on-parkway"
- },
- {
-  "id": "26923_1793137242_eovuaeia-welfare-check-for-person-with-possible-mental-issue-near-walmart",
-  "ts": 1793137242,
-  "title": "Welfare check for person with possible mental issue near Walmart",
-  "address": "Sandhill Rd, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1793137242_eovuaeia-welfare-check-for-person-with-possible-mental-issue-near-walmart"
- },
- {
-  "id": "12042-3701_1793137104_rrxjtbbn-traffic-stop-at-provo-bus-loop",
-  "ts": 1793137104,
-  "title": "Traffic stop at Provo bus loop",
-  "address": "Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/12042-3701_1793137104_rrxjtbbn-traffic-stop-at-provo-bus-loop"
  }
 ]
