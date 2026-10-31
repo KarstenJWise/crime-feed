@@ -1,11 +1,115 @@
 [
  {
+  "id": "26923_1793477738_szkrninv-alarm-at-dental-office-back-door",
+  "ts": 1793477738,
+  "title": "Alarm at dental office back door",
+  "address": "S State St, Orem, UT 84097",
+  "category": "Break-In",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793477738_szkrninv-alarm-at-dental-office-back-door"
+ },
+ {
+  "id": "12042-5936_1793475123_pbyurkqd-backyard-garbage-fire-creates-heavy-smoke",
+  "ts": 1793475123,
+  "title": "Backyard garbage fire creates heavy smoke",
+  "address": "W Country Clb Dr, Provo, UT 84604",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/12042-5936_1793475123_pbyurkqd-backyard-garbage-fire-creates-heavy-smoke"
+ },
+ {
+  "id": "26923_1793474645_xrccozkk-unresponsive-person-found-breathing-under-stairs-in-apartment",
+  "ts": 1793474645,
+  "title": "Unresponsive person found breathing under stairs in apartment",
+  "address": "E 900 S, Provo, UT 84606",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1793474645_xrccozkk-unresponsive-person-found-breathing-under-stairs-in-apartment"
+ },
+ {
+  "id": "26923_1793474353_bkrlrtsu-officers-check-vehicle-and-trailer-ramps-at-orem-lot",
+  "ts": 1793474353,
+  "title": "Officers check vehicle and trailer ramps at Orem lot",
+  "address": "E 800 N, Orem, UT 84057",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793474353_bkrlrtsu-officers-check-vehicle-and-trailer-ramps-at-orem-lot"
+ },
+ {
+  "id": "12042-6210_1793474308_ogxsjkwr-caller-dizzy-after-drinking-and-reporting-spiders",
+  "ts": 1793474308,
+  "title": "Caller dizzy after drinking and reporting spiders",
+  "address": "S 170 W, Orem, UT 84058",
+  "category": "Substance Use",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793474308_ogxsjkwr-caller-dizzy-after-drinking-and-reporting-spiders"
+ },
+ {
+  "id": "12042-6210_1793473692_rmojuief-two-car-crash-blocking-road-no-injuries",
+  "ts": 1793473692,
+  "title": "Two-car crash blocking road, no injuries",
+  "address": "E 1400 S, Orem, UT 84097",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793473692_rmojuief-two-car-crash-blocking-road-no-injuries"
+ },
+ {
+  "id": "26923_1793472630_cbrsrhda-stalled-vehicle-blocking-lane-on-university-parkway",
+  "ts": 1793472630,
+  "title": "Stalled vehicle blocking lane on University Parkway",
+  "address": "UT-265 & S Main St, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793472630_cbrsrhda-stalled-vehicle-blocking-lane-on-university-parkway"
+ },
+ {
+  "id": "26923_1793470892_fvsnmeej-commercial-fire-alarm-at-orem-business-found-false",
+  "ts": 1793470892,
+  "title": "Commercial fire alarm at Orem business found false",
+  "address": "W University Pkwy, Orem, UT 84058",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793470892_fvsnmeej-commercial-fire-alarm-at-orem-business-found-false"
+ },
+ {
+  "id": "26923_1793470535_cposcpqx-officer-contact-with-car-carrying-infant",
+  "ts": 1793470535,
+  "title": "Officer contact with car carrying infant",
+  "address": "E 660 N, Orem, UT 84097",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793470535_cposcpqx-officer-contact-with-car-carrying-infant"
+ },
+ {
+  "id": "12042-2261_1793469141_dappyjqe-man-conscious-with-multiple-pains-at-orem-behavioral-hospital",
+  "ts": 1793469141,
+  "title": "Man conscious with multiple pains at Orem behavioral hospital",
+  "address": "E 750 N St, Orem, UT 84097",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/12042-2261_1793469141_dappyjqe-man-conscious-with-multiple-pains-at-orem-behavioral-hospital"
+ },
+ {
+  "id": "26923_1793468758_yoginave-trespass-reported-at-orem-city-center-park",
+  "ts": 1793468758,
+  "title": "Trespass reported at Orem City Center Park",
+  "address": "Orem City Center Park, 300 E Center St, Orem, UT 84097",
+  "category": "Break-In",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793468758_yoginave-trespass-reported-at-orem-city-center-park"
+ },
+ {
+  "id": "26923_1793468185_aowqgksf-person-receiving-medical-care-near-500-e-st-in-orem",
+  "ts": 1793468185,
+  "title": "Person receiving medical care near 500 E St in Orem",
+  "address": "N 500 E St, Orem, UT 84097",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793468185_aowqgksf-person-receiving-medical-care-near-500-e-st-in-orem"
+ },
+ {
   "id": "26923_1793467377_gjewqeyx-injured-animal-reported-near-kent-park-trail",
   "ts": 1793467377,
   "title": "Injured animal reported near Kent Park trail",
   "address": "US-189, Orem, UT 84097",
   "category": "Other Non-Crime Event",
   "link": "https://www.crimeradar.us/orem-ut/26923_1793467377_gjewqeyx-injured-animal-reported-near-kent-park-trail"
+ },
+ {
+  "id": "26923_1793467167_swgacwij-man-pulls-woman-into-silver-suv-on-everett-avenue",
+  "ts": 1793467167,
+  "title": "Man pulls woman into silver SUV on Everett Avenue",
+  "address": "S, Provo, UT 84601",
+  "category": "Assault Report",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1793467167_swgacwij-man-pulls-woman-into-silver-suv-on-everett-avenue"
  },
  {
   "id": "12042-1838_1793466862_wrryricc-construction-barrels-knocked-over-on-off-ramp",
@@ -214,109 +318,5 @@
   "address": "W 700 S, Provo, UT 84601",
   "category": "Medical Emergency",
   "link": "https://www.crimeradar.us/provo-ut/26923_1793420790_vbnrptsz-woman-fainted-near-700-south-in-provo"
- },
- {
-  "id": "26923_1793420733_gfwymlak-officer-conducts-traffic-stop-on-university-parkway",
-  "ts": 1793420733,
-  "title": "Officer conducts traffic stop on University Parkway",
-  "address": "W University Pkwy, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1793420733_gfwymlak-officer-conducts-traffic-stop-on-university-parkway"
- },
- {
-  "id": "26923_1793419354_ojrxlitt-loud-party-reported-at-provo-townhome",
-  "ts": 1793419354,
-  "title": "Loud party reported at Provo townhome",
-  "address": "W 500 S, Provo, UT 84601",
-  "category": "Disturbance",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1793419354_ojrxlitt-loud-party-reported-at-provo-townhome"
- },
- {
-  "id": "26923_1793418575_tboxemej-person-treated-after-fall-in-orem-residence",
-  "ts": 1793418575,
-  "title": "Person treated after fall in Orem residence",
-  "address": "W 800 N, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1793418575_tboxemej-person-treated-after-fall-in-orem-residence"
- },
- {
-  "id": "26923_1793412710_lxaembvx-duress-alarm-at-church-dining-room-gathering",
-  "ts": 1793412710,
-  "title": "Duress alarm at church dining room gathering",
-  "address": "N University Ave, Provo, UT 84601",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1793412710_lxaembvx-duress-alarm-at-church-dining-room-gathering"
- },
- {
-  "id": "26923_1793411617_moztpvug-driver-locked-out-of-vehicle-on-2230-north",
-  "ts": 1793411617,
-  "title": "Driver locked out of vehicle on 2230 North",
-  "address": "UT-265 & N University Ave, Provo, UT 84604",
-  "category": "Other Non-Crime Event",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1793411617_moztpvug-driver-locked-out-of-vehicle-on-2230-north"
- },
- {
-  "id": "26923_1793411508_fgnkygyc-student-cut-at-rec-facility-near-racquetball-court",
-  "ts": 1793411508,
-  "title": "Student cut at rec facility near racquetball court",
-  "address": "W 700 N & 700 W, Provo, UT 84601",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1793411508_fgnkygyc-student-cut-at-rec-facility-near-racquetball-court"
- },
- {
-  "id": "12042-6210_1793407348_lzvtasbm-woman-reports-ongoing-mental-health-issues-at-home",
-  "ts": 1793407348,
-  "title": "Woman reports ongoing mental health issues at home",
-  "address": "S Wolverine Wy, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793407348_lzvtasbm-woman-reports-ongoing-mental-health-issues-at-home"
- },
- {
-  "id": "12042-6210_1793406211_ckocgbby-driver-flees-after-sign-hits-parked-vehicle",
-  "ts": 1793406211,
-  "title": "Driver flees after sign hits parked vehicle",
-  "address": "W 1390 S, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793406211_ckocgbby-driver-flees-after-sign-hits-parked-vehicle"
- },
- {
-  "id": "26923_1793406180_mfpxykcw-construction-sign-damages-vehicle-tire-in-orem",
-  "ts": 1793406180,
-  "title": "Construction sign damages vehicle tire in Orem",
-  "address": "W 1390 S, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1793406180_mfpxykcw-construction-sign-damages-vehicle-tire-in-orem"
- },
- {
-  "id": "12042-6210_1793405683_mzjvgcgl-vehicle-blocking-driveway-and-fire-hydrant",
-  "ts": 1793405683,
-  "title": "Vehicle blocking driveway and fire hydrant",
-  "address": "S 520 W, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793405683_mzjvgcgl-vehicle-blocking-driveway-and-fire-hydrant"
- },
- {
-  "id": "12042-6210_1793405654_dvpvqxxs-welfare-check-conducted-at-orem-apartment",
-  "ts": 1793405654,
-  "title": "Welfare check conducted at Orem apartment",
-  "address": "S Vlg Ln, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793405654_dvpvqxxs-welfare-check-conducted-at-orem-apartment"
- },
- {
-  "id": "26923_1793404603_vkszcgff-medic-ambulance-dispatched-to-address-in-orem",
-  "ts": 1793404603,
-  "title": "Medic ambulance dispatched to address in Orem",
-  "address": "E 90 N St, Orem, UT 84097",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1793404603_vkszcgff-medic-ambulance-dispatched-to-address-in-orem"
- },
- {
-  "id": "26923_1793403208_apxpuwfn-woman-injured-in-crash-at-maverik-on-south-state-street",
-  "ts": 1793403208,
-  "title": "Woman injured in crash at Maverik on South State Street",
-  "address": "S State St, Orem, UT 84097",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1793403208_apxpuwfn-woman-injured-in-crash-at-maverik-on-south-state-street"
  }
 ]
