@@ -1,5 +1,69 @@
 [
  {
+  "id": "26923_1793574397_elykapen-carbon-monoxide-alarm-at-provo-residence",
+  "ts": 1793574397,
+  "title": "Carbon monoxide alarm at Provo residence",
+  "address": "W 4500 N, Provo, UT 84604",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1793574397_elykapen-carbon-monoxide-alarm-at-provo-residence"
+ },
+ {
+  "id": "26923_1793572954_ffvwdgnc-verbal-domestic-dispute-involving-man-with-box-cutters",
+  "ts": 1793572954,
+  "title": "Verbal domestic dispute involving man with box cutters",
+  "address": "W 600 S, Provo, UT 84601",
+  "category": "Domestic Dispute",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1793572954_ffvwdgnc-verbal-domestic-dispute-involving-man-with-box-cutters"
+ },
+ {
+  "id": "26923_1793572683_ohjtfkwh-person-reported-sick-near-south-noble-place-in-provo",
+  "ts": 1793572683,
+  "title": "Person reported sick near South Noble Place in Provo",
+  "address": "S, Provo, UT 84606",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1793572683_ohjtfkwh-person-reported-sick-near-south-noble-place-in-provo"
+ },
+ {
+  "id": "26923_1793571339_bxmptzqw-person-reported-threatening-suicide-near-s-750-w",
+  "ts": 1793571339,
+  "title": "Person reported threatening suicide near S 750 W",
+  "address": "S 750 W St, Orem, UT 84058",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793571339_bxmptzqw-person-reported-threatening-suicide-near-s-750-w"
+ },
+ {
+  "id": "26923_1793568571_axcrhrnd-person-steals-items-from-best-buy-on-university-parkway",
+  "ts": 1793568571,
+  "title": "Person steals items from Best Buy on University Parkway",
+  "address": "E University Pkwy, Orem, UT 84058",
+  "category": "Theft Report",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793568571_axcrhrnd-person-steals-items-from-best-buy-on-university-parkway"
+ },
+ {
+  "id": "26923_1793567303_jcphtgdm-medical-call-near-west-number-withheld-south-street-in-orem",
+  "ts": 1793567303,
+  "title": "Medical call near West (number withheld) South Street in Orem",
+  "address": "800 S, Orem, UT 84058",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793567303_jcphtgdm-medical-call-near-west-number-withheld-south-street-in-orem"
+ },
+ {
+  "id": "26923_1793566504_swsjsygu-dui-driver-with-damaged-vehicle-near-300-north",
+  "ts": 1793566504,
+  "title": "DUI driver with damaged vehicle near 300 North",
+  "address": "N 500 W & 300 N, Provo, UT 84601",
+  "category": "Substance Use",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1793566504_swsjsygu-dui-driver-with-damaged-vehicle-near-300-north"
+ },
+ {
+  "id": "26923_1793565546_rpcyaaym-85-year-old-man-with-pain-and-confusion-at-apartment",
+  "ts": 1793565546,
+  "title": "85-year-old man with pain and confusion at apartment",
+  "address": "N University Ave, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1793565546_rpcyaaym-85-year-old-man-with-pain-and-confusion-at-apartment"
+ },
+ {
   "id": "26923_1793564657_vevnvdom-pedestrian-walking-in-southbound-lane-on-main-street",
   "ts": 1793564657,
   "title": "Pedestrian walking in southbound lane on Main Street",
@@ -254,69 +318,5 @@
   "address": "N 500 W, Provo, UT 84604",
   "category": "Medical Emergency",
   "link": "https://www.crimeradar.us/provo-ut/26923_1793515299_dexcywam-young-child-with-breathing-trouble-transported-to-hospital"
- },
- {
-  "id": "26923_1793514505_rddxtlgj-medical-alarm-for-93-year-old-male-near-provo",
-  "ts": 1793514505,
-  "title": "Medical alarm for 93-year-old male near Provo",
-  "address": "S 1680 W, Provo, UT 84601",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1793514505_rddxtlgj-medical-alarm-for-93-year-old-male-near-provo"
- },
- {
-  "id": "26923_1793513853_cxaubjiw-police-standoff-with-barricaded-man-at-provo-home",
-  "ts": 1793513853,
-  "title": "Police standoff with barricaded man at Provo home",
-  "address": "N 500 W, Provo, UT 84604",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1793513853_cxaubjiw-police-standoff-with-barricaded-man-at-provo-home"
- },
- {
-  "id": "26923_1793513485_icrbwslx-medical-call-near-north-number-withheld-west-street-in-orem",
-  "ts": 1793513485,
-  "title": "Medical call near North (number withheld) West Street in Orem",
-  "address": "N 500 W St, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1793513485_icrbwslx-medical-call-near-north-number-withheld-west-street-in-orem"
- },
- {
-  "id": "26923_1793512933_amifxzzk-injury-crash-near-south-and-h-street-in-provo",
-  "ts": 1793512933,
-  "title": "Injury crash near South and H Street in Provo",
-  "address": "South State Street, Provo, Utah 84606, United States",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1793512933_amifxzzk-injury-crash-near-south-and-h-street-in-provo"
- },
- {
-  "id": "26923_1793512674_uwsxotff-male-claims-dying-refuses-medical-help-near-orem",
-  "ts": 1793512674,
-  "title": "Male claims dying, refuses medical help near Orem",
-  "address": "400 E, Orem, UT 84097",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1793512674_uwsxotff-male-claims-dying-refuses-medical-help-near-orem"
- },
- {
-  "id": "26923_1793512561_npramdeq-male-claims-dying-refuses-medical-help-near-orem",
-  "ts": 1793512561,
-  "title": "Male claims dying, refuses medical help near Orem",
-  "address": "400 E, Orem, UT 84097",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1793512561_npramdeq-male-claims-dying-refuses-medical-help-near-orem"
- },
- {
-  "id": "26923_1793511641_lcndllpx-officers-handle-family-dispute-on-north-university",
-  "ts": 1793511641,
-  "title": "Officers handle family dispute on North University",
-  "address": "N University Ave, Provo, UT 84604",
-  "category": "Domestic Dispute",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1793511641_lcndllpx-officers-handle-family-dispute-on-north-university"
- },
- {
-  "id": "26923_1793511425_bcfaprgf-mailbox-damaged-in-delayed-hit-and-run",
-  "ts": 1793511425,
-  "title": "Mailbox damaged in delayed hit-and-run",
-  "address": "S State St, Provo, UT 84606",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1793511425_bcfaprgf-mailbox-damaged-in-delayed-hit-and-run"
  }
 ]
