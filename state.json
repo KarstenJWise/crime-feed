@@ -1,5 +1,93 @@
 [
  {
+  "id": "26923_1793549301_tfnpnzkn-parent-reports-son-with-suspected-liquid-drug",
+  "ts": 1793549301,
+  "title": "Parent reports son with suspected liquid drug",
+  "address": "S 60 W St, Orem, UT 84058",
+  "category": "Substance Use",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793549301_tfnpnzkn-parent-reports-son-with-suspected-liquid-drug"
+ },
+ {
+  "id": "26923_1793549205_slbnpkor-22-year-old-male-has-seizure-at-university-building",
+  "ts": 1793549205,
+  "title": "22-year-old male has seizure at university building",
+  "address": "Campus Dr, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1793549205_slbnpkor-22-year-old-male-has-seizure-at-university-building"
+ },
+ {
+  "id": "26923_1793545237_ufeqelgh-large-puddles-creating-road-hazard-near-park",
+  "ts": 1793545237,
+  "title": "Large puddles creating road hazard near park",
+  "address": "Scera Park, 600 S State St, Orem, UT 84058",
+  "category": "Road Hazard",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793545237_ufeqelgh-large-puddles-creating-road-hazard-near-park"
+ },
+ {
+  "id": "26923_1793542297_eqloslbd-person-fell-while-trying-to-sit-legs-weak",
+  "ts": 1793542297,
+  "title": "Person fell while trying to sit; legs weak",
+  "address": "W 1500 N St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793542297_eqloslbd-person-fell-while-trying-to-sit-legs-weak"
+ },
+ {
+  "id": "26923_1793540534_bywktrwd-reckless-driving-crash-on-i-15-near-1600-north-ramp",
+  "ts": 1793540534,
+  "title": "Reckless driving crash on I-15 near 1600 North ramp",
+  "address": "W 1600 N St, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793540534_bywktrwd-reckless-driving-crash-on-i-15-near-1600-north-ramp"
+ },
+ {
+  "id": "26923_1793540156_ouqvuqbv-elderly-man-suspected-of-stroke-at-orem-residence",
+  "ts": 1793540156,
+  "title": "Elderly man suspected of stroke at Orem residence",
+  "address": "S Columbia Ln, Orem, UT 84097",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793540156_ouqvuqbv-elderly-man-suspected-of-stroke-at-orem-residence"
+ },
+ {
+  "id": "26923_1793536234_chxisfdp-officer-requests-trespass-record-at-fat-cats",
+  "ts": 1793536234,
+  "title": "Officer requests trespass record at Fat Cats",
+  "address": "N University Ave, Provo, UT 84604",
+  "category": "Other Incidents",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1793536234_chxisfdp-officer-requests-trespass-record-at-fat-cats"
+ },
+ {
+  "id": "26923_1793533109_qhslkbvk-suspicious-men-pound-on-dorm-window-near-university",
+  "ts": 1793533109,
+  "title": "Suspicious men pound on dorm window near university",
+  "address": "Provo, UT 84602",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1793533109_qhslkbvk-suspicious-men-pound-on-dorm-window-near-university"
+ },
+ {
+  "id": "26923_1793532341_weftuxur-gas-smell-reported-in-provo-home-garage",
+  "ts": 1793532341,
+  "title": "Gas smell reported in Provo home garage",
+  "address": "W 370 N St, Provo, UT 84601",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1793532341_weftuxur-gas-smell-reported-in-provo-home-garage"
+ },
+ {
+  "id": "26923_1793526840_ochzulzh-officer-transporting-juvenile-to-residence",
+  "ts": 1793526840,
+  "title": "Officer transporting juvenile to residence",
+  "address": "N 340 E St, Orem, UT 84057",
+  "category": "Other Incidents",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793526840_ochzulzh-officer-transporting-juvenile-to-residence"
+ },
+ {
+  "id": "26923_1793525582_tlqfucrw-group-fight-after-drinking-at-midtown-360-parking-lot",
+  "ts": 1793525582,
+  "title": "Group fight after drinking at Midtown 360 parking lot",
+  "address": "S State St, Orem, UT 84058",
+  "category": "Disturbance",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793525582_tlqfucrw-group-fight-after-drinking-at-midtown-360-parking-lot"
+ },
+ {
   "id": "26923_1793522940_lfybkvjh-group-of-students-fighting-outside-provo-home",
   "ts": 1793522940,
   "title": "Group of students fighting outside Provo home",
@@ -230,93 +318,5 @@
   "address": "W Parkside Dr, Provo, UT 84601",
   "category": "Suspicious Person",
   "link": "https://www.crimeradar.us/provo-ut/26923_1793494863_cztryxhl-officers-check-suspicious-person-at-parkside-drive-home"
- },
- {
-  "id": "26923_1793494819_gunkhton-motorhome-blocking-fire-hydrant-on-west-1330-north",
-  "ts": 1793494819,
-  "title": "Motorhome blocking fire hydrant on West 1330 North",
-  "address": "W 1330 N St, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1793494819_gunkhton-motorhome-blocking-fire-hydrant-on-west-1330-north"
- },
- {
-  "id": "26923_1793494532_vhxkmxwq-traffic-stop-on-arizona-vehicle-in-provo",
-  "ts": 1793494532,
-  "title": "Traffic stop on Arizona vehicle in Provo",
-  "address": "N 300 W, Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1793494532_vhxkmxwq-traffic-stop-on-arizona-vehicle-in-provo"
- },
- {
-  "id": "12042-5936_1793493786_izmcrumz-toddler-falls-4-feet-and-hits-head-in-orem",
-  "ts": 1793493786,
-  "title": "Toddler falls 4 feet and hits head in Orem",
-  "address": "N 1580 W, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/12042-5936_1793493786_izmcrumz-toddler-falls-4-feet-and-hits-head-in-orem"
- },
- {
-  "id": "26923_1793493633_hblzkbtp-child-falls-off-his-father-s-shoulders-in-orem",
-  "ts": 1793493633,
-  "title": "Child falls off his father's shoulders in Orem",
-  "address": "N 1580 W, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1793493633_hblzkbtp-child-falls-off-his-father-s-shoulders-in-orem"
- },
- {
-  "id": "26923_1793490308_klreydkd-traffic-stop-on-gray-tesla-with-no-tag",
-  "ts": 1793490308,
-  "title": "Traffic stop on gray Tesla with no tag",
-  "address": "State St & 400 N, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1793490308_klreydkd-traffic-stop-on-gray-tesla-with-no-tag"
- },
- {
-  "id": "12042-6210_1793487710_otxdmhoy-intoxicated-man-falls-and-loses-consciousness-on-sidewalk",
-  "ts": 1793487710,
-  "title": "Intoxicated man falls and loses consciousness on sidewalk",
-  "address": "N State St, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793487710_otxdmhoy-intoxicated-man-falls-and-loses-consciousness-on-sidewalk"
- },
- {
-  "id": "12042-2261_1793487688_mwbirymd-man-with-high-blood-sugar-and-dehydration-at-senior-living",
-  "ts": 1793487688,
-  "title": "Man with high blood sugar and dehydration at senior living",
-  "address": "S Geneva Rd, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/12042-2261_1793487688_mwbirymd-man-with-high-blood-sugar-and-dehydration-at-senior-living"
- },
- {
-  "id": "12042-6210_1793486270_ftgmipci-unit-remains-at-traffic-crash-scene",
-  "ts": 1793486270,
-  "title": "Unit remains at traffic crash scene",
-  "address": "Sandhill Rd, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793486270_ftgmipci-unit-remains-at-traffic-crash-scene"
- },
- {
-  "id": "12042-6210_1793485984_ukbqtccm-traffic-stop-at-400-north-and-1200-west",
-  "ts": 1793485984,
-  "title": "Traffic stop at 400 North and 1200 West",
-  "address": "W & 400 N, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793485984_ukbqtccm-traffic-stop-at-400-north-and-1200-west"
- },
- {
-  "id": "12042-1838_1793484049_epbapcyy-disabled-car-with-damage-on-provo-canyon-road",
-  "ts": 1793484049,
-  "title": "Disabled car with damage on Provo Canyon Road",
-  "address": "Provo Canyon Road, Orem, Utah 84097, United States",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-1838_1793484049_epbapcyy-disabled-car-with-damage-on-provo-canyon-road"
- },
- {
-  "id": "26923_1793481793_hfjbexhw-person-found-on-bathroom-floor-at-orem-residence",
-  "ts": 1793481793,
-  "title": "Person found on bathroom floor at Orem residence",
-  "address": "S State St, Orem, UT 84097",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1793481793_hfjbexhw-person-found-on-bathroom-floor-at-orem-residence"
  }
 ]
