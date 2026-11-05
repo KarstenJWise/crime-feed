@@ -1,5 +1,109 @@
 [
  {
+  "id": "26923_1793899512_bevhjxvw-ambulance-responds-and-transports-patient-from-provo-address",
+  "ts": 1793899512,
+  "title": "Ambulance responds and transports patient from Provo address",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1793899512_bevhjxvw-ambulance-responds-and-transports-patient-from-provo-address"
+ },
+ {
+  "id": "26923_1793899487_prugeaaq-fire-investigation-behind-residence-on-austin-way",
+  "ts": 1793899487,
+  "title": "Fire investigation behind residence on Austin Way",
+  "address": "Austin Ave, Orem, UT 84097",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793899487_prugeaaq-fire-investigation-behind-residence-on-austin-way"
+ },
+ {
+  "id": "12042-6210_1793899204_vzaftvoo-traffic-stop-near-west-400-south-in-orem",
+  "ts": 1793899204,
+  "title": "Traffic stop near West 400 South in Orem",
+  "address": "W 400 S, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793899204_vzaftvoo-traffic-stop-near-west-400-south-in-orem"
+ },
+ {
+  "id": "12042-6210_1793899194_lddmwisg-alcohol-related-medical-call-near-west-address-number-withheld-south-in-orem",
+  "ts": 1793899194,
+  "title": "Alcohol-related medical call near West (address_number withheld) South in Orem",
+  "address": "W 400 S, Orem, UT 84058",
+  "category": "Substance Use",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793899194_lddmwisg-alcohol-related-medical-call-near-west-address-number-withheld-south-in-orem"
+ },
+ {
+  "id": "26923_1793896761_lizzxzoy-woman-with-developmental-delay-frustrated-over-lack-of-help",
+  "ts": 1793896761,
+  "title": "Woman with developmental delay frustrated over lack of help",
+  "address": "W Center St, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1793896761_lizzxzoy-woman-with-developmental-delay-frustrated-over-lack-of-help"
+ },
+ {
+  "id": "26923_1793895730_bikiygvh-suspicious-vehicle-reported-at-carterville-park",
+  "ts": 1793895730,
+  "title": "Suspicious vehicle reported at Carterville Park",
+  "address": "Carterville Park, 2400 N Carterville Rd, Provo, UT 84604",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1793895730_bikiygvh-suspicious-vehicle-reported-at-carterville-park"
+ },
+ {
+  "id": "26923_1793891765_ztjlgkji-sick-raccoon-reported-at-lakeside-rv-campground",
+  "ts": 1793891765,
+  "title": "Sick raccoon reported at Lakeside RV Campground",
+  "address": "W Center St, Provo, UT 84601",
+  "category": "Other Non-Crime Event",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1793891765_ztjlgkji-sick-raccoon-reported-at-lakeside-rv-campground"
+ },
+ {
+  "id": "12042-6210_1793888540_ypqetcqv-man-yelling-at-people-while-riding-bike-in-orem",
+  "ts": 1793888540,
+  "title": "Man yelling at people while riding bike in Orem",
+  "address": "N & State St, Orem, UT 84057",
+  "category": "Disturbance",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793888540_ypqetcqv-man-yelling-at-people-while-riding-bike-in-orem"
+ },
+ {
+  "id": "12042-6210_1793888515_lkkjtfcd-diesel-fuel-spills-into-storm-drain-in-geneva-area",
+  "ts": 1793888515,
+  "title": "Diesel fuel spills into storm drain in Geneva area",
+  "address": "Geneva, Orem, UT 84057",
+  "category": "Environmental Hazard",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793888515_lkkjtfcd-diesel-fuel-spills-into-storm-drain-in-geneva-area"
+ },
+ {
+  "id": "12042-6206_1793888290_myzhgzsx-vehicle-parked-facing-wrong-way-on-street",
+  "ts": 1793888290,
+  "title": "Vehicle parked facing wrong way on street",
+  "address": "N 3300 W, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6206_1793888290_myzhgzsx-vehicle-parked-facing-wrong-way-on-street"
+ },
+ {
+  "id": "12042-63439_1793885266_cczgnkwk-fuel-spill-reported-at-ups-ramp-in-orem",
+  "ts": 1793885266,
+  "title": "Fuel spill reported at UPS ramp in Orem",
+  "address": "N 1500 W, Orem, UT 84057",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/orem-ut/12042-63439_1793885266_cczgnkwk-fuel-spill-reported-at-ups-ramp-in-orem"
+ },
+ {
+  "id": "26923_1793879175_skddgimx-domestic-dispute-near-north-3020-west-in-provo",
+  "ts": 1793879175,
+  "title": "Domestic dispute near North 3020 West in Provo",
+  "address": "N 3020 W, Provo, UT 84601",
+  "category": "Domestic Dispute",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1793879175_skddgimx-domestic-dispute-near-north-3020-west-in-provo"
+ },
+ {
+  "id": "26923_1793873122_allawnzy-vehicle-alarm-at-auto-dealership-on-north-state",
+  "ts": 1793873122,
+  "title": "Vehicle alarm at auto dealership on North State",
+  "address": "N State St, Orem, UT 84057",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1793873122_allawnzy-vehicle-alarm-at-auto-dealership-on-north-state"
+ },
+ {
   "id": "26923_1793869174_jvefazvs-woman-with-heart-issues-confused-near-orem",
   "ts": 1793869174,
   "title": "Woman with heart issues confused near Orem",
@@ -214,109 +318,5 @@
   "address": "Meadow Fork Rd, Provo, UT 84606",
   "category": "Disturbance",
   "link": "https://www.crimeradar.us/provo-ut/12042-6206_1793837193_ofnyqjxp-aggressive-patient-fighting-staff-at-care-facility"
- },
- {
-  "id": "26923_1793837097_mbyxcmjn-fire-alarm-at-three-story-hotel-in-provo",
-  "ts": 1793837097,
-  "title": "Fire alarm at three-story hotel in Provo",
-  "address": "W 2230 N, Provo, UT 84604",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1793837097_mbyxcmjn-fire-alarm-at-three-story-hotel-in-provo"
- },
- {
-  "id": "26923_1793837041_dhjbpzxh-residential-fire-alarm-in-provo-home",
-  "ts": 1793837041,
-  "title": "Residential fire alarm in Provo home",
-  "address": "S 500 W, Provo, UT 84601",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1793837041_dhjbpzxh-residential-fire-alarm-in-provo-home"
- },
- {
-  "id": "26923_1793836840_rpxbjaku-injury-crash-on-west-northwood-lane-in-provo",
-  "ts": 1793836840,
-  "title": "Injury crash on West Northwood Lane in Provo",
-  "address": "W Northwood Ln, Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1793836840_rpxbjaku-injury-crash-on-west-northwood-lane-in-provo"
- },
- {
-  "id": "26923_1793835005_vbsynwpm-vandalism-and-concern-over-controlling-boyfriend",
-  "ts": 1793835005,
-  "title": "Vandalism and concern over controlling boyfriend",
-  "address": "S 1545 W, Orem, UT 84058",
-  "category": "Domestic Dispute",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1793835005_vbsynwpm-vandalism-and-concern-over-controlling-boyfriend"
- },
- {
-  "id": "12042-6210_1793833959_ysfkxbyv-man-yelling-at-mother-and-children-at-hillcrest-park",
-  "ts": 1793833959,
-  "title": "Man yelling at mother and children at Hillcrest Park",
-  "address": "E 1400 S, Orem, UT 84097",
-  "category": "Disturbance",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793833959_ysfkxbyv-man-yelling-at-mother-and-children-at-hillcrest-park"
- },
- {
-  "id": "12042-6206_1793833355_juusvmse-noise-complaint-over-banging-at-apartment-basement",
-  "ts": 1793833355,
-  "title": "Noise complaint over banging at apartment basement",
-  "address": "N Freedom Blvd, Provo, UT 84601",
-  "category": "Disturbance",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6206_1793833355_juusvmse-noise-complaint-over-banging-at-apartment-basement"
- },
- {
-  "id": "12042-6206_1793833132_kwbawkzx-found-property-brought-to-police-station",
-  "ts": 1793833132,
-  "title": "Found property brought to police station",
-  "address": "W Center St, Provo, UT 84601",
-  "category": "Other Incidents",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6206_1793833132_kwbawkzx-found-property-brought-to-police-station"
- },
- {
-  "id": "12042-6210_1793831605_jcnjkmdq-traffic-stop-on-1600-north-in-orem",
-  "ts": 1793831605,
-  "title": "Traffic stop on 1600 North in Orem",
-  "address": "W 1600 N, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793831605_jcnjkmdq-traffic-stop-on-1600-north-in-orem"
- },
- {
-  "id": "12042-6210_1793831075_yydwkgfg-report-of-past-property-theft-with-video-evidence",
-  "ts": 1793831075,
-  "title": "Report of past property theft with video evidence",
-  "address": "E University Pkwy, Orem, UT 84097",
-  "category": "Theft Report",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793831075_yydwkgfg-report-of-past-property-theft-with-video-evidence"
- },
- {
-  "id": "12042-6210_1793830784_yyzuqcjj-semi-hits-man-who-refuses-medical-help",
-  "ts": 1793830784,
-  "title": "Semi hits man who refuses medical help",
-  "address": "N Geneva Rd, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793830784_yyzuqcjj-semi-hits-man-who-refuses-medical-help"
- },
- {
-  "id": "12042-6210_1793830471_icuncpkx-welfare-check-for-bmw-driver-in-orem",
-  "ts": 1793830471,
-  "title": "Welfare check for BMW driver in Orem",
-  "address": "E 800 S, Orem, UT 84097",
-  "category": "Missing Person",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793830471_icuncpkx-welfare-check-for-bmw-driver-in-orem"
- },
- {
-  "id": "26923_1793830362_bumzjtei-shoplifting-suspect-near-store-subway-area",
-  "ts": 1793830362,
-  "title": "Shoplifting suspect near store Subway area",
-  "address": "W 1000 N, Orem, UT 84057",
-  "category": "Theft Report",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1793830362_bumzjtei-shoplifting-suspect-near-store-subway-area"
- },
- {
-  "id": "12042-6210_1793830167_rmerzach-traffic-stop-on-south-state-street",
-  "ts": 1793830167,
-  "title": "Traffic stop on South State Street",
-  "address": "S State St, Orem, UT 84097",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1793830167_rmerzach-traffic-stop-on-south-state-street"
  }
 ]
