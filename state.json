@@ -1,5 +1,149 @@
 [
  {
+  "id": "26923_1794123497_pbvcvxsv-person-trying-to-force-entry-at-apartment-door",
+  "ts": 1794123497,
+  "title": "Person trying to force entry at apartment door",
+  "address": "W Center St, Provo, UT 84601",
+  "category": "Break-In",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794123497_pbvcvxsv-person-trying-to-force-entry-at-apartment-door"
+ },
+ {
+  "id": "26923_1794122869_msdhppza-traffic-stop-at-1600-south-and-hidden-hollow-drive",
+  "ts": 1794122869,
+  "title": "Traffic stop at 1600 South and Hidden Hollow Drive",
+  "address": "W Hidden Hollow Dr & W 1600 S, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794122869_msdhppza-traffic-stop-at-1600-south-and-hidden-hollow-drive"
+ },
+ {
+  "id": "26923_1794122851_ffoonlwr-suspicious-person-at-apartment-complex",
+  "ts": 1794122851,
+  "title": "Suspicious person at apartment complex",
+  "address": "N Geneva Rd, Orem, UT 84057",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794122851_ffoonlwr-suspicious-person-at-apartment-complex"
+ },
+ {
+  "id": "26923_1794121872_gsgnqbex-traffic-stop-behind-7-eleven-off-exit-271",
+  "ts": 1794121872,
+  "title": "Traffic stop behind 7-Eleven off Exit 271",
+  "address": "Center St, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794121872_gsgnqbex-traffic-stop-behind-7-eleven-off-exit-271"
+ },
+ {
+  "id": "26923_1794119377_lmrajayj-residential-burglary-alarm-at-front-door",
+  "ts": 1794119377,
+  "title": "Residential burglary alarm at front door",
+  "address": "W 140 S, Orem, UT 84058",
+  "category": "Break-In",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794119377_lmrajayj-residential-burglary-alarm-at-front-door"
+ },
+ {
+  "id": "26923_1794119186_lpzxcnxo-traffic-stop-on-southbound-off-ramp-in-provo",
+  "ts": 1794119186,
+  "title": "Traffic stop on southbound off-ramp in Provo",
+  "address": "Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794119186_lpzxcnxo-traffic-stop-on-southbound-off-ramp-in-provo"
+ },
+ {
+  "id": "26923_1794119167_fxsyauqo-assistance-requested-for-elderly-man-at-senior-living-facility",
+  "ts": 1794119167,
+  "title": "Assistance requested for elderly man at senior living facility",
+  "address": "S Geneva Rd, Orem, UT 84058",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794119167_fxsyauqo-assistance-requested-for-elderly-man-at-senior-living-facility"
+ },
+ {
+  "id": "26923_1794119099_mohtcsaz-fire-alarm-at-senior-living-facility-near-south-geneva-road",
+  "ts": 1794119099,
+  "title": "Fire alarm at senior living facility near South Geneva Road",
+  "address": "S Geneva Rd, Orem, UT 84058",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794119099_mohtcsaz-fire-alarm-at-senior-living-facility-near-south-geneva-road"
+ },
+ {
+  "id": "12042-5921_1794117210_ivhgxrdm-single-car-crash-into-guardrail-in-provo",
+  "ts": 1794117210,
+  "title": "Single-car crash into guardrail in Provo",
+  "address": "900 E, Provo, UT 84606",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/12042-5921_1794117210_ivhgxrdm-single-car-crash-into-guardrail-in-provo"
+ },
+ {
+  "id": "26923_1794116808_gsruivwl-teens-revving-dirt-bikes-in-provo-neighborhood",
+  "ts": 1794116808,
+  "title": "Teens revving dirt bikes in Provo neighborhood",
+  "address": "N 3200 W, Provo, UT 84601",
+  "category": "Disturbance",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794116808_gsruivwl-teens-revving-dirt-bikes-in-provo-neighborhood"
+ },
+ {
+  "id": "26923_1794116510_qliqinth-suspicious-van-with-baby-at-provo-gas-station",
+  "ts": 1794116510,
+  "title": "Suspicious van with baby at Provo gas station",
+  "address": "N 1500 W, Provo, UT 84604",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794116510_qliqinth-suspicious-van-with-baby-at-provo-gas-station"
+ },
+ {
+  "id": "26923_1794115010_etwimoqq-woman-fell-swollen-ankle-and-foot-no-head-pain",
+  "ts": 1794115010,
+  "title": "Woman fell, swollen ankle and foot, no head pain",
+  "address": "N 800 W St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794115010_etwimoqq-woman-fell-swollen-ankle-and-foot-no-head-pain"
+ },
+ {
+  "id": "26923_1794114638_fvavqjiy-smoke-smell-checked-at-orem-residence",
+  "ts": 1794114638,
+  "title": "Smoke smell checked at Orem residence",
+  "address": "N 110 W St, Orem, UT 84057",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794114638_fvavqjiy-smoke-smell-checked-at-orem-residence"
+ },
+ {
+  "id": "26923_1794113023_mkjknxxe-assistance-for-keys-locked-in-vehicle-at-store",
+  "ts": 1794113023,
+  "title": "Assistance for keys locked in vehicle at store",
+  "address": "S 1120 W St, Orem, UT 84058",
+  "category": "Other Non-Crime Event",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794113023_mkjknxxe-assistance-for-keys-locked-in-vehicle-at-store"
+ },
+ {
+  "id": "26923_1794110137_uvmynmbx-alcohol-related-call-at-pine-hollow-trail",
+  "ts": 1794110137,
+  "title": "Alcohol-related call at Pine Hollow Trail",
+  "address": "Pine Hollow Trail, Provo, UT 84604",
+  "category": "Substance Use",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794110137_uvmynmbx-alcohol-related-call-at-pine-hollow-trail"
+ },
+ {
+  "id": "26923_1794110097_upshtblr-suspicious-person-seen-outside-provo-building",
+  "ts": 1794110097,
+  "title": "Suspicious person seen outside Provo building",
+  "address": "E, Provo, UT 84606",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794110097_upshtblr-suspicious-person-seen-outside-provo-building"
+ },
+ {
+  "id": "26923_1794104293_orzwfvgh-elderly-woman-with-hypoglycemia-and-new-atrial-fibrillation",
+  "ts": 1794104293,
+  "title": "Elderly woman with hypoglycemia and new atrial fibrillation",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794104293_orzwfvgh-elderly-woman-with-hypoglycemia-and-new-atrial-fibrillation"
+ },
+ {
+  "id": "26923_1794103587_pkqujcbi-burglary-in-progress-reported-at-provo-home",
+  "ts": 1794103587,
+  "title": "Burglary in progress reported at Provo home",
+  "address": "S 1500 E, Provo, UT 84606",
+  "category": "Break-In",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794103587_pkqujcbi-burglary-in-progress-reported-at-provo-home"
+ },
+ {
   "id": "26923_1794098706_rjtmpngf-couple-arguing-at-south-graff-circle-residence",
   "ts": 1794098706,
   "title": "Couple arguing at South Graff Circle residence",
@@ -174,149 +318,5 @@
   "address": "W 230 N, Orem, UT 84057",
   "category": "Suspicious Person",
   "link": "https://www.crimeradar.us/orem-ut/26923_1794079421_gkallvoa-report-of-child-screaming-near-west-230-north"
- },
- {
-  "id": "12042-2261_1794078218_kuxorhzw-elderly-man-confused-transported-from-er-to-home-in-orem",
-  "ts": 1794078218,
-  "title": "Elderly man confused transported from ER to home in Orem",
-  "address": "W 800 N, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/12042-2261_1794078218_kuxorhzw-elderly-man-confused-transported-from-er-to-home-in-orem"
- },
- {
-  "id": "26923_1794077891_omgyxmnm-officer-responds-to-animal-problem-at-orem-home",
-  "ts": 1794077891,
-  "title": "Officer responds to animal problem at Orem home",
-  "address": "W 800 N, Orem, UT 84057",
-  "category": "Other Incidents",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794077891_omgyxmnm-officer-responds-to-animal-problem-at-orem-home"
- },
- {
-  "id": "26923_1794077821_ojrtiycm-iphone-crash-alert-with-no-response-on-north-emery",
-  "ts": 1794077821,
-  "title": "iPhone crash alert with no response on North Emery",
-  "address": "N Emery Ave, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794077821_ojrtiycm-iphone-crash-alert-with-no-response-on-north-emery"
- },
- {
-  "id": "26923_1794074852_xjivbetp-officer-pursues-bicyclist-who-ignored-contact",
-  "ts": 1794074852,
-  "title": "Officer pursues bicyclist who ignored contact",
-  "address": "S University Ave, Provo, UT 84601",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794074852_xjivbetp-officer-pursues-bicyclist-who-ignored-contact"
- },
- {
-  "id": "26923_1794073908_vufohyov-teen-female-with-catheter-needing-removal-in-provo",
-  "ts": 1794073908,
-  "title": "Teen female with catheter needing removal in Provo",
-  "address": "W 100 N, Provo, UT 84601",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794073908_vufohyov-teen-female-with-catheter-needing-removal-in-provo"
- },
- {
-  "id": "26923_1794073592_rqhsmbks-officer-reports-parking-problem-on-north-state-street",
-  "ts": 1794073592,
-  "title": "Officer reports parking problem on North State Street",
-  "address": "N State St, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794073592_rqhsmbks-officer-reports-parking-problem-on-north-state-street"
- },
- {
-  "id": "26923_1794072261_jzznmrkv-couple-arguing-man-threatens-to-take-his-own-life",
-  "ts": 1794072261,
-  "title": "Couple arguing; man threatens to take his own life",
-  "address": "E 1800 S St, Orem, UT 84058",
-  "category": "Domestic Dispute",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794072261_jzznmrkv-couple-arguing-man-threatens-to-take-his-own-life"
- },
- {
-  "id": "26923_1794071353_zxhqywvf-burglar-alarm-reported-from-text-to-911",
-  "ts": 1794071353,
-  "title": "Burglar alarm reported from text to 911",
-  "address": "N 1120 W, Provo, UT 84604",
-  "category": "Break-In",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794071353_zxhqywvf-burglar-alarm-reported-from-text-to-911"
- },
- {
-  "id": "26923_1794070588_zwaygzri-people-trying-to-pry-open-parked-black-vehicle",
-  "ts": 1794070588,
-  "title": "People trying to pry open parked black vehicle",
-  "address": "E 500 N, Provo, UT 84606",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794070588_zwaygzri-people-trying-to-pry-open-parked-black-vehicle"
- },
- {
-  "id": "26923_1794070166_nowchdwe-welfare-check-on-friend-at-crest-drive-residence",
-  "ts": 1794070166,
-  "title": "Welfare check on friend at Crest Drive residence",
-  "address": "Crest Dr, Orem, UT 84057",
-  "category": "Missing Person",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794070166_nowchdwe-welfare-check-on-friend-at-crest-drive-residence"
- },
- {
-  "id": "26923_1794069603_wfrgmisy-traffic-stop-near-orem-boulevard-and-400-south",
-  "ts": 1794069603,
-  "title": "Traffic stop near Orem Boulevard and 400 South",
-  "address": "Orem Blvd & 400 S, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794069603_wfrgmisy-traffic-stop-near-orem-boulevard-and-400-south"
- },
- {
-  "id": "12042-2261_1794068583_krcqzrcv-woman-with-distended-abdomen-transported-from-er-to-care-facility",
-  "ts": 1794068583,
-  "title": "Woman with distended abdomen transported from ER to care facility",
-  "address": "N 500 W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-2261_1794068583_krcqzrcv-woman-with-distended-abdomen-transported-from-er-to-care-facility"
- },
- {
-  "id": "26923_1794068311_tgrbjxsy-officer-checks-vehicle-near-uccu-dome-in-orem",
-  "ts": 1794068311,
-  "title": "Officer checks vehicle near UCCU dome in Orem",
-  "address": "Center St & N Wolverine Wy, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794068311_tgrbjxsy-officer-checks-vehicle-near-uccu-dome-in-orem"
- },
- {
-  "id": "26923_1794067629_fcgjkdez-74-year-old-woman-conscious-and-breathing-at-provo-home",
-  "ts": 1794067629,
-  "title": "74-year-old woman conscious and breathing at Provo home",
-  "address": "W 1150 S, Provo, UT 84601",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794067629_fcgjkdez-74-year-old-woman-conscious-and-breathing-at-provo-home"
- },
- {
-  "id": "26923_1794065872_zrrqbyeu-dispute-over-possible-hit-and-run-on-north-state-street",
-  "ts": 1794065872,
-  "title": "Dispute over possible hit and run on North State Street",
-  "address": "N State St, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794065872_zrrqbyeu-dispute-over-possible-hit-and-run-on-north-state-street"
- },
- {
-  "id": "26923_1794065763_ihjapctj-officer-transporting-juvenile-to-flag-canyon",
-  "ts": 1794065763,
-  "title": "Officer transporting juvenile to Flag Canyon",
-  "address": "S Slate Canyon Dr, Provo, UT 84606",
-  "category": "Other Incidents",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794065763_ihjapctj-officer-transporting-juvenile-to-flag-canyon"
- },
- {
-  "id": "26923_1794063919_xsarwhcv-minor-crash-involving-two-vehicles-on-south-state",
-  "ts": 1794063919,
-  "title": "Minor crash involving two vehicles on South State",
-  "address": "S State St, Orem, UT 84097",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794063919_xsarwhcv-minor-crash-involving-two-vehicles-on-south-state"
- },
- {
-  "id": "26923_1794061080_dfyrpmwy-smoldering-log-near-campsite-at-canyon-glen-park",
-  "ts": 1794061080,
-  "title": "Smoldering log near campsite at Canyon Glen Park",
-  "address": "Canyon Glen Park, 1501 E Provo Canyon Rd, Provo, UT 84604",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794061080_dfyrpmwy-smoldering-log-near-campsite-at-canyon-glen-park"
  }
 ]
