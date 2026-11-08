@@ -1,11 +1,99 @@
 [
  {
+  "id": "44440_1794142757_wlxlokem-adult-female-assaulting-staff-during-health-transport",
+  "ts": 1794142757,
+  "title": "Adult female assaulting staff during health transport",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/44440_1794142757_wlxlokem-adult-female-assaulting-staff-during-health-transport"
+ },
+ {
+  "id": "26923_1794137348_cmigckyy-44-year-old-treated-for-smoke-inhalation-in-orem",
+  "ts": 1794137348,
+  "title": "44-year-old treated for smoke inhalation in Orem",
+  "address": "Orem, UT 84058",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794137348_cmigckyy-44-year-old-treated-for-smoke-inhalation-in-orem"
+ },
+ {
+  "id": "26923_1794136349_uoyqotbe-second-traffic-crash-reported-near-orem",
+  "ts": 1794136349,
+  "title": "Second traffic crash reported near Orem",
+  "address": "E 760 N, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794136349_uoyqotbe-second-traffic-crash-reported-near-orem"
+ },
+ {
+  "id": "26923_1794136280_qxrswnmh-woman-at-orem-address-has-panic-attack-and-seizure",
+  "ts": 1794136280,
+  "title": "Woman at Orem address has panic attack and seizure",
+  "address": "E 760 N, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794136280_qxrswnmh-woman-at-orem-address-has-panic-attack-and-seizure"
+ },
+ {
+  "id": "26923_1794134717_oefxunbk-female-with-bump-on-back-of-head-near-provo",
+  "ts": 1794134717,
+  "title": "Female with bump on back of head near Provo",
+  "address": "S 2330 W, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794134717_oefxunbk-female-with-bump-on-back-of-head-near-provo"
+ },
+ {
+  "id": "26923_1794132986_khjbeici-young-child-with-rhinovirus-on-oxygen-during-transport",
+  "ts": 1794132986,
+  "title": "Young child with rhinovirus on oxygen during transport",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794132986_khjbeici-young-child-with-rhinovirus-on-oxygen-during-transport"
+ },
+ {
+  "id": "26923_1794128830_piqunaep-female-requests-medics-at-hotel-with-pain-and-ideations",
+  "ts": 1794128830,
+  "title": "Female requests medics at hotel with pain and ideations",
+  "address": "W University Pkwy, Orem, UT 84058",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794128830_piqunaep-female-requests-medics-at-hotel-with-pain-and-ideations"
+ },
+ {
+  "id": "26923_1794127446_abgbnzfz-false-medical-alarm-for-elderly-woman-using-walker",
+  "ts": 1794127446,
+  "title": "False medical alarm for elderly woman using walker",
+  "address": "N Driftwood Dr, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794127446_abgbnzfz-false-medical-alarm-for-elderly-woman-using-walker"
+ },
+ {
+  "id": "26923_1794126840_fetdybqy-noise-complaint-over-loud-hot-tub-gathering",
+  "ts": 1794126840,
+  "title": "Noise complaint over loud hot tub gathering",
+  "address": "W 1200 S, Orem, UT 84058",
+  "category": "Disturbance",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794126840_fetdybqy-noise-complaint-over-loud-hot-tub-gathering"
+ },
+ {
+  "id": "26923_1794126813_mcvqjjpk-officer-checks-suspicious-vehicle-near-number-withheld-south-in-orem",
+  "ts": 1794126813,
+  "title": "Officer checks suspicious vehicle near (number withheld) South in Orem",
+  "address": "E 1070 S, Orem, UT 84097",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794126813_mcvqjjpk-officer-checks-suspicious-vehicle-near-number-withheld-south-in-orem"
+ },
+ {
   "id": "26923_1794123497_pbvcvxsv-person-trying-to-force-entry-at-apartment-door",
   "ts": 1794123497,
   "title": "Person trying to force entry at apartment door",
   "address": "W Center St, Provo, UT 84601",
   "category": "Break-In",
   "link": "https://www.crimeradar.us/provo-ut/26923_1794123497_pbvcvxsv-person-trying-to-force-entry-at-apartment-door"
+ },
+ {
+  "id": "26923_1794123201_wqthikns-officer-checks-report-of-person-with-handgun",
+  "ts": 1794123201,
+  "title": "Officer checks report of person with handgun",
+  "address": "W Center St, Orem, UT 84057",
+  "category": "Weapons",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794123201_wqthikns-officer-checks-report-of-person-with-handgun"
  },
  {
   "id": "26923_1794122869_msdhppza-traffic-stop-at-1600-south-and-hidden-hollow-drive",
@@ -230,93 +318,5 @@
   "address": "N 520 W St, Orem, UT 84057",
   "category": "Traffic",
   "link": "https://www.crimeradar.us/orem-ut/26923_1794091293_ftxlqzlq-officer-assists-driver-of-silver-nissan-sentra"
- },
- {
-  "id": "12042-6210_1794091241_pjzroamc-motor-assist-for-keys-locked-in-car-driveway",
-  "ts": 1794091241,
-  "title": "Motor assist for keys locked in car driveway",
-  "address": "S 520 W, Orem, UT 84058",
-  "category": "Other Non-Crime Event",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794091241_pjzroamc-motor-assist-for-keys-locked-in-car-driveway"
- },
- {
-  "id": "26923_1794089149_jnvoeppn-child-seen-with-chainsaw-and-possible-drugs-at-home",
-  "ts": 1794089149,
-  "title": "Child seen with chainsaw and possible drugs at home",
-  "address": "S 600 W St, Orem, UT 84058",
-  "category": "Domestic Dispute",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794089149_jnvoeppn-child-seen-with-chainsaw-and-possible-drugs-at-home"
- },
- {
-  "id": "26923_1794088948_qzqaeqtm-gas-powered-motorcycle-ridden-through-windsor-park",
-  "ts": 1794088948,
-  "title": "Gas-powered motorcycle ridden through Windsor Park",
-  "address": "Windsor Park, 1356 N 200 W St, Orem, UT 84057",
-  "category": "Disturbance",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794088948_qzqaeqtm-gas-powered-motorcycle-ridden-through-windsor-park"
- },
- {
-  "id": "26923_1794088925_xgotqxsf-medical-assist-for-20-year-old-male-at-residential-address",
-  "ts": 1794088925,
-  "title": "Medical assist for 20-year-old male at residential address",
-  "address": "W Camelot Dr, Provo, UT 84601",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794088925_xgotqxsf-medical-assist-for-20-year-old-male-at-residential-address"
- },
- {
-  "id": "12042-3701_1794087387_ptbdnnii-person-having-seizure-near-north-university-avenue-in-provo",
-  "ts": 1794087387,
-  "title": "Person having seizure near North University Avenue in Provo",
-  "address": "N University Ave, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-3701_1794087387_ptbdnnii-person-having-seizure-near-north-university-avenue-in-provo"
- },
- {
-  "id": "12042-6216_1794082284_unvlxeqn-female-found-unconscious-and-not-breathing-in-provo",
-  "ts": 1794082284,
-  "title": "Female found unconscious and not breathing in Provo",
-  "address": "N 1600 W, Provo, UT 84601",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6216_1794082284_unvlxeqn-female-found-unconscious-and-not-breathing-in-provo"
- },
- {
-  "id": "12042-6216_1794082260_yuuyawqg-person-possibly-having-diabetic-issue-near-south-50-east-in-orem",
-  "ts": 1794082260,
-  "title": "Person possibly having diabetic issue near South 50 East in Orem",
-  "address": "50 E, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6216_1794082260_yuuyawqg-person-possibly-having-diabetic-issue-near-south-50-east-in-orem"
- },
- {
-  "id": "12042-6215_1794082147_rmhtcetc-adult-diabetic-patient-receives-cpr-near-provo",
-  "ts": 1794082147,
-  "title": "Adult diabetic patient receives CPR near Provo",
-  "address": "N 1600 W, Provo, UT 84601",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6215_1794082147_rmhtcetc-adult-diabetic-patient-receives-cpr-near-provo"
- },
- {
-  "id": "26923_1794081490_erslqcot-neighbor-revving-loud-car-engine-on-jordan-lane",
-  "ts": 1794081490,
-  "title": "Neighbor revving loud car engine on Jordan Lane",
-  "address": "Jordan Ave, Provo, UT 84604",
-  "category": "Disturbance",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794081490_erslqcot-neighbor-revving-loud-car-engine-on-jordan-lane"
- },
- {
-  "id": "26923_1794080361_zxgohfim-family-disturbance-reported-near-600-west-in-orem",
-  "ts": 1794080361,
-  "title": "Family disturbance reported near 600 West in Orem",
-  "address": "W 600 N St & N 600 W St, Orem, UT 84057",
-  "category": "Domestic Dispute",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794080361_zxgohfim-family-disturbance-reported-near-600-west-in-orem"
- },
- {
-  "id": "26923_1794079421_gkallvoa-report-of-child-screaming-near-west-230-north",
-  "ts": 1794079421,
-  "title": "Report of child screaming near West 230 North",
-  "address": "W 230 N, Orem, UT 84057",
-  "category": "Suspicious Person",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794079421_gkallvoa-report-of-child-screaming-near-west-230-north"
  }
 ]
