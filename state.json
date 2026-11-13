@@ -1,5 +1,117 @@
 [
  {
+  "id": "12042-1838_1794605017_citvjcbs-traffic-stop-at-800-north-and-geneva-road",
+  "ts": 1794605017,
+  "title": "Traffic stop at 800 North and Geneva Road",
+  "address": "N & N Geneva Rd, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-1838_1794605017_citvjcbs-traffic-stop-at-800-north-and-geneva-road"
+ },
+ {
+  "id": "12042-6210_1794604702_lsymhglv-report-of-intoxicated-driver-with-bat-near-costco",
+  "ts": 1794604702,
+  "title": "Report of intoxicated driver with bat near Costco",
+  "address": "E 800 S, Orem, UT 84097",
+  "category": "Substance Use",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794604702_lsymhglv-report-of-intoxicated-driver-with-bat-near-costco"
+ },
+ {
+  "id": "26923_1794604416_uxbpmwdb-person-conscious-after-taser-use-near-north-main-street",
+  "ts": 1794604416,
+  "title": "Person conscious after taser use near north Main Street",
+  "address": "N Main St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794604416_uxbpmwdb-person-conscious-after-taser-use-near-north-main-street"
+ },
+ {
+  "id": "26923_1794603271_gcvpevpq-police-respond-after-dispute-in-store-parking-lot",
+  "ts": 1794603271,
+  "title": "Police respond after dispute in store parking lot",
+  "address": "N Main St, Orem, UT 84057",
+  "category": "Other Incidents",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794603271_gcvpevpq-police-respond-after-dispute-in-store-parking-lot"
+ },
+ {
+  "id": "12042-6210_1794602461_vwmlmrlq-traffic-stop-on-west-number-withheld-south-in-orem",
+  "ts": 1794602461,
+  "title": "Traffic stop on West (number withheld) South in Orem",
+  "address": "W 400 S, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794602461_vwmlmrlq-traffic-stop-on-west-number-withheld-south-in-orem"
+ },
+ {
+  "id": "26923_1794602453_ggovpsvj-engineer-passes-out-and-hits-head-near-provo",
+  "ts": 1794602453,
+  "title": "Engineer passes out and hits head near Provo",
+  "address": "S E Bay Blvd, Provo, UT 84606",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794602453_ggovpsvj-engineer-passes-out-and-hits-head-near-provo"
+ },
+ {
+  "id": "26923_1794601858_wfxnluff-questions-about-protective-order-at-north-main-home",
+  "ts": 1794601858,
+  "title": "Questions about protective order at North Main home",
+  "address": "N Main St, Orem, UT 84057",
+  "category": "Other Incidents",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794601858_wfxnluff-questions-about-protective-order-at-north-main-home"
+ },
+ {
+  "id": "12042-6210_1794601514_wzddmkgk-neighbors-report-ongoing-dog-barking-dispute",
+  "ts": 1794601514,
+  "title": "Neighbors report ongoing dog barking dispute",
+  "address": "Ellis Dr, Orem, UT 84097",
+  "category": "Other Incidents",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794601514_wzddmkgk-neighbors-report-ongoing-dog-barking-dispute"
+ },
+ {
+  "id": "26923_1794601212_icnulyvy-traffic-stop-involving-chevy-cobalt-with-temp-tag",
+  "ts": 1794601212,
+  "title": "Traffic stop involving Chevy Cobalt with temp tag",
+  "address": "E 560 N, Provo, UT 84606",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794601212_icnulyvy-traffic-stop-involving-chevy-cobalt-with-temp-tag"
+ },
+ {
+  "id": "12042-6210_1794601204_iriorrkx-traffic-stop-involving-blue-toyota-fj-cruiser",
+  "ts": 1794601204,
+  "title": "Traffic stop involving blue Toyota FJ Cruiser",
+  "address": "S State St, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794601204_iriorrkx-traffic-stop-involving-blue-toyota-fj-cruiser"
+ },
+ {
+  "id": "26923_1794600605_qhellqjt-officer-assists-animal-control-with-dog-at-campus-pond",
+  "ts": 1794600605,
+  "title": "Officer assists animal control with dog at campus pond",
+  "address": "BYU Botany Pond, Provo, UT 84604",
+  "category": "Other Non-Crime Event",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794600605_qhellqjt-officer-assists-animal-control-with-dog-at-campus-pond"
+ },
+ {
+  "id": "26923_1794600114_fzlozzaz-traffic-stop-on-california-plate-at-north-university",
+  "ts": 1794600114,
+  "title": "Traffic stop on California plate at North University",
+  "address": "N University Ave, Provo, UT 84604",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794600114_fzlozzaz-traffic-stop-on-california-plate-at-north-university"
+ },
+ {
+  "id": "12042-2261_1794598073_cwootszm-patient-transport-from-utah-valley-to-riverton",
+  "ts": 1794598073,
+  "title": "Patient transport from Utah Valley to Riverton",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/12042-2261_1794598073_cwootszm-patient-transport-from-utah-valley-to-riverton"
+ },
+ {
+  "id": "26923_1794586322_pyboudey-infant-with-apoxia-transported-from-utah-valley-er",
+  "ts": 1794586322,
+  "title": "Infant with apoxia transported from Utah Valley ER",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794586322_pyboudey-infant-with-apoxia-transported-from-utah-valley-er"
+ },
+ {
   "id": "26923_1794583966_wuwbbomo-69-year-old-woman-with-breathing-issue-at-goodwill",
   "ts": 1794583966,
   "title": "69-year-old woman with breathing issue at Goodwill",
@@ -206,117 +318,5 @@
   "address": "360 W, Orem, UT 84058",
   "category": "Traffic",
   "link": "https://www.crimeradar.us/orem-ut/26923_1794530616_aulsiuua-traffic-stop-with-silver-hyundai-elantra"
- },
- {
-  "id": "26923_1794530607_gxiwbjtf-burglar-alarm-reported-near-south-orem",
-  "ts": 1794530607,
-  "title": "Burglar alarm reported near South Orem",
-  "address": "360 W, Orem, UT 84058",
-  "category": "Break-In",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794530607_gxiwbjtf-burglar-alarm-reported-near-south-orem"
- },
- {
-  "id": "26923_1794529952_nzzoqyur-vehicle-crash-at-lee-s-round-up-in-orem",
-  "ts": 1794529952,
-  "title": "Vehicle crash at Lee\u2019s Round Up in Orem",
-  "address": "1200 W, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794529952_nzzoqyur-vehicle-crash-at-lee-s-round-up-in-orem"
- },
- {
-  "id": "26923_1794529869_qnsbihsc-bedroom-fire-at-provo-home-no-injuries-reported",
-  "ts": 1794529869,
-  "title": "Bedroom fire at Provo home, no injuries reported",
-  "address": "E 2100 N, Provo, UT 84604",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794529869_qnsbihsc-bedroom-fire-at-provo-home-no-injuries-reported"
- },
- {
-  "id": "12042-3701_1794529695_zyrcasnr-bus-hit-and-run-with-injured-passenger-in-provo",
-  "ts": 1794529695,
-  "title": "Bus hit-and-run with injured passenger in Provo",
-  "address": "S University Ave, Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/12042-3701_1794529695_zyrcasnr-bus-hit-and-run-with-injured-passenger-in-provo"
- },
- {
-  "id": "12042-3701_1794529673_rtyiospr-bus-hit-and-run-with-injured-passenger-in-provo",
-  "ts": 1794529673,
-  "title": "Bus hit-and-run with injured passenger in Provo",
-  "address": "S University Ave, Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/12042-3701_1794529673_rtyiospr-bus-hit-and-run-with-injured-passenger-in-provo"
- },
- {
-  "id": "12042-6210_1794526165_qczqrmxq-non-injury-crash-on-east-canyon-parkway-parking-lot",
-  "ts": 1794526165,
-  "title": "Non-injury crash on East Canyon Parkway parking lot",
-  "address": "W Cyn Pkwy, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794526165_qczqrmxq-non-injury-crash-on-east-canyon-parkway-parking-lot"
- },
- {
-  "id": "12042-6210_1794525812_qcpjsyiv-officer-requested-for-ongoing-issue-in-orem",
-  "ts": 1794525812,
-  "title": "Officer requested for ongoing issue in Orem",
-  "address": "N 1030 W St, Orem, UT 84057",
-  "category": "Other Non-Crime Event",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794525812_qcpjsyiv-officer-requested-for-ongoing-issue-in-orem"
- },
- {
-  "id": "12042-6210_1794525799_tqkemcac-officer-assists-with-vehicle-lockout",
-  "ts": 1794525799,
-  "title": "Officer assists with vehicle lockout",
-  "address": "E 800 S, Orem, UT 84097",
-  "category": "Other Non-Crime Event",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794525799_tqkemcac-officer-assists-with-vehicle-lockout"
- },
- {
-  "id": "12042-3701_1794525558_pclwzmdr-bus-strikes-bicyclist-on-south-university-avenue",
-  "ts": 1794525558,
-  "title": "Bus strikes bicyclist on South University Avenue",
-  "address": "S University Ave, Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/12042-3701_1794525558_pclwzmdr-bus-strikes-bicyclist-on-south-university-avenue"
- },
- {
-  "id": "12042-6210_1794525545_papzsyac-parked-truck-and-trailer-blocking-view-on-street",
-  "ts": 1794525545,
-  "title": "Parked truck and trailer blocking view on street",
-  "address": "Palisade Dr, Orem, UT 84097",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794525545_papzsyac-parked-truck-and-trailer-blocking-view-on-street"
- },
- {
-  "id": "12042-3701_1794521318_gqcnquiq-possible-suspect-on-bus-at-provo-station",
-  "ts": 1794521318,
-  "title": "Possible suspect on bus at Provo Station",
-  "address": "S Freedom Blvd, Provo, UT 84601",
-  "category": "Suspicious Person",
-  "link": "https://www.crimeradar.us/provo-ut/12042-3701_1794521318_gqcnquiq-possible-suspect-on-bus-at-provo-station"
- },
- {
-  "id": "12042-3701_1794521249_tbypcfhc-officers-search-for-man-near-provo-bus-station",
-  "ts": 1794521249,
-  "title": "Officers search for man near Provo bus station",
-  "address": "Provo, 300 W 600 S, Provo, UT 84601",
-  "category": "Suspicious Person",
-  "link": "https://www.crimeradar.us/provo-ut/12042-3701_1794521249_tbypcfhc-officers-search-for-man-near-provo-bus-station"
- },
- {
-  "id": "26923_1794519773_jobtptnd-officers-respond-to-assault-at-riverview-park",
-  "ts": 1794519773,
-  "title": "Officers respond to assault at Riverview Park",
-  "address": "Riverview Park, 4620 N 300 W, Provo, UT 84604",
-  "category": "Assault Report",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794519773_jobtptnd-officers-respond-to-assault-at-riverview-park"
- },
- {
-  "id": "26923_1794519406_qxdancpm-neighbor-dispute-over-suspected-theft-history",
-  "ts": 1794519406,
-  "title": "Neighbor dispute over suspected theft history",
-  "address": "S 190 W, Orem, UT 84058",
-  "category": "Theft Report",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794519406_qxdancpm-neighbor-dispute-over-suspected-theft-history"
  }
 ]
