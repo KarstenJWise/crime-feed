@@ -1,5 +1,93 @@
 [
  {
+  "id": "26923_1794683667_wpratcxo-man-defecating-on-trail-behind-home",
+  "ts": 1794683667,
+  "title": "Man defecating on trail behind home",
+  "address": "N 1100 W St, Provo, UT 84601",
+  "category": "Disturbance",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794683667_wpratcxo-man-defecating-on-trail-behind-home"
+ },
+ {
+  "id": "26923_1794683046_rrljhozu-fire-investigation-at-franklin-commons-complex",
+  "ts": 1794683046,
+  "title": "Fire investigation at Franklin Commons complex",
+  "address": "W 200 S, Provo, UT 84601",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794683046_rrljhozu-fire-investigation-at-franklin-commons-complex"
+ },
+ {
+  "id": "26923_1794682952_dvihwkcl-fire-response-near-provo-city-center-temple",
+  "ts": 1794682952,
+  "title": "Fire response near Provo City Center Temple",
+  "address": "S University Ave, Provo, UT 84601",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794682952_dvihwkcl-fire-response-near-provo-city-center-temple"
+ },
+ {
+  "id": "26923_1794682743_ncfrmuwr-vehicles-blocking-traffic-at-200-south-and-400-east",
+  "ts": 1794682743,
+  "title": "Vehicles blocking traffic at 200 South and 400 East",
+  "address": "E & 200 S, Provo, UT 84606",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794682743_ncfrmuwr-vehicles-blocking-traffic-at-200-south-and-400-east"
+ },
+ {
+  "id": "26923_1794682369_rlopeczb-suv-hits-street-light-at-800-east-and-center-street",
+  "ts": 1794682369,
+  "title": "SUV hits street light at 800 East and Center Street",
+  "address": "E & E Center St, Provo, UT 84606",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794682369_rlopeczb-suv-hits-street-light-at-800-east-and-center-street"
+ },
+ {
+  "id": "26923_1794677514_ogjkrnbl-fire-reported-near-east-center-street-in-orem",
+  "ts": 1794677514,
+  "title": "Fire reported near East Center Street in Orem",
+  "address": "E Center St, Orem, UT 84097",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794677514_ogjkrnbl-fire-reported-near-east-center-street-in-orem"
+ },
+ {
+  "id": "26923_1794676878_acxfnzxh-stalled-car-blocking-turn-lane-on-university-parkway",
+  "ts": 1794676878,
+  "title": "Stalled car blocking turn lane on University Parkway",
+  "address": "E University Pkwy, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794676878_acxfnzxh-stalled-car-blocking-turn-lane-on-university-parkway"
+ },
+ {
+  "id": "26923_1794676558_qllaxgsq-officer-with-involved-driver-at-auto-body-shop",
+  "ts": 1794676558,
+  "title": "Officer with involved driver at auto body shop",
+  "address": "S State St, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794676558_qllaxgsq-officer-with-involved-driver-at-auto-body-shop"
+ },
+ {
+  "id": "26923_1794676063_xwsliorq-traffic-stop-moved-to-chevron-off-exit-269",
+  "ts": 1794676063,
+  "title": "Traffic stop moved to Chevron off Exit 269",
+  "address": "Orem (Exit 269), UT, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794676063_xwsliorq-traffic-stop-moved-to-chevron-off-exit-269"
+ },
+ {
+  "id": "12042-2261_1794675481_vmjtajfp-elderly-male-transported-from-hospital-to-rehab",
+  "ts": 1794675481,
+  "title": "Elderly male transported from hospital to rehab",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/12042-2261_1794675481_vmjtajfp-elderly-male-transported-from-hospital-to-rehab"
+ },
+ {
+  "id": "26923_1794673833_bbzrvsyg-traffic-stop-on-600-west-in-orem",
+  "ts": 1794673833,
+  "title": "Traffic stop on 600 West in Orem",
+  "address": "W, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794673833_bbzrvsyg-traffic-stop-on-600-west-in-orem"
+ },
+ {
   "id": "26923_1794666222_hjkfgokj-man-who-weighs-600-pounds-fell-in-apartment",
   "ts": 1794666222,
   "title": "Man who weighs 600 pounds fell in apartment",
@@ -230,93 +318,5 @@
   "address": "E Center St, Provo, UT 84606",
   "category": "Medical Emergency",
   "link": "https://www.crimeradar.us/provo-ut/26923_1794628105_cgkfhpti-medical-call-near-east-center-street-in-provo"
- },
- {
-  "id": "12042-6210_1794619341_oosrrows-crash-blocks-southbound-lanes-on-south-state-street",
-  "ts": 1794619341,
-  "title": "Crash blocks southbound lanes on South State Street",
-  "address": "S State St, Orem, UT 84097",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794619341_oosrrows-crash-blocks-southbound-lanes-on-south-state-street"
- },
- {
-  "id": "26923_1794619216_qrfhbnww-crash-blocking-southbound-lanes-on-south-state-street",
-  "ts": 1794619216,
-  "title": "Crash blocking southbound lanes on South State Street",
-  "address": "S State St, Orem, UT 84097",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794619216_qrfhbnww-crash-blocking-southbound-lanes-on-south-state-street"
- },
- {
-  "id": "12042-6210_1794618917_gwvnsxjz-client-acting-out-at-northeastern-services-home",
-  "ts": 1794618917,
-  "title": "Client acting out at northeastern services home",
-  "address": "E 1500 S, Orem, UT 84058",
-  "category": "Disturbance",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794618917_gwvnsxjz-client-acting-out-at-northeastern-services-home"
- },
- {
-  "id": "12042-6210_1794618894_idqnkueo-traffic-stop-at-north-university-and-person-name-withheld",
-  "ts": 1794618894,
-  "title": "Traffic stop at North University and (person_name withheld)",
-  "address": "N University Ave & Paul Ream Ave, Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6210_1794618894_idqnkueo-traffic-stop-at-north-university-and-person-name-withheld"
- },
- {
-  "id": "26923_1794616126_qkmyesam-56-year-old-male-transported-from-uvh-to-american-fork",
-  "ts": 1794616126,
-  "title": "56-year-old male transported from UVH to American Fork",
-  "address": "N 500 W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794616126_qkmyesam-56-year-old-male-transported-from-uvh-to-american-fork"
- },
- {
-  "id": "26923_1794614240_oeowocfr-man-under-influence-seeks-paperwork-at-dmv",
-  "ts": 1794614240,
-  "title": "Man under influence seeks paperwork at DMV",
-  "address": "E Center St, Provo, UT 84606",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794614240_oeowocfr-man-under-influence-seeks-paperwork-at-dmv"
- },
- {
-  "id": "26923_1794613836_ahsadmoj-report-of-erratic-driving-on-main-street",
-  "ts": 1794613836,
-  "title": "Report of erratic driving on Main Street",
-  "address": "S Main St, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794613836_ahsadmoj-report-of-erratic-driving-on-main-street"
- },
- {
-  "id": "26923_1794613510_dwwvhwex-noise-complaint-about-upstairs-neighbors-with-a-child",
-  "ts": 1794613510,
-  "title": "Noise complaint about upstairs neighbors with a child",
-  "address": "N Terrace Dr, Provo, UT 84604",
-  "category": "Disturbance",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794613510_dwwvhwex-noise-complaint-about-upstairs-neighbors-with-a-child"
- },
- {
-  "id": "12042-6215_1794613328_guoeaqvn-person-found-unconscious-near-north-geneva-road-in-provo",
-  "ts": 1794613328,
-  "title": "Person found unconscious near North Geneva Road in Provo",
-  "address": "N Geneva Rd, Provo, UT 84601",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6215_1794613328_guoeaqvn-person-found-unconscious-near-north-geneva-road-in-provo"
- },
- {
-  "id": "12042-2261_1794611122_cdhinriy-66-year-old-woman-dehydrated-with-high-pulse-in-orem",
-  "ts": 1794611122,
-  "title": "66-year-old woman dehydrated with high pulse in Orem",
-  "address": "E 750 N St, Orem, UT 84097",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/12042-2261_1794611122_cdhinriy-66-year-old-woman-dehydrated-with-high-pulse-in-orem"
- },
- {
-  "id": "26923_1794611076_kxvvyewy-traffic-stop-and-citation-at-800-north-and-300-east",
-  "ts": 1794611076,
-  "title": "Traffic stop and citation at 800 North and 300 East",
-  "address": "E & 800 N, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794611076_kxvvyewy-traffic-stop-and-citation-at-800-north-and-300-east"
  }
 ]
