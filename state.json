@@ -1,5 +1,85 @@
 [
  {
+  "id": "26923_1794773556_ekbksqve-86-year-old-woman-has-seizure-at-orem-residence",
+  "ts": 1794773556,
+  "title": "86-year-old woman has seizure at Orem residence",
+  "address": "E Center St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794773556_ekbksqve-86-year-old-woman-has-seizure-at-orem-residence"
+ },
+ {
+  "id": "26923_1794771733_ynagpfos-person-with-breathing-problem-and-bleeding-in-orem",
+  "ts": 1794771733,
+  "title": "Person with breathing problem and bleeding in Orem",
+  "address": "W 1400 N St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794771733_ynagpfos-person-with-breathing-problem-and-bleeding-in-orem"
+ },
+ {
+  "id": "26923_1794771716_rojfuqfb-neighbor-dispute-over-curb-paint-and-no-parking-signs",
+  "ts": 1794771716,
+  "title": "Neighbor dispute over curb paint and no parking signs",
+  "address": "W 900 S, Orem, UT 84058",
+  "category": "Property Damage",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794771716_rojfuqfb-neighbor-dispute-over-curb-paint-and-no-parking-signs"
+ },
+ {
+  "id": "26923_1794770793_jbuvqsfm-driver-suspected-of-drinking-in-white-ford-focus",
+  "ts": 1794770793,
+  "title": "Driver suspected of drinking in white Ford Focus",
+  "address": "N University Ave, Provo, UT 84604",
+  "category": "Substance Use",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794770793_jbuvqsfm-driver-suspected-of-drinking-in-white-ford-focus"
+ },
+ {
+  "id": "26923_1794770737_boytqhvy-medical-call-near-south-600-west-orem",
+  "ts": 1794770737,
+  "title": "Medical call near South 600 West, Orem",
+  "address": "S 600 W St, Orem, UT 84058",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794770737_boytqhvy-medical-call-near-south-600-west-orem"
+ },
+ {
+  "id": "12042-5936_1794770258_mtwzulxe-accidental-fire-alarm-at-church-on-west-500-north",
+  "ts": 1794770258,
+  "title": "Accidental fire alarm at church on West 500 North",
+  "address": "500 N, Provo, UT 84601",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/12042-5936_1794770258_mtwzulxe-accidental-fire-alarm-at-church-on-west-500-north"
+ },
+ {
+  "id": "26923_1794769820_mltuumoi-juvenile-assaulted-at-detention-center-in-provo",
+  "ts": 1794769820,
+  "title": "Juvenile assaulted at detention center in Provo",
+  "address": "S State St, Provo, UT 84606",
+  "category": "Assault Report",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794769820_mltuumoi-juvenile-assaulted-at-detention-center-in-provo"
+ },
+ {
+  "id": "26923_1794765741_hebkhgbp-traffic-stop-involving-black-tesla-on-west-center",
+  "ts": 1794765741,
+  "title": "Traffic stop involving black Tesla on West Center",
+  "address": "W Center St, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794765741_hebkhgbp-traffic-stop-involving-black-tesla-on-west-center"
+ },
+ {
+  "id": "12042-6210_1794761132_sttqqbzb-residential-alarm-for-reported-garage-door-activation",
+  "ts": 1794761132,
+  "title": "Residential alarm for reported garage door activation",
+  "address": "E 1820 S St, Orem, UT 84058",
+  "category": "Break-In",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794761132_sttqqbzb-residential-alarm-for-reported-garage-door-activation"
+ },
+ {
+  "id": "12042-6210_1794760987_ifrvnrja-officer-checks-vehicle-at-canyon-view-park",
+  "ts": 1794760987,
+  "title": "Officer checks vehicle at Canyon View Park",
+  "address": "Canyon View Park, 1085 E Provo Canyon Rd, Orem, UT 84097",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794760987_ifrvnrja-officer-checks-vehicle-at-canyon-view-park"
+ },
+ {
   "id": "26923_1794760800_khwsjxlr-campers-locked-behind-kyhv-peak-gate",
   "ts": 1794760800,
   "title": "Campers locked behind Kyhv Peak gate",
@@ -238,85 +318,5 @@
   "address": "N 500 W St, Provo, UT 84601",
   "category": "Medical Emergency",
   "link": "https://www.crimeradar.us/provo-ut/26923_1794707258_cajzfmky-medical-call-at-provo-rehab-center"
- },
- {
-  "id": "26923_1794706239_vctvknnh-family-dispute-with-brother-being-restrained",
-  "ts": 1794706239,
-  "title": "Family dispute with brother being restrained",
-  "address": "E 600 N, Orem, UT 84057",
-  "category": "Domestic Dispute",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794706239_vctvknnh-family-dispute-with-brother-being-restrained"
- },
- {
-  "id": "26923_1794705506_ysrgoobz-traffic-stop-on-arizona-vehicle-in-orem",
-  "ts": 1794705506,
-  "title": "Traffic stop on Arizona vehicle in Orem",
-  "address": "W University Pkwy, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794705506_ysrgoobz-traffic-stop-on-arizona-vehicle-in-orem"
- },
- {
-  "id": "26923_1794705442_usbbthqp-traffic-stop-on-lakeview-parkway-in-provo",
-  "ts": 1794705442,
-  "title": "Traffic stop on Lakeview Parkway in Provo",
-  "address": "S 180 E & E Lakeview Pkwy, Provo, UT 84606",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794705442_usbbthqp-traffic-stop-on-lakeview-parkway-in-provo"
- },
- {
-  "id": "12042-5936_1794704328_eiaewqkh-7-year-old-boy-treated-for-allergic-reaction-with-epipen",
-  "ts": 1794704328,
-  "title": "7-year-old boy treated for allergic reaction with EpiPen",
-  "address": "E 600 N, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/12042-5936_1794704328_eiaewqkh-7-year-old-boy-treated-for-allergic-reaction-with-epipen"
- },
- {
-  "id": "26923_1794703479_fuiqanan-motorist-assist-for-suv-with-trailer-at-target-lot",
-  "ts": 1794703479,
-  "title": "Motorist assist for SUV with trailer at Target lot",
-  "address": "Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794703479_fuiqanan-motorist-assist-for-suv-with-trailer-at-target-lot"
- },
- {
-  "id": "26923_1794703449_jncekhpd-traffic-stop-on-white-toyota-prius-in-orem",
-  "ts": 1794703449,
-  "title": "Traffic stop on white Toyota Prius in Orem",
-  "address": "W Center St, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794703449_jncekhpd-traffic-stop-on-white-toyota-prius-in-orem"
- },
- {
-  "id": "26923_1794702864_xhopewup-people-briefly-trapped-in-elevator-in-orem-building",
-  "ts": 1794702864,
-  "title": "People briefly trapped in elevator in Orem building",
-  "address": "S Geneva Rd, Orem, UT 84058",
-  "category": "Rescue / Technical Rescue",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794702864_xhopewup-people-briefly-trapped-in-elevator-in-orem-building"
- },
- {
-  "id": "26923_1794701971_mlmuwecs-domestic-argument-between-teen-and-mother",
-  "ts": 1794701971,
-  "title": "Domestic argument between teen and mother",
-  "address": "E 960 S, Provo, UT 84606",
-  "category": "Domestic Dispute",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794701971_mlmuwecs-domestic-argument-between-teen-and-mother"
- },
- {
-  "id": "26923_1794701450_sglqyaev-reported-structure-fire-at-provo-residence",
-  "ts": 1794701450,
-  "title": "Reported structure fire at Provo residence",
-  "address": "E 2620 N, Provo, UT 84604",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794701450_sglqyaev-reported-structure-fire-at-provo-residence"
- },
- {
-  "id": "26923_1794700465_bxpslgre-fire-alarm-at-three-story-office-building-in-orem",
-  "ts": 1794700465,
-  "title": "Fire alarm at three-story office building in Orem",
-  "address": "S State St, Orem, UT 84097",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794700465_bxpslgre-fire-alarm-at-three-story-office-building-in-orem"
  }
 ]
