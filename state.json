@@ -1,5 +1,141 @@
 [
  {
+  "id": "12042-6210_1794936027_mvsylbux-domestic-dispute-at-orem-apartment-complex",
+  "ts": 1794936027,
+  "title": "Domestic dispute at Orem apartment complex",
+  "address": "N 1300 W, Orem, UT 84057",
+  "category": "Domestic Dispute",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794936027_mvsylbux-domestic-dispute-at-orem-apartment-complex"
+ },
+ {
+  "id": "12042-6210_1794936012_jshfkdyr-unattended-bag-reported-by-overpass-elevators",
+  "ts": 1794936012,
+  "title": "Unattended bag reported by overpass elevators",
+  "address": "W University Pkwy, Orem, UT 84058",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794936012_jshfkdyr-unattended-bag-reported-by-overpass-elevators"
+ },
+ {
+  "id": "26923_1794934575_azfzetct-traffic-stop-at-walgreens-on-south-state-street",
+  "ts": 1794934575,
+  "title": "Traffic stop at Walgreens on South State Street",
+  "address": "S State St, Orem, UT 84097",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794934575_azfzetct-traffic-stop-at-walgreens-on-south-state-street"
+ },
+ {
+  "id": "26923_1794934023_apgzsyis-carbon-monoxide-alarm-sounding-again-at-home",
+  "ts": 1794934023,
+  "title": "Carbon monoxide alarm sounding again at home",
+  "address": "W 300 S St, Orem, UT 84058",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794934023_apgzsyis-carbon-monoxide-alarm-sounding-again-at-home"
+ },
+ {
+  "id": "26923_1794933354_iijukfrw-traffic-hazard-involving-white-dodge-pickup-truck",
+  "ts": 1794933354,
+  "title": "Traffic hazard involving white Dodge pickup truck",
+  "address": "W 800 S, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794933354_iijukfrw-traffic-hazard-involving-white-dodge-pickup-truck"
+ },
+ {
+  "id": "12042-6210_1794932024_njmwctxm-traffic-stop-near-license-plate-withheld-car-wash-on-north-state",
+  "ts": 1794932024,
+  "title": "Traffic stop near (license_plate withheld) Car Wash on North State",
+  "address": "N State St, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794932024_njmwctxm-traffic-stop-near-license-plate-withheld-car-wash-on-north-state"
+ },
+ {
+  "id": "26923_1794930900_jktrqytj-man-with-parkinson-s-found-unable-to-stand-near-north-provo",
+  "ts": 1794930900,
+  "title": "Man with Parkinson's found unable to stand near North Provo",
+  "address": "N, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794930900_jktrqytj-man-with-parkinson-s-found-unable-to-stand-near-north-provo"
+ },
+ {
+  "id": "26923_1794930421_rlbgjqyt-non-injury-vehicle-crash-on-east-lancaster-way",
+  "ts": 1794930421,
+  "title": "Non-injury vehicle crash on East Lancaster Way",
+  "address": "Lancaster Way, Orem, UT 84097",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794930421_rlbgjqyt-non-injury-vehicle-crash-on-east-lancaster-way"
+ },
+ {
+  "id": "26923_1794930261_doapzyse-man-reported-under-carport-moves-along",
+  "ts": 1794930261,
+  "title": "Man reported under carport moves along",
+  "address": "N Grand Cir, Provo, UT 84604",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794930261_doapzyse-man-reported-under-carport-moves-along"
+ },
+ {
+  "id": "12042-6206_1794929930_alwwcplt-trespassing-complaint-at-business-in-provo",
+  "ts": 1794929930,
+  "title": "Trespassing complaint at business in Provo",
+  "address": "N 100 W St, Provo, UT 84601",
+  "category": "Disturbance",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6206_1794929930_alwwcplt-trespassing-complaint-at-business-in-provo"
+ },
+ {
+  "id": "26923_1794920445_jmfhkqvp-welfare-check-at-provo-home-due-to-owner-unresponsive",
+  "ts": 1794920445,
+  "title": "Welfare check at Provo home due to owner unresponsive",
+  "address": "880 N, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794920445_jmfhkqvp-welfare-check-at-provo-home-due-to-owner-unresponsive"
+ },
+ {
+  "id": "26923_1794920130_yyigdhud-alarm-at-burger-restaurant-on-university-parkway",
+  "ts": 1794920130,
+  "title": "Alarm at burger restaurant on University Parkway",
+  "address": "E University Pkwy, Orem, UT 84097",
+  "category": "Break-In",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794920130_yyigdhud-alarm-at-burger-restaurant-on-university-parkway"
+ },
+ {
+  "id": "26923_1794919625_dptvohjw-false-fire-alarm-at-provo-residence",
+  "ts": 1794919625,
+  "title": "False fire alarm at Provo residence",
+  "address": "S 500 E, Provo, UT 84606",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794919625_dptvohjw-false-fire-alarm-at-provo-residence"
+ },
+ {
+  "id": "26923_1794919327_diemyvji-mall-fire-alarm-sounding-at-university-parkway",
+  "ts": 1794919327,
+  "title": "Mall fire alarm sounding at University Parkway",
+  "address": "E University Pkwy n260, Orem, UT 84097",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794919327_diemyvji-mall-fire-alarm-sounding-at-university-parkway"
+ },
+ {
+  "id": "26923_1794915981_rytjcawe-female-conscious-and-breathing-after-fall-at-home",
+  "ts": 1794915981,
+  "title": "Female conscious and breathing after fall at home",
+  "address": "W 1600 N St, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794915981_rytjcawe-female-conscious-and-breathing-after-fall-at-home"
+ },
+ {
+  "id": "26923_1794911084_evkhfqsg-woman-with-abdominal-and-rib-pain-after-vomiting",
+  "ts": 1794911084,
+  "title": "Woman with abdominal and rib pain after vomiting",
+  "address": "S 900 W, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794911084_evkhfqsg-woman-with-abdominal-and-rib-pain-after-vomiting"
+ },
+ {
+  "id": "26923_1794906747_vzheznsw-officers-check-motion-alarm-at-apartment-pool",
+  "ts": 1794906747,
+  "title": "Officers check motion alarm at apartment pool",
+  "address": "Field House Dr, Provo, UT 84604",
+  "category": "Break-In",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794906747_vzheznsw-officers-check-motion-alarm-at-apartment-pool"
+ },
+ {
   "id": "12042-6215_1794903459_heaxvpuv-carbon-monoxide-alarm-at-provo-residence",
   "ts": 1794903459,
   "title": "Carbon monoxide alarm at Provo residence",
@@ -182,141 +318,5 @@
   "address": "W 1000 N St, Provo, UT 84604",
   "category": "Traffic",
   "link": "https://www.crimeradar.us/provo-ut/26923_1794871913_vszthuwr-two-vehicles-blocking-road-near-number-withheld-west-and-1000-north-in-provo"
- },
- {
-  "id": "12042-6206_1794871907_ccdmread-suspicious-activity-reported-at-skyline",
-  "ts": 1794871907,
-  "title": "Suspicious activity reported at Skyline",
-  "address": "W 300 S, Provo, UT 84601",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6206_1794871907_ccdmread-suspicious-activity-reported-at-skyline"
- },
- {
-  "id": "12042-6210_1794871612_lfdvqidr-person-reports-possible-extortion-at-station",
-  "ts": 1794871612,
-  "title": "Person reports possible extortion at station",
-  "address": "E Center St, Orem, UT 84057",
-  "category": "Fraud Report",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794871612_lfdvqidr-person-reports-possible-extortion-at-station"
- },
- {
-  "id": "12042-6206_1794871501_szuaxrmd-alarm-at-utah-state-tax-commission-office",
-  "ts": 1794871501,
-  "title": "Alarm at Utah State Tax Commission office",
-  "address": "E Center St, Provo, UT 84606",
-  "category": "Break-In",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6206_1794871501_szuaxrmd-alarm-at-utah-state-tax-commission-office"
- },
- {
-  "id": "26923_1794871374_unjtsjjd-motorcycle-speeding-over-100-mph-near-1600-north",
-  "ts": 1794871374,
-  "title": "Motorcycle speeding over 100 mph near 1600 North",
-  "address": "W 1600 N, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794871374_unjtsjjd-motorcycle-speeding-over-100-mph-near-1600-north"
- },
- {
-  "id": "26923_1794870971_euhxtfak-vehicle-lockout-at-orem-residence",
-  "ts": 1794870971,
-  "title": "Vehicle lockout at Orem residence",
-  "address": "W 1520 S, Orem, UT 84058",
-  "category": "Other Non-Crime Event",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794870971_euhxtfak-vehicle-lockout-at-orem-residence"
- },
- {
-  "id": "26923_1794869526_vdzdbtmr-two-car-crash-with-no-injuries-near-home-depot",
-  "ts": 1794869526,
-  "title": "Two-car crash with no injuries near Home Depot",
-  "address": "E 1300 S, Orem, UT 84097",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794869526_vdzdbtmr-two-car-crash-with-no-injuries-near-home-depot"
- },
- {
-  "id": "12042-6210_1794869108_btkwjonv-cooperative-shoplifting-suspect-at-target-store",
-  "ts": 1794869108,
-  "title": "Cooperative shoplifting suspect at Target store",
-  "address": "W Center St, Orem, UT 84057",
-  "category": "Theft Report",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794869108_btkwjonv-cooperative-shoplifting-suspect-at-target-store"
- },
- {
-  "id": "12042-6210_1794868852_dpiatfrk-officer-meeting-with-citizen-at-parked-vehicle",
-  "ts": 1794868852,
-  "title": "Officer meeting with citizen at parked vehicle",
-  "address": "N 920 W Apt 1011, Orem, UT 84057",
-  "category": "Any Other Non-Crime Events",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794868852_dpiatfrk-officer-meeting-with-citizen-at-parked-vehicle"
- },
- {
-  "id": "12042-6210_1794868822_nfbanoms-child-welfare-check-request-later-canceled",
-  "ts": 1794868822,
-  "title": "Child welfare check request later canceled",
-  "address": "E 630 N, Orem, UT 84057",
-  "category": "Any Other Non-Crime Events",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794868822_nfbanoms-child-welfare-check-request-later-canceled"
- },
- {
-  "id": "26923_1794867791_rytivkfa-neighbor-dispute-over-blocked-driveway-near-school",
-  "ts": 1794867791,
-  "title": "Neighbor dispute over blocked driveway near school",
-  "address": "E 3650 N St, Provo, UT 84604",
-  "category": "Disturbance",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794867791_rytivkfa-neighbor-dispute-over-blocked-driveway-near-school"
- },
- {
-  "id": "26923_1794867751_fwrvgnal-man-with-stomach-pain-and-medication-issues-at-home",
-  "ts": 1794867751,
-  "title": "Man with stomach pain and medication issues at home",
-  "address": "S 300 E, Provo, UT 84606",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794867751_fwrvgnal-man-with-stomach-pain-and-medication-issues-at-home"
- },
- {
-  "id": "12042-6210_1794848939_ejdursjs-officer-checks-abandoned-vehicle-on-400-south",
-  "ts": 1794848939,
-  "title": "Officer checks abandoned vehicle on 400 South",
-  "address": "W 400 S, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794848939_ejdursjs-officer-checks-abandoned-vehicle-on-400-south"
- },
- {
-  "id": "12042-6210_1794848929_twvikncy-traffic-stop-near-west-400-south-in-orem",
-  "ts": 1794848929,
-  "title": "Traffic stop near West 400 South in Orem",
-  "address": "W 400 S, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794848929_twvikncy-traffic-stop-near-west-400-south-in-orem"
- },
- {
-  "id": "12042-6210_1794846118_ubefmzle-stray-kittens-reported-at-home-in-orem",
-  "ts": 1794846118,
-  "title": "Stray kittens reported at home in Orem",
-  "address": "N 475 E St, Orem, UT 84097",
-  "category": "Other Non-Crime Event",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794846118_ubefmzle-stray-kittens-reported-at-home-in-orem"
- },
- {
-  "id": "26923_1794844186_zoowabkr-vehicle-with-trailer-blocking-right-lane-on-main",
-  "ts": 1794844186,
-  "title": "Vehicle with trailer blocking right lane on Main",
-  "address": "S Main St, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794844186_zoowabkr-vehicle-with-trailer-blocking-right-lane-on-main"
- },
- {
-  "id": "12042-6206_1794843928_qazxutwh-abandoned-911-call-from-home-on-north-high-drive",
-  "ts": 1794843928,
-  "title": "Abandoned 911 call from home on North High Drive",
-  "address": "North, Provo, UT 84604",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6206_1794843928_qazxutwh-abandoned-911-call-from-home-on-north-high-drive"
- },
- {
-  "id": "12042-6210_1794843693_mtjclgwj-ongoing-vandalism-to-parked-vehicle-in-orem",
-  "ts": 1794843693,
-  "title": "Ongoing vandalism to parked vehicle in Orem",
-  "address": "S 750 E, Orem, UT 84097",
-  "category": "Property Damage",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794843693_mtjclgwj-ongoing-vandalism-to-parked-vehicle-in-orem"
  }
 ]
