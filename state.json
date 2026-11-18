@@ -1,5 +1,149 @@
 [
  {
+  "id": "12042-2261_1794986400_ainvhcyv-31-year-old-female-transferred-from-hospital-for-care",
+  "ts": 1794986400,
+  "title": "31-year-old female transferred from hospital for care",
+  "address": "N 400 W St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/12042-2261_1794986400_ainvhcyv-31-year-old-female-transferred-from-hospital-for-care"
+ },
+ {
+  "id": "26923_1794986081_uqhapoxf-smoke-alarm-at-fitness-center-on-north-state-street",
+  "ts": 1794986081,
+  "title": "Smoke alarm at fitness center on North State Street",
+  "address": "N State St, Orem, UT 84057",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794986081_uqhapoxf-smoke-alarm-at-fitness-center-on-north-state-street"
+ },
+ {
+  "id": "26923_1794982834_hjnmsdkg-72-year-old-woman-with-breathing-issues-and-pain-pump-reduced",
+  "ts": 1794982834,
+  "title": "72-year-old woman with breathing issues and pain pump reduced",
+  "address": "W 120 N, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794982834_hjnmsdkg-72-year-old-woman-with-breathing-issues-and-pain-pump-reduced"
+ },
+ {
+  "id": "26923_1794982757_lclsuzzk-traffic-stop-near-provo-fire-station",
+  "ts": 1794982757,
+  "title": "Traffic stop near Provo fire station",
+  "address": "400 N, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794982757_lclsuzzk-traffic-stop-near-provo-fire-station"
+ },
+ {
+  "id": "26923_1794977897_mfffrigb-power-lines-down-affecting-sidewalk-and-tree-in-provo",
+  "ts": 1794977897,
+  "title": "Power lines down affecting sidewalk and tree in Provo",
+  "address": "E 2320 N, Provo, UT 84604",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794977897_mfffrigb-power-lines-down-affecting-sidewalk-and-tree-in-provo"
+ },
+ {
+  "id": "26923_1794977834_smnjuslt-verbal-domestic-dispute-at-home-in-orem",
+  "ts": 1794977834,
+  "title": "Verbal domestic dispute at home in Orem",
+  "address": "N 1020 W St, Orem, UT 84057",
+  "category": "Domestic Dispute",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794977834_smnjuslt-verbal-domestic-dispute-at-home-in-orem"
+ },
+ {
+  "id": "26923_1794977586_hknlhxih-power-lines-sparking-on-north-scenic-drive",
+  "ts": 1794977586,
+  "title": "Power lines sparking on North Scenic Drive",
+  "address": "N Scenic Dr, Provo, UT 84604",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794977586_hknlhxih-power-lines-sparking-on-north-scenic-drive"
+ },
+ {
+  "id": "26923_1794972119_mtylyxvj-suspicious-vehicle-parked-on-residential-street",
+  "ts": 1794972119,
+  "title": "Suspicious vehicle parked on residential street",
+  "address": "E High Country Cir, Orem, UT 84097",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794972119_mtylyxvj-suspicious-vehicle-parked-on-residential-street"
+ },
+ {
+  "id": "26923_1794972007_zaopwxmz-woman-with-low-blood-pressure-and-back-pain-in-orem-basement",
+  "ts": 1794972007,
+  "title": "Woman with low blood pressure and back pain in Orem basement",
+  "address": "N 1060 W, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794972007_zaopwxmz-woman-with-low-blood-pressure-and-back-pain-in-orem-basement"
+ },
+ {
+  "id": "12042-6216_1794970534_ungsgdhf-fire-alarm-evacuation-at-provo-residence",
+  "ts": 1794970534,
+  "title": "Fire alarm evacuation at Provo residence",
+  "address": "E 580 N, Provo, UT 84606",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6216_1794970534_ungsgdhf-fire-alarm-evacuation-at-provo-residence"
+ },
+ {
+  "id": "26923_1794970429_ywgguyoz-co-alarm-with-residents-evacuated-in-provo",
+  "ts": 1794970429,
+  "title": "CO alarm with residents evacuated in Provo",
+  "address": "E 580 N, Provo, UT 84606",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794970429_ywgguyoz-co-alarm-with-residents-evacuated-in-provo"
+ },
+ {
+  "id": "26923_1794970332_elpnoklm-disabled-vehicle-blocking-lane-at-850-north",
+  "ts": 1794970332,
+  "title": "Disabled vehicle blocking lane at 850 North",
+  "address": "N 2200 W & 850 N, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794970332_elpnoklm-disabled-vehicle-blocking-lane-at-850-north"
+ },
+ {
+  "id": "26923_1794970135_pnapmhgc-reckless-white-truck-reported-on-fifth-north",
+  "ts": 1794970135,
+  "title": "Reckless white truck reported on Fifth North",
+  "address": "North and 900th West, Orem, Utah 84057, United States",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794970135_pnapmhgc-reckless-white-truck-reported-on-fifth-north"
+ },
+ {
+  "id": "26923_1794968019_kjvvczcl-woman-with-low-blood-sugar-treated-on-byu-campus",
+  "ts": 1794968019,
+  "title": "Woman with low blood sugar treated on BYU campus",
+  "address": "Heritage Dr, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794968019_kjvvczcl-woman-with-low-blood-sugar-treated-on-byu-campus"
+ },
+ {
+  "id": "26923_1794964155_egcjbozo-cooking-sets-off-fire-alarm-in-provo-apartment",
+  "ts": 1794964155,
+  "title": "Cooking sets off fire alarm in Provo apartment",
+  "address": "500 N Unit 9, Provo, UT 84601",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794964155_egcjbozo-cooking-sets-off-fire-alarm-in-provo-apartment"
+ },
+ {
+  "id": "26923_1794962667_ncpvpnbu-unconscious-woman-found-breathing-with-bloody-stool",
+  "ts": 1794962667,
+  "title": "Unconscious woman found breathing with bloody stool",
+  "address": "N 980 W St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794962667_ncpvpnbu-unconscious-woman-found-breathing-with-bloody-stool"
+ },
+ {
+  "id": "26923_1794962471_yopjtueq-minor-crash-involving-suv-and-pickup-in-orem",
+  "ts": 1794962471,
+  "title": "Minor crash involving SUV and pickup in Orem",
+  "address": "E University Pkwy, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794962471_yopjtueq-minor-crash-involving-suv-and-pickup-in-orem"
+ },
+ {
+  "id": "26923_1794960918_ybxtczdz-elderly-woman-in-pain-after-fall-at-senior-living-center",
+  "ts": 1794960918,
+  "title": "Elderly woman in pain after fall at senior living center",
+  "address": "N State St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794960918_ybxtczdz-elderly-woman-in-pain-after-fall-at-senior-living-center"
+ },
+ {
   "id": "26923_1794960483_hrseamlc-injury-crash-on-east-bay-boulevard-in-provo",
   "ts": 1794960483,
   "title": "Injury crash on East Bay Boulevard in Provo",
@@ -174,149 +318,5 @@
   "address": "S State St, Orem, UT 84097",
   "category": "Traffic",
   "link": "https://www.crimeradar.us/orem-ut/26923_1794934575_azfzetct-traffic-stop-at-walgreens-on-south-state-street"
- },
- {
-  "id": "26923_1794934023_apgzsyis-carbon-monoxide-alarm-sounding-again-at-home",
-  "ts": 1794934023,
-  "title": "Carbon monoxide alarm sounding again at home",
-  "address": "W 300 S St, Orem, UT 84058",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794934023_apgzsyis-carbon-monoxide-alarm-sounding-again-at-home"
- },
- {
-  "id": "26923_1794933354_iijukfrw-traffic-hazard-involving-white-dodge-pickup-truck",
-  "ts": 1794933354,
-  "title": "Traffic hazard involving white Dodge pickup truck",
-  "address": "W 800 S, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794933354_iijukfrw-traffic-hazard-involving-white-dodge-pickup-truck"
- },
- {
-  "id": "12042-6210_1794932024_njmwctxm-traffic-stop-near-license-plate-withheld-car-wash-on-north-state",
-  "ts": 1794932024,
-  "title": "Traffic stop near (license_plate withheld) Car Wash on North State",
-  "address": "N State St, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794932024_njmwctxm-traffic-stop-near-license-plate-withheld-car-wash-on-north-state"
- },
- {
-  "id": "26923_1794930900_jktrqytj-man-with-parkinson-s-found-unable-to-stand-near-north-provo",
-  "ts": 1794930900,
-  "title": "Man with Parkinson's found unable to stand near North Provo",
-  "address": "N, Provo, UT 84601",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794930900_jktrqytj-man-with-parkinson-s-found-unable-to-stand-near-north-provo"
- },
- {
-  "id": "26923_1794930421_rlbgjqyt-non-injury-vehicle-crash-on-east-lancaster-way",
-  "ts": 1794930421,
-  "title": "Non-injury vehicle crash on East Lancaster Way",
-  "address": "Lancaster Way, Orem, UT 84097",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794930421_rlbgjqyt-non-injury-vehicle-crash-on-east-lancaster-way"
- },
- {
-  "id": "26923_1794930261_doapzyse-man-reported-under-carport-moves-along",
-  "ts": 1794930261,
-  "title": "Man reported under carport moves along",
-  "address": "N Grand Cir, Provo, UT 84604",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794930261_doapzyse-man-reported-under-carport-moves-along"
- },
- {
-  "id": "12042-6206_1794929930_alwwcplt-trespassing-complaint-at-business-in-provo",
-  "ts": 1794929930,
-  "title": "Trespassing complaint at business in Provo",
-  "address": "N 100 W St, Provo, UT 84601",
-  "category": "Disturbance",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6206_1794929930_alwwcplt-trespassing-complaint-at-business-in-provo"
- },
- {
-  "id": "26923_1794920445_jmfhkqvp-welfare-check-at-provo-home-due-to-owner-unresponsive",
-  "ts": 1794920445,
-  "title": "Welfare check at Provo home due to owner unresponsive",
-  "address": "880 N, Provo, UT 84601",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794920445_jmfhkqvp-welfare-check-at-provo-home-due-to-owner-unresponsive"
- },
- {
-  "id": "26923_1794920130_yyigdhud-alarm-at-burger-restaurant-on-university-parkway",
-  "ts": 1794920130,
-  "title": "Alarm at burger restaurant on University Parkway",
-  "address": "E University Pkwy, Orem, UT 84097",
-  "category": "Break-In",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794920130_yyigdhud-alarm-at-burger-restaurant-on-university-parkway"
- },
- {
-  "id": "26923_1794919625_dptvohjw-false-fire-alarm-at-provo-residence",
-  "ts": 1794919625,
-  "title": "False fire alarm at Provo residence",
-  "address": "S 500 E, Provo, UT 84606",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794919625_dptvohjw-false-fire-alarm-at-provo-residence"
- },
- {
-  "id": "26923_1794919327_diemyvji-mall-fire-alarm-sounding-at-university-parkway",
-  "ts": 1794919327,
-  "title": "Mall fire alarm sounding at University Parkway",
-  "address": "E University Pkwy n260, Orem, UT 84097",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794919327_diemyvji-mall-fire-alarm-sounding-at-university-parkway"
- },
- {
-  "id": "26923_1794915981_rytjcawe-female-conscious-and-breathing-after-fall-at-home",
-  "ts": 1794915981,
-  "title": "Female conscious and breathing after fall at home",
-  "address": "W 1600 N St, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794915981_rytjcawe-female-conscious-and-breathing-after-fall-at-home"
- },
- {
-  "id": "26923_1794911084_evkhfqsg-woman-with-abdominal-and-rib-pain-after-vomiting",
-  "ts": 1794911084,
-  "title": "Woman with abdominal and rib pain after vomiting",
-  "address": "S 900 W, Provo, UT 84601",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794911084_evkhfqsg-woman-with-abdominal-and-rib-pain-after-vomiting"
- },
- {
-  "id": "26923_1794906747_vzheznsw-officers-check-motion-alarm-at-apartment-pool",
-  "ts": 1794906747,
-  "title": "Officers check motion alarm at apartment pool",
-  "address": "Field House Dr, Provo, UT 84604",
-  "category": "Break-In",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794906747_vzheznsw-officers-check-motion-alarm-at-apartment-pool"
- },
- {
-  "id": "12042-6215_1794903459_heaxvpuv-carbon-monoxide-alarm-at-provo-residence",
-  "ts": 1794903459,
-  "title": "Carbon monoxide alarm at Provo residence",
-  "address": "N 720 E, Provo, UT 84606",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6215_1794903459_heaxvpuv-carbon-monoxide-alarm-at-provo-residence"
- },
- {
-  "id": "12042-63401_1794903286_ouvynfws-sepsis-patient-transported-from-er-to-utah-valley",
-  "ts": 1794903286,
-  "title": "Sepsis patient transported from ER to Utah Valley",
-  "address": "N 500 W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-63401_1794903286_ouvynfws-sepsis-patient-transported-from-er-to-utah-valley"
- },
- {
-  "id": "26923_1794902581_kbqbsdpq-suspicious-vehicles-parked-at-lakeside-sports-park",
-  "ts": 1794902581,
-  "title": "Suspicious vehicles parked at Lakeside Sports Park",
-  "address": "Lakeside Sports Park, 400 S 1850 W St, Orem, UT 84058",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794902581_kbqbsdpq-suspicious-vehicles-parked-at-lakeside-sports-park"
- },
- {
-  "id": "26923_1794902014_huowrtgb-traffic-stop-at-license-plate-withheld-and-license-plate-withheld",
-  "ts": 1794902014,
-  "title": "Traffic stop at (license_plate withheld) and (license_plate withheld)",
-  "address": "W 800 N St, Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794902014_huowrtgb-traffic-stop-at-license-plate-withheld-and-license-plate-withheld"
  }
 ]
