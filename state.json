@@ -1,5 +1,157 @@
 [
  {
+  "id": "26923_1794960483_hrseamlc-injury-crash-on-east-bay-boulevard-in-provo",
+  "ts": 1794960483,
+  "title": "Injury crash on East Bay Boulevard in Provo",
+  "address": "E Bay Blvd, Provo, UT 84606",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794960483_hrseamlc-injury-crash-on-east-bay-boulevard-in-provo"
+ },
+ {
+  "id": "26923_1794960469_ecidwjgg-welfare-check-near-south-state-street-in-orem",
+  "ts": 1794960469,
+  "title": "Welfare check near South State Street in Orem",
+  "address": "S State St, Orem, UT 84097",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794960469_ecidwjgg-welfare-check-near-south-state-street-in-orem"
+ },
+ {
+  "id": "26923_1794959950_xkvuuexy-object-blocking-traffic-lane-on-south-geneva-road",
+  "ts": 1794959950,
+  "title": "Object blocking traffic lane on South Geneva Road",
+  "address": "S Geneva Rd, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794959950_xkvuuexy-object-blocking-traffic-lane-on-south-geneva-road"
+ },
+ {
+  "id": "26923_1794956280_brdwtnor-trespass-complaint-outside-provo-apartment",
+  "ts": 1794956280,
+  "title": "Trespass complaint outside Provo apartment",
+  "address": "W 300 S, Provo, UT 84601",
+  "category": "Break-In",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794956280_brdwtnor-trespass-complaint-outside-provo-apartment"
+ },
+ {
+  "id": "26923_1794956159_qpudmimv-vehicle-pulled-off-road-after-minor-traffic-accident",
+  "ts": 1794956159,
+  "title": "Vehicle pulled off road after minor traffic accident",
+  "address": "S 800 E, Orem, UT 84097",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1794956159_qpudmimv-vehicle-pulled-off-road-after-minor-traffic-accident"
+ },
+ {
+  "id": "12042-6210_1794956075_ayakljgm-two-car-crash-on-south-800-east-in-orem",
+  "ts": 1794956075,
+  "title": "Two-car crash on South 800 East in Orem",
+  "address": "S 800 E, Orem, UT 84097",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794956075_ayakljgm-two-car-crash-on-south-800-east-in-orem"
+ },
+ {
+  "id": "12042-6210_1794956061_vfmkrtlf-minor-crash-involving-two-vehicles-on-number-withheld",
+  "ts": 1794956061,
+  "title": "Minor crash involving two vehicles on (number withheld)",
+  "address": "S 800 E, Orem, UT 84097",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794956061_vfmkrtlf-minor-crash-involving-two-vehicles-on-number-withheld"
+ },
+ {
+  "id": "12042-6210_1794956029_ucvvinop-loose-injured-dog-reported-in-backyard-in-orem",
+  "ts": 1794956029,
+  "title": "Loose injured dog reported in backyard in Orem",
+  "address": "W 630 S St, Orem, UT 84058",
+  "category": "Other Non-Crime Event",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794956029_ucvvinop-loose-injured-dog-reported-in-backyard-in-orem"
+ },
+ {
+  "id": "26923_1794955906_esvssymr-traffic-stop-on-white-hyundai-in-motel-lot",
+  "ts": 1794955906,
+  "title": "Traffic stop on white Hyundai in motel lot",
+  "address": "N Canyon Rd, Provo, UT 84604",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794955906_esvssymr-traffic-stop-on-white-hyundai-in-motel-lot"
+ },
+ {
+  "id": "12042-6210_1794955784_wkjpzeot-traffic-stop-on-west-center-street",
+  "ts": 1794955784,
+  "title": "Traffic stop on West Center Street",
+  "address": "W Center St, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794955784_wkjpzeot-traffic-stop-on-west-center-street"
+ },
+ {
+  "id": "12042-6210_1794955768_qzekbibr-traffic-stop-on-south-sandhill-road",
+  "ts": 1794955768,
+  "title": "Traffic stop on South Sandhill Road",
+  "address": "S Sandhill Rd, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794955768_qzekbibr-traffic-stop-on-south-sandhill-road"
+ },
+ {
+  "id": "12042-6210_1794955573_gqnmmstn-traffic-stops-on-south-sandhill-road",
+  "ts": 1794955573,
+  "title": "Traffic stops on South Sandhill Road",
+  "address": "S Sandhill Rd, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1794955573_gqnmmstn-traffic-stops-on-south-sandhill-road"
+ },
+ {
+  "id": "26923_1794955572_oiwethzi-traffic-stop-on-400-south-in-provo",
+  "ts": 1794955572,
+  "title": "Traffic stop on 400 South in Provo",
+  "address": "S, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794955572_oiwethzi-traffic-stop-on-400-south-in-provo"
+ },
+ {
+  "id": "26923_1794955011_jznnfvok-female-patient-actively-seizing-in-provo-home",
+  "ts": 1794955011,
+  "title": "Female patient actively seizing in Provo home",
+  "address": "100 N, Provo, UT 84606",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794955011_jznnfvok-female-patient-actively-seizing-in-provo-home"
+ },
+ {
+  "id": "26923_1794954295_kdghkesz-traffic-stop-finds-expired-insurance-in-provo",
+  "ts": 1794954295,
+  "title": "Traffic stop finds expired insurance in Provo",
+  "address": "E 2875 N, Provo, UT 84604",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794954295_kdghkesz-traffic-stop-finds-expired-insurance-in-provo"
+ },
+ {
+  "id": "26923_1794952744_ekpavldv-men-reported-returning-to-a-home-after-making-violent-remark",
+  "ts": 1794952744,
+  "title": "Men reported returning to a home after making violent remark",
+  "address": "N Devonshire Dr, Provo, UT 84604",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794952744_ekpavldv-men-reported-returning-to-a-home-after-making-violent-remark"
+ },
+ {
+  "id": "26923_1794952201_qmapsiax-traffic-stop-involving-white-mercedes-on-cougar-blvd",
+  "ts": 1794952201,
+  "title": "Traffic stop involving white Mercedes on Cougar Blvd",
+  "address": "West Cougar Blvd, Provo, UT 84604",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794952201_qmapsiax-traffic-stop-involving-white-mercedes-on-cougar-blvd"
+ },
+ {
+  "id": "26923_1794951200_hxdgnlsu-fire-service-response-on-west-number-withheld-south-in-provo",
+  "ts": 1794951200,
+  "title": "Fire service response on West (number withheld) South in Provo",
+  "address": "W 1160 N, Provo, UT 84601",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794951200_hxdgnlsu-fire-service-response-on-west-number-withheld-south-in-provo"
+ },
+ {
+  "id": "26923_1794946954_uizzzsty-two-car-crash-on-west-center-street-no-injuries",
+  "ts": 1794946954,
+  "title": "Two-car crash on West Center Street, no injuries",
+  "address": "W Center St, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1794946954_uizzzsty-two-car-crash-on-west-center-street-no-injuries"
+ },
+ {
   "id": "12042-6210_1794936027_mvsylbux-domestic-dispute-at-orem-apartment-complex",
   "ts": 1794936027,
   "title": "Domestic dispute at Orem apartment complex",
@@ -166,157 +318,5 @@
   "address": "W 800 N St, Provo, UT 84601",
   "category": "Traffic",
   "link": "https://www.crimeradar.us/provo-ut/26923_1794902014_huowrtgb-traffic-stop-at-license-plate-withheld-and-license-plate-withheld"
- },
- {
-  "id": "26923_1794901630_xyrzovsn-argument-at-apartment-with-threat-to-hit-someone",
-  "ts": 1794901630,
-  "title": "Argument at apartment with threat to hit someone",
-  "address": "W Columbia Ln, Provo, UT 84604",
-  "category": "Domestic Dispute",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794901630_xyrzovsn-argument-at-apartment-with-threat-to-hit-someone"
- },
- {
-  "id": "26923_1794899148_xkhtgnxw-83-year-old-man-falls-from-bed-near-orem",
-  "ts": 1794899148,
-  "title": "83-year-old man falls from bed near Orem",
-  "address": "W 1400 S, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794899148_xkhtgnxw-83-year-old-man-falls-from-bed-near-orem"
- },
- {
-  "id": "26923_1794898928_lhbspzuk-traffic-stop-on-main-street-for-expired-vehicle-plate",
-  "ts": 1794898928,
-  "title": "Traffic stop on Main Street for expired vehicle plate",
-  "address": "S Main St, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794898928_lhbspzuk-traffic-stop-on-main-street-for-expired-vehicle-plate"
- },
- {
-  "id": "26923_1794898849_dyfgfhuk-traffic-incident-in-front-of-dental-office",
-  "ts": 1794898849,
-  "title": "Traffic incident in front of dental office",
-  "address": "Hanover Dr, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794898849_dyfgfhuk-traffic-incident-in-front-of-dental-office"
- },
- {
-  "id": "26923_1794893796_sjlbeaqb-unsecured-door-at-university-cadaver-lab",
-  "ts": 1794893796,
-  "title": "Unsecured door at university cadaver lab",
-  "address": "N 580 E St, Provo, UT 84604",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794893796_sjlbeaqb-unsecured-door-at-university-cadaver-lab"
- },
- {
-  "id": "12042-5936_1794890175_hgcpjtpo-smoke-alarms-sounding-at-cherokee-street-home",
-  "ts": 1794890175,
-  "title": "Smoke alarms sounding at Cherokee Street home",
-  "address": "Cherokee Ln, Provo, UT 84604",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/12042-5936_1794890175_hgcpjtpo-smoke-alarms-sounding-at-cherokee-street-home"
- },
- {
-  "id": "26923_1794889743_nmonljko-teen-male-dizzy-and-vomiting-after-head-injury",
-  "ts": 1794889743,
-  "title": "Teen male dizzy and vomiting after head injury",
-  "address": "N 600 W St, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794889743_nmonljko-teen-male-dizzy-and-vomiting-after-head-injury"
- },
- {
-  "id": "26923_1794889707_pwztqizt-person-reported-acting-suspicious-at-target",
-  "ts": 1794889707,
-  "title": "Person reported acting suspicious at Target",
-  "address": "W Center St, Orem, UT 84057",
-  "category": "Suspicious Person",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794889707_pwztqizt-person-reported-acting-suspicious-at-target"
- },
- {
-  "id": "12042-1838_1794878376_deyimedj-traffic-stop-on-gray-mazda-with-no-plate",
-  "ts": 1794878376,
-  "title": "Traffic stop on gray Mazda with no plate",
-  "address": "S University Ave, Provo, UT 84606",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/12042-1838_1794878376_deyimedj-traffic-stop-on-gray-mazda-with-no-plate"
- },
- {
-  "id": "12042-1838_1794877200_fekvllre-two-vehicle-crash-near-i-15-exit-in-provo",
-  "ts": 1794877200,
-  "title": "Two-vehicle crash near I-15 exit in Provo",
-  "address": "S 40 E, Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/12042-1838_1794877200_fekvllre-two-vehicle-crash-near-i-15-exit-in-provo"
- },
- {
-  "id": "26923_1794876856_ievslwxk-reckless-driver-reported-on-400-east-in-provo",
-  "ts": 1794876856,
-  "title": "Reckless driver reported on 400 East in Provo",
-  "address": "E 800 N & N 400 E, Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794876856_ievslwxk-reckless-driver-reported-on-400-east-in-provo"
- },
- {
-  "id": "12042-5936_1794876688_gtcaqtlt-patient-transported-to-utah-valley-hospital-from-provo",
-  "ts": 1794876688,
-  "title": "Patient transported to Utah Valley hospital from Provo",
-  "address": "N 500 W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-5936_1794876688_gtcaqtlt-patient-transported-to-utah-valley-hospital-from-provo"
- },
- {
-  "id": "26923_1794875256_chqeqwvv-drones-collide-near-power-plant-park-in-provo",
-  "ts": 1794875256,
-  "title": "Drones collide near power plant park in Provo",
-  "address": "Power Plant Park, 321 W 800 N St, Provo, UT 84601",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794875256_chqeqwvv-drones-collide-near-power-plant-park-in-provo"
- },
- {
-  "id": "26923_1794873591_jrvxdjxs-person-trespassed-from-orem-residence",
-  "ts": 1794873591,
-  "title": "Person trespassed from Orem residence",
-  "address": "W 180 N St, Orem, UT 84057",
-  "category": "Break-In",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794873591_jrvxdjxs-person-trespassed-from-orem-residence"
- },
- {
-  "id": "26923_1794873394_vrukrjwm-officer-follow-up-on-child-custody-concern",
-  "ts": 1794873394,
-  "title": "Officer follow-up on child custody concern",
-  "address": "E 900 S, Provo, UT 84606",
-  "category": "Domestic Dispute",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794873394_vrukrjwm-officer-follow-up-on-child-custody-concern"
- },
- {
-  "id": "26923_1794872947_rajcewir-person-conscious-after-fall-near-west-center-street-in-orem",
-  "ts": 1794872947,
-  "title": "Person conscious after fall near West Center Street in Orem",
-  "address": "W Center St room 330, floor 1, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794872947_rajcewir-person-conscious-after-fall-near-west-center-street-in-orem"
- },
- {
-  "id": "26923_1794872617_ylzyptyr-suspicious-running-truck-at-village-park-apartments",
-  "ts": 1794872617,
-  "title": "Suspicious running truck at Village Park Apartments",
-  "address": "N State St, Orem, UT 84057",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1794872617_ylzyptyr-suspicious-running-truck-at-village-park-apartments"
- },
- {
-  "id": "26923_1794872491_wsevewwj-person-fleeing-on-foot-near-columbia-lane-in-provo",
-  "ts": 1794872491,
-  "title": "Person fleeing on foot near Columbia Lane in Provo",
-  "address": "N 1120 W, Provo, UT 84604",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794872491_wsevewwj-person-fleeing-on-foot-near-columbia-lane-in-provo"
- },
- {
-  "id": "26923_1794871913_vszthuwr-two-vehicles-blocking-road-near-number-withheld-west-and-1000-north-in-provo",
-  "ts": 1794871913,
-  "title": "Two vehicles blocking road near (number withheld) West and 1000 North in Provo",
-  "address": "W 1000 N St, Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1794871913_vszthuwr-two-vehicles-blocking-road-near-number-withheld-west-and-1000-north-in-provo"
  }
 ]
