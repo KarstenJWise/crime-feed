@@ -1,5 +1,157 @@
 [
  {
+  "id": "26923_1795218759_rpjvrpkb-welfare-check-on-child-in-parked-car",
+  "ts": 1795218759,
+  "title": "Welfare check on child in parked car",
+  "address": "S State St, Orem, UT 84058",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795218759_rpjvrpkb-welfare-check-on-child-in-parked-car"
+ },
+ {
+  "id": "26923_1795218431_tmxaqbpo-traffic-stop-involving-red-dodge-ram-in-orem",
+  "ts": 1795218431,
+  "title": "Traffic stop involving red Dodge Ram in Orem",
+  "address": "N 600 W St, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795218431_tmxaqbpo-traffic-stop-involving-red-dodge-ram-in-orem"
+ },
+ {
+  "id": "26923_1795217759_grravvqd-woman-having-difficulty-breathing-and-facial-numbness",
+  "ts": 1795217759,
+  "title": "Woman having difficulty breathing and facial numbness",
+  "address": "E 900 S St, Orem, UT 84097",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795217759_grravvqd-woman-having-difficulty-breathing-and-facial-numbness"
+ },
+ {
+  "id": "26923_1795216602_dyykeios-traffic-stop-on-north-university-avenue",
+  "ts": 1795216602,
+  "title": "Traffic stop on North University Avenue",
+  "address": "N University Ave, Provo, UT 84604",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795216602_dyykeios-traffic-stop-on-north-university-avenue"
+ },
+ {
+  "id": "26923_1795216514_vmeejomp-welfare-check-on-disoriented-woman-at-bank-parking-lot",
+  "ts": 1795216514,
+  "title": "Welfare check on disoriented woman at bank parking lot",
+  "address": "E 800 S, Orem, UT 84097",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795216514_vmeejomp-welfare-check-on-disoriented-woman-at-bank-parking-lot"
+ },
+ {
+  "id": "26923_1795216288_mxehvmhb-caller-reports-concern-about-two-parked-vehicles",
+  "ts": 1795216288,
+  "title": "Caller reports concern about two parked vehicles",
+  "address": "N 1300 W, Orem, UT 84057",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795216288_mxehvmhb-caller-reports-concern-about-two-parked-vehicles"
+ },
+ {
+  "id": "26923_1795216057_grzpyles-dog-taken-to-shelter-after-call-near-number-withheld-east-in-provo",
+  "ts": 1795216057,
+  "title": "Dog taken to shelter after call near (number withheld) East in Provo",
+  "address": "S 300 E, Provo, UT 84606",
+  "category": "Other Non-Crime Event",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795216057_grzpyles-dog-taken-to-shelter-after-call-near-number-withheld-east-in-provo"
+ },
+ {
+  "id": "26923_1795215966_ndwkszyr-officer-returning-lost-cell-phone-to-owner",
+  "ts": 1795215966,
+  "title": "Officer returning lost cell phone to owner",
+  "address": "N Main St & W 900 N, Orem, UT 84057",
+  "category": "Other Non-Crime Event",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795215966_ndwkszyr-officer-returning-lost-cell-phone-to-owner"
+ },
+ {
+  "id": "12042-6210_1795213228_zbargnwt-traffic-complaint-involving-off-road-vehicle",
+  "ts": 1795213228,
+  "title": "Traffic complaint involving off-road vehicle",
+  "address": "N 1060 W & 400 N, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795213228_zbargnwt-traffic-complaint-involving-off-road-vehicle"
+ },
+ {
+  "id": "26923_1795212545_jhhlvgnz-traffic-stop-on-red-pickup-near-800-north",
+  "ts": 1795212545,
+  "title": "Traffic stop on red pickup near 800 North",
+  "address": "E & 800 N, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795212545_jhhlvgnz-traffic-stop-on-red-pickup-near-800-north"
+ },
+ {
+  "id": "26923_1795212235_wrmbetpl-18-year-old-female-with-labored-breathing-after-pill-ingestion",
+  "ts": 1795212235,
+  "title": "18-year-old female with labored breathing after pill ingestion",
+  "address": "Helaman Dr, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795212235_wrmbetpl-18-year-old-female-with-labored-breathing-after-pill-ingestion"
+ },
+ {
+  "id": "12042-6210_1795212114_xpdcfshc-officers-search-for-suspected-theft-vehicle",
+  "ts": 1795212114,
+  "title": "Officers search for suspected theft vehicle",
+  "address": "S 740 E St, Orem, UT 84097",
+  "category": "Theft Report",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795212114_xpdcfshc-officers-search-for-suspected-theft-vehicle"
+ },
+ {
+  "id": "26923_1795211642_drybwvqp-non-injury-crash-at-600-south-500-east",
+  "ts": 1795211642,
+  "title": "Non-injury crash at 600 South 500 East",
+  "address": "S 500 E & E 600 S, Provo, UT 84606",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795211642_drybwvqp-non-injury-crash-at-600-south-500-east"
+ },
+ {
+  "id": "26923_1795210200_owawkidd-lift-assist-for-elderly-male-near-w-center-street",
+  "ts": 1795210200,
+  "title": "Lift assist for elderly male near w center street",
+  "address": "US-PVU-WEST, 250 W Center St, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795210200_owawkidd-lift-assist-for-elderly-male-near-w-center-street"
+ },
+ {
+  "id": "26923_1795210152_wskmmwmj-verbal-dispute-over-taking-minor-home-after-surgery",
+  "ts": 1795210152,
+  "title": "Verbal dispute over taking minor home after surgery",
+  "address": "N 300 W, Provo, UT 84604",
+  "category": "Disturbance",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795210152_wskmmwmj-verbal-dispute-over-taking-minor-home-after-surgery"
+ },
+ {
+  "id": "26923_1795209125_acgpcdhe-elderly-man-weak-and-disoriented-at-pizza-location",
+  "ts": 1795209125,
+  "title": "Elderly man weak and disoriented at pizza location",
+  "address": "West Cougar Blvd, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795209125_acgpcdhe-elderly-man-weak-and-disoriented-at-pizza-location"
+ },
+ {
+  "id": "26923_1795207928_oflnwaun-citizen-assist-at-aram-professional-plaza-in-orem",
+  "ts": 1795207928,
+  "title": "Citizen assist at Aram Professional Plaza in Orem",
+  "address": "W Center St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795207928_oflnwaun-citizen-assist-at-aram-professional-plaza-in-orem"
+ },
+ {
+  "id": "46981_1795204114_fvtygzhv-patient-extricated-and-taken-to-utah-valley-hospital",
+  "ts": 1795204114,
+  "title": "Patient extricated and taken to Utah Valley hospital",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/46981_1795204114_fvtygzhv-patient-extricated-and-taken-to-utah-valley-hospital"
+ },
+ {
+  "id": "26923_1795200301_axzmwlou-76-year-old-woman-on-plane-needs-oxygen-at-provo-airport",
+  "ts": 1795200301,
+  "title": "76-year-old woman on plane needs oxygen at Provo airport",
+  "address": "Provo Airport, 1331 Sky Wy Ste 123, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795200301_axzmwlou-76-year-old-woman-on-plane-needs-oxygen-at-provo-airport"
+ },
+ {
   "id": "12042-6210_1795195791_sklcdzwu-vehicle-blocking-driveway-at-business",
   "ts": 1795195791,
   "title": "Vehicle blocking driveway at business",
@@ -166,157 +318,5 @@
   "address": "W Center St, Orem, UT 84058",
   "category": "Traffic",
   "link": "https://www.crimeradar.us/orem-ut/26923_1795158240_zazsfnxy-traffic-stop-involving-black-chevrolet-traverse"
- },
- {
-  "id": "26923_1795155264_spujtjif-crash-on-north-alpine-loop-road-with-possible-injuries",
-  "ts": 1795155264,
-  "title": "Crash on North Alpine Loop Road with possible injuries",
-  "address": "N Alpine Lp Rd, Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795155264_spujtjif-crash-on-north-alpine-loop-road-with-possible-injuries"
- },
- {
-  "id": "26923_1795154910_ttpglghv-traffic-stop-at-1100-south-and-50-east",
-  "ts": 1795154910,
-  "title": "Traffic stop at 1100 South and 50 East",
-  "address": "E 1100 S & 50 E, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795154910_ttpglghv-traffic-stop-at-1100-south-and-50-east"
- },
- {
-  "id": "26923_1795153134_wldbmrcm-commercial-fire-alarm-at-orem-professional-plaza",
-  "ts": 1795153134,
-  "title": "Commercial fire alarm at Orem Professional Plaza",
-  "address": "N Orem Blvd, Orem, UT 84057",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795153134_wldbmrcm-commercial-fire-alarm-at-orem-professional-plaza"
- },
- {
-  "id": "12042-2261_1795152849_nuiwqkns-serious-bleeding-from-scratched-iv-shunt-in-female-patient",
-  "ts": 1795152849,
-  "title": "Serious bleeding from scratched IV shunt in female patient",
-  "address": "N 500 W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-2261_1795152849_nuiwqkns-serious-bleeding-from-scratched-iv-shunt-in-female-patient"
- },
- {
-  "id": "26923_1795152719_fkdtiyyn-man-reports-girlfriend-pushed-him-after-drinking",
-  "ts": 1795152719,
-  "title": "Man reports girlfriend pushed him after drinking",
-  "address": "Beverly Ave, Orem, UT 84057",
-  "category": "Domestic Dispute",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795152719_fkdtiyyn-man-reports-girlfriend-pushed-him-after-drinking"
- },
- {
-  "id": "12042-2261_1795151946_dxewuxmi-man-with-bowel-obstruction-transported-to-hospital",
-  "ts": 1795151946,
-  "title": "Man with bowel obstruction transported to hospital",
-  "address": "N 500 W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-2261_1795151946_dxewuxmi-man-with-bowel-obstruction-transported-to-hospital"
- },
- {
-  "id": "26923_1795151941_zxlzlbjj-disturbance-with-yelling-and-screaming-near-north-building-a",
-  "ts": 1795151941,
-  "title": "Disturbance with yelling and screaming near North Building A",
-  "address": "N Birch Ln, Provo, UT 84604",
-  "category": "Disturbance",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795151941_zxlzlbjj-disturbance-with-yelling-and-screaming-near-north-building-a"
- },
- {
-  "id": "26923_1795150458_kowjycda-person-reporting-pain-at-provo-residence",
-  "ts": 1795150458,
-  "title": "Person reporting pain at Provo residence",
-  "address": "N 100 E St, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795150458_kowjycda-person-reporting-pain-at-provo-residence"
- },
- {
-  "id": "26923_1795147108_hjwhejjl-traffic-stop-with-canine-requested-in-provo",
-  "ts": 1795147108,
-  "title": "Traffic stop with canine requested in Provo",
-  "address": "W Center St, Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795147108_hjwhejjl-traffic-stop-with-canine-requested-in-provo"
- },
- {
-  "id": "26923_1795140007_bvssikib-person-having-a-seizure-near-north-number-withheld-east-street-in-orem",
-  "ts": 1795140007,
-  "title": "Person having a seizure near North (number withheld) East Street in Orem",
-  "address": "100 E, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795140007_bvssikib-person-having-a-seizure-near-north-number-withheld-east-street-in-orem"
- },
- {
-  "id": "26923_1795139040_yprmfvco-alarm-at-building-on-east-key-ridge-circle",
-  "ts": 1795139040,
-  "title": "Alarm at building on East Key Ridge Circle",
-  "address": "Key Ridge, Orem, UT 84058",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795139040_yprmfvco-alarm-at-building-on-east-key-ridge-circle"
- },
- {
-  "id": "12042-1838_1795138110_lolrtgsd-minor-crash-on-i-15-northbound-on-ramp",
-  "ts": 1795138110,
-  "title": "Minor crash on I-15 northbound on-ramp",
-  "address": "I 15 and West University Parkway, Orem, Utah 84058, United States",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-1838_1795138110_lolrtgsd-minor-crash-on-i-15-northbound-on-ramp"
- },
- {
-  "id": "26923_1795137897_ipdxilxm-disabled-vehicle-with-flat-tire-in-admissions-lot",
-  "ts": 1795137897,
-  "title": "Disabled vehicle with flat tire in admissions lot",
-  "address": "W University Pkwy KB 301, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795137897_ipdxilxm-disabled-vehicle-with-flat-tire-in-admissions-lot"
- },
- {
-  "id": "26923_1795137643_ohwcfstp-five-car-crash-with-injuries-on-university-parkway",
-  "ts": 1795137643,
-  "title": "Five-car crash with injuries on University Parkway",
-  "address": "UT-265 & N Freedom Blvd, Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795137643_ohwcfstp-five-car-crash-with-injuries-on-university-parkway"
- },
- {
-  "id": "26923_1795137527_uemvnkku-person-previously-banned-from-mall-reported-trespassing",
-  "ts": 1795137527,
-  "title": "Person previously banned from mall reported trespassing",
-  "address": "E University Pkwy, Orem, UT 84097",
-  "category": "Trespass",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795137527_uemvnkku-person-previously-banned-from-mall-reported-trespassing"
- },
- {
-  "id": "12042-6210_1795135801_eipsnicf-vehicle-crash-at-evergreen-square-apartments",
-  "ts": 1795135801,
-  "title": "Vehicle crash at Evergreen Square apartments",
-  "address": "S Orem Blvd, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795135801_eipsnicf-vehicle-crash-at-evergreen-square-apartments"
- },
- {
-  "id": "12042-1838_1795134866_mxflhtgg-report-of-reckless-tesla-in-provo-canyon",
-  "ts": 1795134866,
-  "title": "Report of reckless Tesla in Provo Canyon",
-  "address": "Provo Canyon Rd, Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/12042-1838_1795134866_mxflhtgg-report-of-reckless-tesla-in-provo-canyon"
- },
- {
-  "id": "12042-2261_1795131691_ovmbirzx-73-year-old-woman-with-shortness-of-breath-at-nursing-home",
-  "ts": 1795131691,
-  "title": "73-year-old woman with shortness of breath at nursing home",
-  "address": "E 1400 S, Orem, UT 84097",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/12042-2261_1795131691_ovmbirzx-73-year-old-woman-with-shortness-of-breath-at-nursing-home"
- },
- {
-  "id": "12042-6210_1795131346_ybnbdece-man-reported-exposing-himself-at-mall-toy-store",
-  "ts": 1795131346,
-  "title": "Man reported exposing himself at mall toy store",
-  "address": "E University Pkwy, Orem, UT 84097",
-  "category": "Sex-Related Incident",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795131346_ybnbdece-man-reported-exposing-himself-at-mall-toy-store"
  }
 ]
