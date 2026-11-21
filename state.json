@@ -1,5 +1,117 @@
 [
  {
+  "id": "12042-2261_1795292660_gezbcggo-woman-treated-for-hypoglycemia-transported-to-rehab",
+  "ts": 1795292660,
+  "title": "Woman treated for hypoglycemia transported to rehab",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/12042-2261_1795292660_gezbcggo-woman-treated-for-hypoglycemia-transported-to-rehab"
+ },
+ {
+  "id": "12042-6216_1795289149_unjuixil-chemical-odor-sickens-workers-at-provo-business",
+  "ts": 1795289149,
+  "title": "Chemical odor sickens workers at Provo business",
+  "address": "University building, 296 N University Ave, Provo, UT 84606",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6216_1795289149_unjuixil-chemical-odor-sickens-workers-at-provo-business"
+ },
+ {
+  "id": "26923_1795285977_wjgjqner-fire-response-at-west-3800-north-in-provo",
+  "ts": 1795285977,
+  "title": "Fire response at West 3800 North in Provo",
+  "address": "W 3800 N, Provo, UT 84604",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795285977_wjgjqner-fire-response-at-west-3800-north-in-provo"
+ },
+ {
+  "id": "12042-2261_1795283817_hzfvshxy-male-patient-transported-for-detox-from-er-to-hospital",
+  "ts": 1795283817,
+  "title": "Male patient transported for detox from ER to hospital",
+  "address": "N 500 W, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/12042-2261_1795283817_hzfvshxy-male-patient-transported-for-detox-from-er-to-hospital"
+ },
+ {
+  "id": "26923_1795282535_zujtntio-officer-contacts-vehicle-behind-nps-store",
+  "ts": 1795282535,
+  "title": "Officer contacts vehicle behind NPS store",
+  "address": "N State St, Orem, UT 84057",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795282535_zujtntio-officer-contacts-vehicle-behind-nps-store"
+ },
+ {
+  "id": "26923_1795282469_uuhbrtzw-child-found-near-north-wolverine-way-is-not-talking-to-responders",
+  "ts": 1795282469,
+  "title": "Child found near North Wolverine Way is not talking to responders",
+  "address": "N Wolverine Wy, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795282469_uuhbrtzw-child-found-near-north-wolverine-way-is-not-talking-to-responders"
+ },
+ {
+  "id": "26923_1795281918_uzmmvcdh-officer-follow-up-at-orem-residence",
+  "ts": 1795281918,
+  "title": "Officer follow-up at Orem residence",
+  "address": "W 500 N, Orem, UT 84057",
+  "category": "Other Incidents",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795281918_uzmmvcdh-officer-follow-up-at-orem-residence"
+ },
+ {
+  "id": "26923_1795280988_bcssprhm-vehicle-slide-off-near-scenic-view-area",
+  "ts": 1795280988,
+  "title": "Vehicle slide-off near scenic view area",
+  "address": "River Run Dr, Provo, UT 84604",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795280988_bcssprhm-vehicle-slide-off-near-scenic-view-area"
+ },
+ {
+  "id": "26923_1795279453_hobrlelo-traffic-crash-blocks-southbound-lane-on-center-and-state",
+  "ts": 1795279453,
+  "title": "Traffic crash blocks southbound lane on Center and State",
+  "address": "Center St & State St, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795279453_hobrlelo-traffic-crash-blocks-southbound-lane-on-center-and-state"
+ },
+ {
+  "id": "26923_1795279084_ivpphezg-person-having-a-seizure-at-school-in-orem",
+  "ts": 1795279084,
+  "title": "Person having a seizure at school in Orem",
+  "address": "W Center St, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795279084_ivpphezg-person-having-a-seizure-at-school-in-orem"
+ },
+ {
+  "id": "26923_1795278825_nwkzkiov-vehicle-contact-near-canyon-udot-shed",
+  "ts": 1795278825,
+  "title": "Vehicle contact near canyon UDOT shed",
+  "address": "W University Pkwy, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795278825_nwkzkiov-vehicle-contact-near-canyon-udot-shed"
+ },
+ {
+  "id": "26923_1795278496_ybzwqklb-traffic-crash-with-injured-person-in-provo",
+  "ts": 1795278496,
+  "title": "Traffic crash with injured person in Provo",
+  "address": "N 300 W, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795278496_ybzwqklb-traffic-crash-with-injured-person-in-provo"
+ },
+ {
+  "id": "26923_1795276603_sazxegmz-person-vomiting-and-left-side-chest-pain-near-orem",
+  "ts": 1795276603,
+  "title": "Person vomiting and left side chest pain near Orem",
+  "address": "E 600 N, Orem, UT 84097",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795276603_sazxegmz-person-vomiting-and-left-side-chest-pain-near-orem"
+ },
+ {
+  "id": "26923_1795276329_dgfgqraj-report-of-abandoned-car-near-orem",
+  "ts": 1795276329,
+  "title": "Report of abandoned car near Orem",
+  "address": "S 400 W St, Orem, UT 84058",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795276329_dgfgqraj-report-of-abandoned-car-near-orem"
+ },
+ {
   "id": "26923_1795269090_znphihjj-welfare-check-on-unresponsive-girlfriend-in-basement",
   "ts": 1795269090,
   "title": "Welfare check on unresponsive girlfriend in basement",
@@ -206,117 +318,5 @@
   "address": "W 900 S, Orem, UT 84058",
   "category": "Other Non-Crime Event",
   "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795220960_ujxpyrrb-van-locked-with-dogs-inside-at-900-west-and-800-south"
- },
- {
-  "id": "26923_1795220854_wdgchrjj-dogs-locked-in-van-at-parking-area",
-  "ts": 1795220854,
-  "title": "Dogs locked in van at parking area",
-  "address": "E & E 900 S St, Orem, UT 84058",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795220854_wdgchrjj-dogs-locked-in-van-at-parking-area"
- },
- {
-  "id": "26923_1795218759_rpjvrpkb-welfare-check-on-child-in-parked-car",
-  "ts": 1795218759,
-  "title": "Welfare check on child in parked car",
-  "address": "S State St, Orem, UT 84058",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795218759_rpjvrpkb-welfare-check-on-child-in-parked-car"
- },
- {
-  "id": "26923_1795218431_tmxaqbpo-traffic-stop-involving-red-dodge-ram-in-orem",
-  "ts": 1795218431,
-  "title": "Traffic stop involving red Dodge Ram in Orem",
-  "address": "N 600 W St, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795218431_tmxaqbpo-traffic-stop-involving-red-dodge-ram-in-orem"
- },
- {
-  "id": "26923_1795217759_grravvqd-woman-having-difficulty-breathing-and-facial-numbness",
-  "ts": 1795217759,
-  "title": "Woman having difficulty breathing and facial numbness",
-  "address": "E 900 S St, Orem, UT 84097",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795217759_grravvqd-woman-having-difficulty-breathing-and-facial-numbness"
- },
- {
-  "id": "26923_1795216602_dyykeios-traffic-stop-on-north-university-avenue",
-  "ts": 1795216602,
-  "title": "Traffic stop on North University Avenue",
-  "address": "N University Ave, Provo, UT 84604",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795216602_dyykeios-traffic-stop-on-north-university-avenue"
- },
- {
-  "id": "26923_1795216514_vmeejomp-welfare-check-on-disoriented-woman-at-bank-parking-lot",
-  "ts": 1795216514,
-  "title": "Welfare check on disoriented woman at bank parking lot",
-  "address": "E 800 S, Orem, UT 84097",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795216514_vmeejomp-welfare-check-on-disoriented-woman-at-bank-parking-lot"
- },
- {
-  "id": "26923_1795216288_mxehvmhb-caller-reports-concern-about-two-parked-vehicles",
-  "ts": 1795216288,
-  "title": "Caller reports concern about two parked vehicles",
-  "address": "N 1300 W, Orem, UT 84057",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795216288_mxehvmhb-caller-reports-concern-about-two-parked-vehicles"
- },
- {
-  "id": "26923_1795216057_grzpyles-dog-taken-to-shelter-after-call-near-number-withheld-east-in-provo",
-  "ts": 1795216057,
-  "title": "Dog taken to shelter after call near (number withheld) East in Provo",
-  "address": "S 300 E, Provo, UT 84606",
-  "category": "Other Non-Crime Event",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795216057_grzpyles-dog-taken-to-shelter-after-call-near-number-withheld-east-in-provo"
- },
- {
-  "id": "26923_1795215966_ndwkszyr-officer-returning-lost-cell-phone-to-owner",
-  "ts": 1795215966,
-  "title": "Officer returning lost cell phone to owner",
-  "address": "N Main St & W 900 N, Orem, UT 84057",
-  "category": "Other Non-Crime Event",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795215966_ndwkszyr-officer-returning-lost-cell-phone-to-owner"
- },
- {
-  "id": "12042-6210_1795213228_zbargnwt-traffic-complaint-involving-off-road-vehicle",
-  "ts": 1795213228,
-  "title": "Traffic complaint involving off-road vehicle",
-  "address": "N 1060 W & 400 N, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795213228_zbargnwt-traffic-complaint-involving-off-road-vehicle"
- },
- {
-  "id": "26923_1795212545_jhhlvgnz-traffic-stop-on-red-pickup-near-800-north",
-  "ts": 1795212545,
-  "title": "Traffic stop on red pickup near 800 North",
-  "address": "E & 800 N, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795212545_jhhlvgnz-traffic-stop-on-red-pickup-near-800-north"
- },
- {
-  "id": "26923_1795212235_wrmbetpl-18-year-old-female-with-labored-breathing-after-pill-ingestion",
-  "ts": 1795212235,
-  "title": "18-year-old female with labored breathing after pill ingestion",
-  "address": "Helaman Dr, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795212235_wrmbetpl-18-year-old-female-with-labored-breathing-after-pill-ingestion"
- },
- {
-  "id": "12042-6210_1795212114_xpdcfshc-officers-search-for-suspected-theft-vehicle",
-  "ts": 1795212114,
-  "title": "Officers search for suspected theft vehicle",
-  "address": "S 740 E St, Orem, UT 84097",
-  "category": "Theft Report",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795212114_xpdcfshc-officers-search-for-suspected-theft-vehicle"
- },
- {
-  "id": "26923_1795211642_drybwvqp-non-injury-crash-at-600-south-500-east",
-  "ts": 1795211642,
-  "title": "Non-injury crash at 600 South 500 East",
-  "address": "S 500 E & E 600 S, Provo, UT 84606",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795211642_drybwvqp-non-injury-crash-at-600-south-500-east"
  }
 ]
