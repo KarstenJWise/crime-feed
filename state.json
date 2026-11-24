@@ -1,5 +1,125 @@
 [
  {
+  "id": "26923_1795497940_khepoerm-medical-call-near-south-sky-airport-pier-provo",
+  "ts": 1795497940,
+  "title": "Medical call near South Sky Airport Pier, Provo",
+  "address": "S St, Provo, UT 84606",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795497940_khepoerm-medical-call-near-south-sky-airport-pier-provo"
+ },
+ {
+  "id": "26923_1795497589_tfolfefi-repeated-alarm-activations-reported-at-home",
+  "ts": 1795497589,
+  "title": "Repeated alarm activations reported at home",
+  "address": "W Center St, Provo, UT 84601",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795497589_tfolfefi-repeated-alarm-activations-reported-at-home"
+ },
+ {
+  "id": "12042-6216_1795493862_nrjfphrm-woman-stuck-in-elevator-at-school-building",
+  "ts": 1795493862,
+  "title": "Woman stuck in elevator at school building",
+  "address": "N University Pkwy Bldg 11a, Provo, UT 84604",
+  "category": "Rescue / Entrapment",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6216_1795493862_nrjfphrm-woman-stuck-in-elevator-at-school-building"
+ },
+ {
+  "id": "12042-6215_1795493824_vwpvexhb-female-stuck-in-elevator-at-provo-beauty-school",
+  "ts": 1795493824,
+  "title": "Female stuck in elevator at Provo beauty school",
+  "address": "N University Pkwy, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6215_1795493824_vwpvexhb-female-stuck-in-elevator-at-provo-beauty-school"
+ },
+ {
+  "id": "26923_1795491987_uahmzvyh-traffic-stop-at-1800-north-and-state-street",
+  "ts": 1795491987,
+  "title": "Traffic stop at 1800 North and State Street",
+  "address": "W 1800 N St & State St, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795491987_uahmzvyh-traffic-stop-at-1800-north-and-state-street"
+ },
+ {
+  "id": "12042-6210_1795487120_czlurksw-two-car-crash-at-maverick-in-orem-no-injuries",
+  "ts": 1795487120,
+  "title": "Two-car crash at Maverick in Orem, no injuries",
+  "address": "S 800 E, Orem, UT 84097",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795487120_czlurksw-two-car-crash-at-maverick-in-orem-no-injuries"
+ },
+ {
+  "id": "26923_1795486460_vfxlqenm-juvenile-reportedly-out-of-control-near-w-number-withheld-n-st-orem",
+  "ts": 1795486460,
+  "title": "Juvenile reportedly out of control near W (number withheld) N St, Orem",
+  "address": "W 1550 N St, Orem, UT 84057",
+  "category": "Domestic Dispute",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795486460_vfxlqenm-juvenile-reportedly-out-of-control-near-w-number-withheld-n-st-orem"
+ },
+ {
+  "id": "26923_1795485923_xtkdulue-traffic-stop-on-number-withheld-south-1200-west-in-orem",
+  "ts": 1795485923,
+  "title": "Traffic stop on (number withheld) South 1200 West in Orem",
+  "address": "S 1200 W, Orem, UT 84058",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795485923_xtkdulue-traffic-stop-on-number-withheld-south-1200-west-in-orem"
+ },
+ {
+  "id": "12042-559_1795482425_ydqhxbaj-person-with-dehydration-related-to-psychological-issue",
+  "ts": 1795482425,
+  "title": "Person with dehydration related to psychological issue",
+  "address": "S 900 E St, Provo, UT 84606",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/12042-559_1795482425_ydqhxbaj-person-with-dehydration-related-to-psychological-issue"
+ },
+ {
+  "id": "12042-6215_1795480792_nmjvhhss-traffic-crash-with-injury-on-north-university-parkway",
+  "ts": 1795480792,
+  "title": "Traffic crash with injury on North University Parkway",
+  "address": "N University Pkwy, Provo, UT 84604",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6215_1795480792_nmjvhhss-traffic-crash-with-injury-on-north-university-parkway"
+ },
+ {
+  "id": "26923_1795480611_njoabhlk-person-punching-bed-and-hitting-head-on-wall",
+  "ts": 1795480611,
+  "title": "Person punching bed and hitting head on wall",
+  "address": "E 900 S, Provo, UT 84606",
+  "category": "Assault Report",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795480611_njoabhlk-person-punching-bed-and-hitting-head-on-wall"
+ },
+ {
+  "id": "12042-5921_1795480545_nlmfmhfh-minor-crash-between-two-cars-at-best-western",
+  "ts": 1795480545,
+  "title": "Minor crash between two cars at Best Western",
+  "address": "S 1080 E, Provo, UT 84606",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/12042-5921_1795480545_nlmfmhfh-minor-crash-between-two-cars-at-best-western"
+ },
+ {
+  "id": "26923_1795480513_nobjskrb-child-injured-in-car-crash-near-350-west-and-400-south",
+  "ts": 1795480513,
+  "title": "Child injured in car crash near 350 West and 400 South",
+  "address": "400 S, Provo, UT 84601",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795480513_nobjskrb-child-injured-in-car-crash-near-350-west-and-400-south"
+ },
+ {
+  "id": "26923_1795479152_pzdpgdfs-person-reported-sick-near-west-columbia-lane",
+  "ts": 1795479152,
+  "title": "Person reported sick near West Columbia Lane",
+  "address": "W Columbia Ln, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795479152_pzdpgdfs-person-reported-sick-near-west-columbia-lane"
+ },
+ {
+  "id": "26923_1795478716_vrbicaxq-group-home-reports-client-missing-after-day-program",
+  "ts": 1795478716,
+  "title": "Group home reports client missing after day program",
+  "address": "E 600 N, Orem, UT 84057",
+  "category": "Missing Person",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795478716_vrbicaxq-group-home-reports-client-missing-after-day-program"
+ },
+ {
   "id": "26923_1795468833_fcoatwvc-person-breaking-into-parked-vehicle-in-orem",
   "ts": 1795468833,
   "title": "Person breaking into parked vehicle in Orem",
@@ -198,125 +318,5 @@
   "address": "N 600 E St, Orem, UT 84097",
   "category": "Medical Emergency",
   "link": "https://www.crimeradar.us/orem-ut/26923_1795410160_kddzgscj-painful-immobility-in-cancer-patient-near-orem"
- },
- {
-  "id": "26923_1795408776_liylztgt-fire-alarm-at-heritage-drive-apartment",
-  "ts": 1795408776,
-  "title": "Fire alarm at Heritage Drive apartment",
-  "address": "Heritage Dr, Provo, UT 84604",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795408776_liylztgt-fire-alarm-at-heritage-drive-apartment"
- },
- {
-  "id": "26923_1795402295_cwilnwbj-man-transported-to-hospital-conscious-and-breathing",
-  "ts": 1795402295,
-  "title": "Man transported to hospital, conscious and breathing",
-  "address": "N 400 W St, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795402295_cwilnwbj-man-transported-to-hospital-conscious-and-breathing"
- },
- {
-  "id": "26923_1795401622_egqykejz-vehicle-towed-after-stop-at-800-south-and-state",
-  "ts": 1795401622,
-  "title": "Vehicle towed after stop at 800 South and State",
-  "address": "E 800 S & S State St, Orem, UT 84097",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795401622_egqykejz-vehicle-towed-after-stop-at-800-south-and-state"
- },
- {
-  "id": "26923_1795392763_yyxdnyhv-unknown-medical-call-near-east-hidden-meadow",
-  "ts": 1795392763,
-  "title": "Unknown medical call near East Hidden Meadow",
-  "address": "E St, Provo, UT 84606",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795392763_yyxdnyhv-unknown-medical-call-near-east-hidden-meadow"
- },
- {
-  "id": "12042-1838_1795390703_sjlxkqxs-goats-on-i-15-ramp-create-traffic-hazard",
-  "ts": 1795390703,
-  "title": "Goats on I-15 ramp create traffic hazard",
-  "address": "I 15 and West University Parkway, Orem, Utah 84058, United States",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-1838_1795390703_sjlxkqxs-goats-on-i-15-ramp-create-traffic-hazard"
- },
- {
-  "id": "12042-2261_1795382542_wnfalehv-man-receiving-blood-transfusion-transferred-to-rehab",
-  "ts": 1795382542,
-  "title": "Man receiving blood transfusion transferred to rehab",
-  "address": "N 500 W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-2261_1795382542_wnfalehv-man-receiving-blood-transfusion-transferred-to-rehab"
- },
- {
-  "id": "12042-5921_1795381097_ggxhlnax-traffic-stop-in-mountain-america-parking-lot",
-  "ts": 1795381097,
-  "title": "Traffic stop in Mountain America parking lot",
-  "address": "W Center St, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-5921_1795381097_ggxhlnax-traffic-stop-in-mountain-america-parking-lot"
- },
- {
-  "id": "12042-6210_1795380596_lovrrvvy-child-leaves-home-after-argument-later-found-safe",
-  "ts": 1795380596,
-  "title": "Child leaves home after argument, later found safe",
-  "address": "Ribbonwood Dr W, Orem, UT 84057",
-  "category": "Missing Person",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795380596_lovrrvvy-child-leaves-home-after-argument-later-found-safe"
- },
- {
-  "id": "12042-2261_1795373859_jurilznz-23-year-old-male-psychiatric-patient-transported-to-hospital",
-  "ts": 1795373859,
-  "title": "23-year-old male psychiatric patient transported to hospital",
-  "address": "W 800 N, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/12042-2261_1795373859_jurilznz-23-year-old-male-psychiatric-patient-transported-to-hospital"
- },
- {
-  "id": "12042-5936_1795320224_wvuonpkc-heart-attack-patient-transported-from-er-to-utah-hospital",
-  "ts": 1795320224,
-  "title": "Heart attack patient transported from ER to Utah hospital",
-  "address": "N 500 W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/12042-5936_1795320224_wvuonpkc-heart-attack-patient-transported-from-er-to-utah-hospital"
- },
- {
-  "id": "26923_1795317162_sloevhmo-car-damaged-after-hitting-pothole-near-credit-union",
-  "ts": 1795317162,
-  "title": "Car damaged after hitting pothole near credit union",
-  "address": "N 100 W St, Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795317162_sloevhmo-car-damaged-after-hitting-pothole-near-credit-union"
- },
- {
-  "id": "12042-1838_1795314657_ltjcbgjx-traffic-stop-on-263-southbound-in-orem",
-  "ts": 1795314657,
-  "title": "Traffic stop on 263 southbound in Orem",
-  "address": "S 263 W, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-1838_1795314657_ltjcbgjx-traffic-stop-on-263-southbound-in-orem"
- },
- {
-  "id": "26923_1795308297_tbugwzok-animal-bite-reported-near-west-street-in-provo",
-  "ts": 1795308297,
-  "title": "Animal bite reported near West Street in Provo",
-  "address": "W, Provo, UT 84604",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795308297_tbugwzok-animal-bite-reported-near-west-street-in-provo"
- },
- {
-  "id": "12042-6210_1795308054_cjbcvrzx-report-of-impaired-driver-on-west-center-street",
-  "ts": 1795308054,
-  "title": "Report of impaired driver on West Center Street",
-  "address": "W Center St, Orem, UT 84057",
-  "category": "Substance Use",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795308054_cjbcvrzx-report-of-impaired-driver-on-west-center-street"
- },
- {
-  "id": "26923_1795308010_ekeezqov-power-lines-down-on-north-university-avenue",
-  "ts": 1795308010,
-  "title": "Power lines down on North University Avenue",
-  "address": "N University Ave, Provo, UT 84604",
-  "category": "Fire",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795308010_ekeezqov-power-lines-down-on-north-university-avenue"
  }
 ]
