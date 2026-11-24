@@ -1,11 +1,123 @@
 [
  {
+  "id": "12042-6210_1795533108_fzrbhqtm-traffic-stop-at-800-north-and-100-west-in-orem",
+  "ts": 1795533108,
+  "title": "Traffic stop at 800 North and 100 West in Orem",
+  "address": "N 100 W & W 800 N, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795533108_fzrbhqtm-traffic-stop-at-800-north-and-100-west-in-orem"
+ },
+ {
+  "id": "12042-6210_1795533093_qulxwesy-loose-dog-secured-near-elementary-school",
+  "ts": 1795533093,
+  "title": "Loose dog secured near elementary school",
+  "address": "Cougar Dr, Orem, UT 84097",
+  "category": "Other Non-Crime Event",
+  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795533093_qulxwesy-loose-dog-secured-near-elementary-school"
+ },
+ {
+  "id": "26923_1795518684_zjutmobg-female-dialysis-patient-having-breathing-difficulty-in-provo",
+  "ts": 1795518684,
+  "title": "Female dialysis patient having breathing difficulty in Provo",
+  "address": "E 600 N, Provo, UT 84606",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795518684_zjutmobg-female-dialysis-patient-having-breathing-difficulty-in-provo"
+ },
+ {
+  "id": "26923_1795514089_cwtcodxm-hit-and-run-crash-at-center-street-and-800-east",
+  "ts": 1795514089,
+  "title": "Hit-and-run crash at Center Street and 800 East",
+  "address": "Center St & S 800 E, Orem, UT 84097",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795514089_cwtcodxm-hit-and-run-crash-at-center-street-and-800-east"
+ },
+ {
+  "id": "26923_1795510684_dklklfwh-officer-checks-motion-alarm-at-campus-building",
+  "ts": 1795510684,
+  "title": "Officer checks motion alarm at campus building",
+  "address": "Field House Dr, Provo, UT 84604",
+  "category": "Break-In",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795510684_dklklfwh-officer-checks-motion-alarm-at-campus-building"
+ },
+ {
+  "id": "26923_1795507866_nlzmntqo-medical-response-reported-at-mcdonald-s-on-south-university-avenue",
+  "ts": 1795507866,
+  "title": "Medical response reported at McDonald's on South University Avenue",
+  "address": "S University Ave, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795507866_nlzmntqo-medical-response-reported-at-mcdonald-s-on-south-university-avenue"
+ },
+ {
+  "id": "26923_1795506477_gfcojzkd-medical-call-at-orem-junior-high-school",
+  "ts": 1795506477,
+  "title": "Medical call at Orem junior high school",
+  "address": "West Jaguar Ave, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795506477_gfcojzkd-medical-call-at-orem-junior-high-school"
+ },
+ {
+  "id": "26923_1795506170_vezcjoqv-contact-with-crisis-negotiators-planned-at-orem-junior-high-command-post",
+  "ts": 1795506170,
+  "title": "Contact with crisis negotiators planned at Orem Junior High command post",
+  "address": "West Jaguar Ave, Orem, UT 84057",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795506170_vezcjoqv-contact-with-crisis-negotiators-planned-at-orem-junior-high-command-post"
+ },
+ {
+  "id": "26923_1795505506_mdzmamvs-person-with-breathing-and-hernia-pain-at-7-eleven",
+  "ts": 1795505506,
+  "title": "Person with breathing and hernia pain at 7-Eleven",
+  "address": "S State St, Provo, UT 84606",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795505506_mdzmamvs-person-with-breathing-and-hernia-pain-at-7-eleven"
+ },
+ {
+  "id": "26923_1795504336_gyocjnsf-traffic-stop-on-i-15-near-exit-269-in-orem",
+  "ts": 1795504336,
+  "title": "Traffic stop on I-15 near Exit 269 in Orem",
+  "address": "I 15 and University Parkway, Orem, Utah 84058, United States",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795504336_gyocjnsf-traffic-stop-on-i-15-near-exit-269-in-orem"
+ },
+ {
+  "id": "26923_1795503043_hmbrlhmu-person-sick-near-north-number-withheld-east-street-in-provo",
+  "ts": 1795503043,
+  "title": "Person sick near North (number withheld) East Street in Provo",
+  "address": "N 250 E St, Provo, UT 84604",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795503043_hmbrlhmu-person-sick-near-north-number-withheld-east-street-in-provo"
+ },
+ {
+  "id": "26923_1795499690_uezwxvlh-patient-very-sleepy-but-conscious-at-provo-residence",
+  "ts": 1795499690,
+  "title": "Patient very sleepy but conscious at Provo residence",
+  "address": "W 1530 N, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795499690_uezwxvlh-patient-very-sleepy-but-conscious-at-provo-residence"
+ },
+ {
+  "id": "26923_1795498435_mrwswaoe-officer-checks-silver-kia-rio-in-parking-lot",
+  "ts": 1795498435,
+  "title": "Officer checks silver Kia Rio in parking lot",
+  "address": "N 500 W b, Provo, UT 84604",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795498435_mrwswaoe-officer-checks-silver-kia-rio-in-parking-lot"
+ },
+ {
   "id": "26923_1795497940_khepoerm-medical-call-near-south-sky-airport-pier-provo",
   "ts": 1795497940,
   "title": "Medical call near South Sky Airport Pier, Provo",
   "address": "S St, Provo, UT 84606",
   "category": "Medical Emergency",
   "link": "https://www.crimeradar.us/provo-ut/26923_1795497940_khepoerm-medical-call-near-south-sky-airport-pier-provo"
+ },
+ {
+  "id": "26923_1795497940_khepoerm-medical-call-on-s-sky-way-provo",
+  "ts": 1795497940,
+  "title": "Medical call on S Sky Way, Provo",
+  "address": "Sky Wy, Provo, UT 84601",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795497940_khepoerm-medical-call-on-s-sky-way-provo"
  },
  {
   "id": "26923_1795497589_tfolfefi-repeated-alarm-activations-reported-at-home",
@@ -206,117 +318,5 @@
   "address": "N Ivy Ln, Provo, UT 84604",
   "category": "Medical Emergency",
   "link": "https://www.crimeradar.us/provo-ut/12042-6206_1795464698_joaqvgkh-woman-bleeding-but-breathing-normally-in-provo-incident"
- },
- {
-  "id": "26923_1795464652_aqvdckfy-69-year-old-female-falls-and-needs-lift-assist",
-  "ts": 1795464652,
-  "title": "69-year-old female falls and needs lift assist",
-  "address": "S 230 E, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795464652_aqvdckfy-69-year-old-female-falls-and-needs-lift-assist"
- },
- {
-  "id": "12042-6206_1795464392_hqshalxx-traffic-stop-on-south-500-west-in-provo",
-  "ts": 1795464392,
-  "title": "Traffic stop on South 500 West in Provo",
-  "address": "S 500 W, Provo, UT 84601",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6206_1795464392_hqshalxx-traffic-stop-on-south-500-west-in-provo"
- },
- {
-  "id": "12042-6206_1795464071_aezyqbwg-possible-domestic-dispute-with-children-in-home",
-  "ts": 1795464071,
-  "title": "Possible domestic dispute with children in home",
-  "address": "S Tri Terra Wy, Provo, UT 84601",
-  "category": "Domestic Dispute",
-  "link": "https://www.crimeradar.us/provo-ut/12042-6206_1795464071_aezyqbwg-possible-domestic-dispute-with-children-in-home"
- },
- {
-  "id": "26923_1795463399_abmtiyrh-traffic-stop-on-gray-toyota-at-parkway-and-state",
-  "ts": 1795463399,
-  "title": "Traffic stop on gray Toyota at Parkway and State",
-  "address": "UT-265 & State St, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795463399_abmtiyrh-traffic-stop-on-gray-toyota-at-parkway-and-state"
- },
- {
-  "id": "12042-6210_1795463127_enasmxze-teens-reportedly-smoking-marijuana-at-church-lot",
-  "ts": 1795463127,
-  "title": "Teens reportedly smoking marijuana at church lot",
-  "address": "N Timberwolf Trl, Orem, UT 84057",
-  "category": "Substance Use",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795463127_enasmxze-teens-reportedly-smoking-marijuana-at-church-lot"
- },
- {
-  "id": "26923_1795463025_asayvotn-teenagers-reported-smoking-marijuana-in-parking-lot",
-  "ts": 1795463025,
-  "title": "Teenagers reported smoking marijuana in parking lot",
-  "address": "N Timberwolf Trl, Orem, UT 84057",
-  "category": "Substance Use",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795463025_asayvotn-teenagers-reported-smoking-marijuana-in-parking-lot"
- },
- {
-  "id": "12042-6210_1795462832_aoynzcok-abandoned-car-reported-at-orem-tech-center",
-  "ts": 1795462832,
-  "title": "Abandoned car reported at Orem Tech Center",
-  "address": "N Geneva Rd, Orem, UT 84057",
-  "category": "Suspicious Activity",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795462832_aoynzcok-abandoned-car-reported-at-orem-tech-center"
- },
- {
-  "id": "12042-6210_1795457367_cpggnwlc-two-people-run-over-by-tractor-at-us-synthetic",
-  "ts": 1795457367,
-  "title": "Two people run over by tractor at US Synthetic",
-  "address": "1600 W, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795457367_cpggnwlc-two-people-run-over-by-tractor-at-us-synthetic"
- },
- {
-  "id": "12042-6210_1795452864_ihtjwggi-semi-truck-parked-in-middle-lane-on-north-state",
-  "ts": 1795452864,
-  "title": "Semi truck parked in middle lane on North State",
-  "address": "N State St, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795452864_ihtjwggi-semi-truck-parked-in-middle-lane-on-north-state"
- },
- {
-  "id": "26923_1795422383_mhwvrmfu-32-year-old-male-shaking-and-unconscious-in-provo",
-  "ts": 1795422383,
-  "title": "32-year-old male shaking and unconscious in Provo",
-  "address": "Mountain Vista Pkwy, Provo, UT 84606",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795422383_mhwvrmfu-32-year-old-male-shaking-and-unconscious-in-provo"
- },
- {
-  "id": "26923_1795418830_owpcjnwg-possible-overdose-woman-in-and-out-of-consciousness-near-south-state-st-in-provo",
-  "ts": 1795418830,
-  "title": "Possible overdose: woman in and out of consciousness near South State St in Provo",
-  "address": "S State St, Provo, UT 84606",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795418830_owpcjnwg-possible-overdose-woman-in-and-out-of-consciousness-near-south-state-st-in-provo"
- },
- {
-  "id": "26923_1795415349_kbtopmoc-male-patient-reports-foot-pain-near-orem",
-  "ts": 1795415349,
-  "title": "Male patient reports foot pain near Orem",
-  "address": "W 1435 S, Orem, UT 84058",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795415349_kbtopmoc-male-patient-reports-foot-pain-near-orem"
- },
- {
-  "id": "26923_1795410554_awlvegzf-commercial-alarm-at-auto-parts-store",
-  "ts": 1795410554,
-  "title": "Commercial alarm at auto parts store",
-  "address": "N State St, Orem, UT 84057",
-  "category": "Break-In",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795410554_awlvegzf-commercial-alarm-at-auto-parts-store"
- },
- {
-  "id": "26923_1795410160_kddzgscj-painful-immobility-in-cancer-patient-near-orem",
-  "ts": 1795410160,
-  "title": "Painful immobility in cancer patient near Orem",
-  "address": "N 600 E St, Orem, UT 84097",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795410160_kddzgscj-painful-immobility-in-cancer-patient-near-orem"
  }
 ]
