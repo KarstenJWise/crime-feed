@@ -1,5 +1,85 @@
 [
  {
+  "id": "12042-1838_1795632201_jgoxazdc-traffic-stop-on-white-nissan-altima-in-provo",
+  "ts": 1795632201,
+  "title": "Traffic stop on white Nissan Altima in Provo",
+  "address": "California Ave, Provo, UT 84606",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/provo-ut/12042-1838_1795632201_jgoxazdc-traffic-stop-on-white-nissan-altima-in-provo"
+ },
+ {
+  "id": "12042-6216_1795631724_ormauyth-heavy-smoke-reported-in-provo-apartment-laundry-room",
+  "ts": 1795631724,
+  "title": "Heavy smoke reported in Provo apartment laundry room",
+  "address": "N 400 E building a, Provo, UT 84606",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6216_1795631724_ormauyth-heavy-smoke-reported-in-provo-apartment-laundry-room"
+ },
+ {
+  "id": "12042-6215_1795631669_cnukxzzc-laundry-room-fire-in-provo-commercial-building",
+  "ts": 1795631669,
+  "title": "Laundry room fire in Provo commercial building",
+  "address": "N 400 E, Provo, UT 84606",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6215_1795631669_cnukxzzc-laundry-room-fire-in-provo-commercial-building"
+ },
+ {
+  "id": "12042-6267_1795620242_khvwgqrf-abandoned-car-parked-for-weeks-in-front-of-home",
+  "ts": 1795620242,
+  "title": "Abandoned car parked for weeks in front of home",
+  "address": "S 1030 W, Provo, UT 84601",
+  "category": "Suspicious Activity",
+  "link": "https://www.crimeradar.us/provo-ut/12042-6267_1795620242_khvwgqrf-abandoned-car-parked-for-weeks-in-front-of-home"
+ },
+ {
+  "id": "26923_1795619025_pxulysha-false-fire-alarm-during-mall-system-testing",
+  "ts": 1795619025,
+  "title": "False fire alarm during mall system testing",
+  "address": "E University Pkwy, Orem, UT 84097",
+  "category": "Fire",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795619025_pxulysha-false-fire-alarm-during-mall-system-testing"
+ },
+ {
+  "id": "26923_1795618642_myqrudhz-traffic-stop-on-trailer-and-dealer-vehicles",
+  "ts": 1795618642,
+  "title": "Traffic stop on trailer and dealer vehicles",
+  "address": "N State St, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795618642_myqrudhz-traffic-stop-on-trailer-and-dealer-vehicles"
+ },
+ {
+  "id": "26923_1795617841_ayujytef-traffic-stop-at-500-north-and-state-street",
+  "ts": 1795617841,
+  "title": "Traffic stop at 500 North and State Street",
+  "address": "W 500 N & State St, Orem, UT 84057",
+  "category": "Traffic",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795617841_ayujytef-traffic-stop-at-500-north-and-state-street"
+ },
+ {
+  "id": "26923_1795617530_gftfomcj-welfare-check-after-yelling-heard-about-a-child",
+  "ts": 1795617530,
+  "title": "Welfare check after yelling heard about a child",
+  "address": "S 1110 W, Orem, UT 84058",
+  "category": "Domestic Dispute",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795617530_gftfomcj-welfare-check-after-yelling-heard-about-a-child"
+ },
+ {
+  "id": "26923_1795610273_atlftojd-burglary-alarm-at-apollo-burger-on-state-street",
+  "ts": 1795610273,
+  "title": "Burglary alarm at Apollo Burger on State Street",
+  "address": "N State St, Orem, UT 84057",
+  "category": "Break-In",
+  "link": "https://www.crimeradar.us/orem-ut/26923_1795610273_atlftojd-burglary-alarm-at-apollo-burger-on-state-street"
+ },
+ {
+  "id": "26923_1795607552_wvlvsnmw-medical-call-dispatched-near-east-center-street-in-provo",
+  "ts": 1795607552,
+  "title": "Medical call dispatched near East Center Street in Provo",
+  "address": "E Center St, Provo, UT 84606",
+  "category": "Medical Emergency",
+  "link": "https://www.crimeradar.us/provo-ut/26923_1795607552_wvlvsnmw-medical-call-dispatched-near-east-center-street-in-provo"
+ },
+ {
   "id": "12042-6210_1795589867_jrdnddkz-officers-check-report-of-possible-shotgun-blast-near-costco-parking-lot",
   "ts": 1795589867,
   "title": "Officers check report of possible shotgun blast near Costco parking lot",
@@ -238,85 +318,5 @@
   "address": "E 570 N, Orem, UT 84097",
   "category": "Property Damage",
   "link": "https://www.crimeradar.us/orem-ut/26923_1795542567_dtwsjxly-person-reported-tampering-with-water-pipe-at-trailer"
- },
- {
-  "id": "12042-1838_1795541520_ovuilkzu-blue-sedan-blocking-left-turn-lanes-on-off-ramp",
-  "ts": 1795541520,
-  "title": "Blue sedan blocking left-turn lanes on off-ramp",
-  "address": "I 15 and West Canyon Parkway, Orem, Utah 84057, United States",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-1838_1795541520_ovuilkzu-blue-sedan-blocking-left-turn-lanes-on-off-ramp"
- },
- {
-  "id": "12042-6210_1795537219_agtpkxpx-minor-traffic-crash-on-south-mountain-way-drive",
-  "ts": 1795537219,
-  "title": "Minor traffic crash on South Mountain Way Drive",
-  "address": "S Mountain Way Dr, Orem, UT 84058",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795537219_agtpkxpx-minor-traffic-crash-on-south-mountain-way-drive"
- },
- {
-  "id": "12042-6210_1795533108_fzrbhqtm-traffic-stop-at-800-north-and-100-west-in-orem",
-  "ts": 1795533108,
-  "title": "Traffic stop at 800 North and 100 West in Orem",
-  "address": "N 100 W & W 800 N, Orem, UT 84057",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795533108_fzrbhqtm-traffic-stop-at-800-north-and-100-west-in-orem"
- },
- {
-  "id": "12042-6210_1795533093_qulxwesy-loose-dog-secured-near-elementary-school",
-  "ts": 1795533093,
-  "title": "Loose dog secured near elementary school",
-  "address": "Cougar Dr, Orem, UT 84097",
-  "category": "Other Non-Crime Event",
-  "link": "https://www.crimeradar.us/orem-ut/12042-6210_1795533093_qulxwesy-loose-dog-secured-near-elementary-school"
- },
- {
-  "id": "26923_1795518684_zjutmobg-female-dialysis-patient-having-breathing-difficulty-in-provo",
-  "ts": 1795518684,
-  "title": "Female dialysis patient having breathing difficulty in Provo",
-  "address": "E 600 N, Provo, UT 84606",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795518684_zjutmobg-female-dialysis-patient-having-breathing-difficulty-in-provo"
- },
- {
-  "id": "26923_1795514089_cwtcodxm-hit-and-run-crash-at-center-street-and-800-east",
-  "ts": 1795514089,
-  "title": "Hit-and-run crash at Center Street and 800 East",
-  "address": "Center St & S 800 E, Orem, UT 84097",
-  "category": "Traffic",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795514089_cwtcodxm-hit-and-run-crash-at-center-street-and-800-east"
- },
- {
-  "id": "26923_1795510684_dklklfwh-officer-checks-motion-alarm-at-campus-building",
-  "ts": 1795510684,
-  "title": "Officer checks motion alarm at campus building",
-  "address": "Field House Dr, Provo, UT 84604",
-  "category": "Break-In",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795510684_dklklfwh-officer-checks-motion-alarm-at-campus-building"
- },
- {
-  "id": "26923_1795507866_nlzmntqo-medical-response-reported-at-mcdonald-s-on-south-university-avenue",
-  "ts": 1795507866,
-  "title": "Medical response reported at McDonald's on South University Avenue",
-  "address": "S University Ave, Provo, UT 84601",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/provo-ut/26923_1795507866_nlzmntqo-medical-response-reported-at-mcdonald-s-on-south-university-avenue"
- },
- {
-  "id": "26923_1795506477_gfcojzkd-medical-call-at-orem-junior-high-school",
-  "ts": 1795506477,
-  "title": "Medical call at Orem junior high school",
-  "address": "West Jaguar Ave, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795506477_gfcojzkd-medical-call-at-orem-junior-high-school"
- },
- {
-  "id": "26923_1795506170_vezcjoqv-contact-with-crisis-negotiators-planned-at-orem-junior-high-command-post",
-  "ts": 1795506170,
-  "title": "Contact with crisis negotiators planned at Orem Junior High command post",
-  "address": "West Jaguar Ave, Orem, UT 84057",
-  "category": "Medical Emergency",
-  "link": "https://www.crimeradar.us/orem-ut/26923_1795506170_vezcjoqv-contact-with-crisis-negotiators-planned-at-orem-junior-high-command-post"
  }
 ]
